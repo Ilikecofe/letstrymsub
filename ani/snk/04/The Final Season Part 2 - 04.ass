@@ -1,0 +1,296 @@
+﻿[Script Info]
+Title: [Erai-raws] Español (América Latina)
+ScaledBorderAndShadow: yes
+
+ScriptType: v4.00+
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0.66,0.33,2,0010,0010,0018,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,0.66,0.33,2,0010,0010,0018,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,0.66,0.33,8,0010,0010,0018,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,0.66,0.33,8,0010,0010,0018,1
+Style: Gen_Nota,Trebuchet MS,20,&H00C2C2C2,&H000000FF,&H00262626,&H00505050,-1,0,0,0,100,100,0,0,1,0,0,8,0010,0010,0018,1
+Style: Cart_A_Tre,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0.66,0.33,8,0021,0021,0020,1
+Style: Cart_C_Tre,Trebuchet MS,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,0.66,0.33,8,0021,0021,0020,1
+Style: Cart_A_Ari,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00303030,-1,0,0,0,100,100,0,0,1,0.66,0.33,8,0021,0021,0020,1
+Style: Cart_TitleSeries,Trebuchet MS,30,&H00000000,&H000000FF,&H00FFFFFF,&H00AC4F8A,-1,0,0,0,100,100,0,0,1,2,0,2,0010,0031,0010,1
+Style: Cart_C_Ari,Arial,24,&H00000000,&H000000FF,&H00FFFFFF,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_B_Tre,Trebuchet MS,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0021,0021,0020,1
+Style: Cart_A_Tim,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00303030,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0021,0021,0020,1
+Style: Cart_B_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0021,0021,0020,1
+Style: Cart_C_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0021,0021,0020,1
+Style: Edit_Margin,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H0063110A,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0010,1
+Style: Cart_TitleEp,Times New Roman,22,&H00FFFFFF,&H000000FF,&H00000000,&H00313131,0,0,0,0,100,100,0,0,1,1,0,8,0020,0020,0020,1
+Style: Cart_TitleSerie,Arial,18,&H00612CD4,&H000000FF,&H00FFFFFF,&H00753228,-1,0,0,0,100,100,0,0,1,2,0,2,0010,0010,0070,1
+
+Style: snk4p2-op1,Clearface SSi,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,10,10,34,1
+Style: snk4p2-ed1-rom,Day Roman,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,10,10,34,1
+Style: snk4p2-ed1-tl,Day Roman,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,10,10,40,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:34.65,0:00:38.13,Gen_Main,Eren,0,0,0,,Son... los recuerdos de papá...
+Dialogue: 0,0:00:38.13,0:00:40.85,Gen_Main,Zeke,0,0,0,,Y se le ve muy feliz.
+Dialogue: 0,0:00:40.85,0:00:46.94,Gen_Main,Zeke,0,0,0,,Especialmente para alguien que mandó a sus aliados y a su familia {i1}anterior{i0} al infierno.
+Dialogue: 0,0:00:48.16,0:00:50.02,Gen_Main,Eren,0,0,0,,¿Qué esperas lograr?
+Dialogue: 0,0:00:50.02,0:00:52.66,Gen_Main,Zeke,0,0,0,,Te los mostraré, para que entiendas exactamente.
+Dialogue: 0,0:00:52.66,0:00:56.41,Gen_Main,Zeke,0,0,0,,Cómo Grisha Jaeger\Nle lavó el cerebro a su hijo
+Dialogue: 0,0:00:56.41,0:00:58.95,Gen_Main,Zeke,0,0,0,,y le inculcó\Nun nacionalismo de odio.
+Dialogue: 0,0:00:59.82,0:01:02.95,Gen_Main,Zeke,0,0,0,,Te lo mostraré tantas veces como sea necesario.
+Dialogue: 0,0:01:13.16,0:01:15.38,Gen_Main,Zeke,0,0,0,,Bien por ti, Grisha.
+Dialogue: 0,0:01:15.38,0:01:18.64,Gen_Main,Zeke,0,0,0,,Puedes olvidarte de\Ntu primera familia, aquí
+Dialogue: 0,0:01:18.64,0:01:22.97,Gen_Main,Zeke,0,0,0,,donde nadie te culpará\Npor vivir una vida feliz.
+Dialogue: 0,0:01:24.40,0:01:28.95,Gen_Main,Zeke,0,0,0,,Incluso puedes olvidar que alguna vez tuviste ese primer hijo.
+Dialogue: 0,0:01:31.75,0:01:32.62,Gen_Main,Zeke,0,0,0,,Vamos.
+Dialogue: 0,0:01:50.30,0:01:51.50,Gen_Main,Zeke,0,0,0,,Siguiente.
+Dialogue: 0,0:01:55.18,0:01:58.51,Gen_Main,Zeke,0,0,0,,Mira, Eren.  Estas son sus verdaderas intenciones.
+Dialogue: 0,0:01:59.23,0:02:04.02,Gen_Main,Zeke,0,0,0,,Él está usando su posición como médico para acercarce a los que están en el poder.
+Dialogue: 0,0:02:04.32,0:02:08.86,Gen_Main,Zeke,0,0,0,,Todo para poder cazar al rey de los muros y robar el Titán Fundador.
+Dialogue: 0,0:02:10.06,0:02:14.19,Gen_Main,Zeke,0,0,0,,Por supuesto, si falla, su esposa y su hijo caerán con él.
+Dialogue: 0,0:02:14.75,0:02:17.01,Gen_Main,Zeke,0,0,0,,Pero sigue tomando ese riesgo de todos modos.
+Dialogue: 0,0:02:17.63,0:02:19.25,Gen_Main,Zeke,0,0,0,,¿Sabes por qué?
+Dialogue: 0,0:02:20.38,0:02:23.79,Gen_Main,Eren,0,0,0,,Porque es escoria y haría cualquier cosa\Npara restaurar a Eldia.
+Dialogue: 0,0:02:23.79,0:02:27.27,Gen_Main,Eren,0,0,0,,Incluso arrojar a su esposa e hijo a un vertedero.
+Dialogue: 0,0:02:28.22,0:02:29.79,Gen_Main,Eren,0,0,0,,¿Cómo podría él?
+Dialogue: 0,0:02:30.50,0:02:32.21,Gen_Main,Eren,0,0,0,,Yo estaba equivocado.
+Dialogue: 0,0:02:33.01,0:02:34.99,Gen_Main,Eren,0,0,0,,Nunca debí haber nacido.
+Dialogue: 0,0:02:36.24,0:02:37.80,Gen_Main,Eren,0,0,0,,Ves, el lavado de cerebro se ha ido.
+Dialogue: 0,0:02:41.42,0:02:43.26,Gen_Main,Zeke,0,0,0,,Tenemos todo el tiempo del mundo.
+Dialogue: 0,0:02:43.93,0:02:45.34,Gen_Main,Zeke,0,0,0,,No hay prisa.
+Dialogue: 0,0:03:13.04,0:03:14.04,Gen_Main,Eren,0,0,0,,No...
+Dialogue: 0,0:03:14.72,0:03:17.12,Gen_Main,Eren,0,0,0,,¿Lo encontró tan pronto?
+Dialogue: 0,0:03:17.90,0:03:19.22,Gen_Main,Zeke,0,0,0,,¿Qué es este lugar?
+Dialogue: 0,0:03:20.45,0:03:22.33,Gen_Main,Eren,0,0,0,,El escondite del rey.
+Dialogue: 0,0:03:23.21,0:03:24.84,Gen_Main,Zeke,0,0,0,,Eso no puede ser correcto.
+Dialogue: 0,0:03:25.71,0:03:30.23,Gen_Main,Zeke,0,0,0,,Grisha no robó el Fundador hasta el día en que se destruyó el muro.
+Dialogue: 0,0:03:31.00,0:03:32.98,Gen_Main,Zeke,0,0,0,,Aún faltan años para eso.
+Dialogue: 0,0:04:09.76,0:04:11.18,Gen_Main,Zeke,0,0,0,,Ahora veo.
+Dialogue: 0,0:04:11.70,0:04:15.08,Gen_Main,Zeke,0,0,0,,Parece que amaba a su segundo hijo.
+Dialogue: 0,0:04:15.08,0:04:17.73,Gen_Main,Zeke,0,0,0,,lo suficiente como para renunciar a la restauración de Eldia.
+Dialogue: 0,0:04:19.96,0:04:22.18,Gen_Main,Zeke,0,0,0,,Eso no se parece en nada a cómo me trató.
+Dialogue: 0,0:04:22.74,0:04:26.41,Gen_Main,Zeke,0,0,0,,Al menos aprendió de sus errores.
+Dialogue: 0,0:04:27.16,0:04:31.41,Gen_Main,Zeke,0,0,0,,Pero mi punto se mantiene.  Estás haciendo\Nexactamente lo que él quiere que hagas.
+Dialogue: 0,0:04:32.40,0:04:34.75,Gen_Main,Zeke,0,0,0,,Ya no eres tu verdadero yo.
+Dialogue: 0,0:04:35.46,0:04:37.42,Gen_Main,Zeke,0,0,0,,Con el tiempo, lo verás.
+Dialogue: 0,0:04:45.01,0:04:45.89,Gen_Main,Grisha,0,0,0,,Lo siento...
+Dialogue: 0,0:04:47.48,0:04:50.10,Gen_Main,Grisha,0,0,0,,Lo siento, Zeke.
+Dialogue: 0,0:04:53.22,0:04:54.52,Gen_Main,Grisha,0,0,0,,Zeke...
+Dialogue: 0,0:04:56.81,0:04:58.44,Gen_Main,Grisha,0,0,0,,¿Zeke?
+Dialogue: 0,0:04:59.63,0:05:01.69,Gen_Main,Grisha,0,0,0,,¿Estás ahí?
+Dialogue: 0,0:05:15.59,0:05:16.46,Gen_Main,Grisha,0,0,0,,Que estoy pensando.
+Dialogue: 0,0:05:17.66,0:05:21.04,Gen_Main,Grisha,0,0,0,,Zeke no es un hombre barbudo.
+Dialogue: 0,0:05:22.08,0:05:23.66,Gen_Main,Grisha,0,0,0,,Solo estoy viendo cosas.
+Dialogue: 0,0:05:25.26,0:05:26.58,Gen_Main,Zeke,0,0,0,,¿Qué...?
+Dialogue: 0,0:05:26.58,0:05:27.97,Gen_Main,Eren,0,0,0,,Siguiente.
+Dialogue: 0,0:05:28.59,0:05:30.22,Gen_Main,Eren,0,0,0,,Pasemos al siguiente recuerdo,
+Dialogue: 0,0:05:31.02,0:05:31.95,Gen_Main,Eren,0,0,0,,Zeke.
+
+Dialogue: 0,0:07:02.94,0:07:07.94,Cart_TitleEp,,0000,0000,0000,,{\blur2\pos(320,130)}Recuerdos del futuro
+
+Dialogue: 79,0:07:09.94,0:07:12.20,Gen_Main,Zeke,0,0,0,,Tienes casi nueve años.
+Dialogue: 79,0:07:14.30,0:07:18.16,Gen_Main,Zeke,0,0,0,,Grisha te amó y te crió para que fueras libre.
+Dialogue: 79,0:07:19.10,0:07:22.60,Gen_Main,Zeke,0,0,0,,Y tu afirmas que no te estaba lavando el cerebro.
+Dialogue: 79,0:07:23.08,0:07:25.14,Gen_Main,Eren,0,0,0,,Te dije que esto sería inútil.
+Dialogue: 79,0:07:25.63,0:07:28.83,Gen_Main,Eren,0,0,0,,No necesitábamos caminar a través de años de recuerdos.
+Dialogue: 79,0:07:30.03,0:07:33.93,Gen_Main,Zeke,0,0,0,,Entonces, ¿por qué me traicionaste?
+Dialogue: 79,0:07:35.01,0:07:39.59,Gen_Main,Zeke,0,0,0,,Tu padre te obligó a heredar a\Nsus titanes sin explicarte nada,
+Dialogue: 79,0:07:39.59,0:07:42.50,Gen_Main,Zeke,0,0,0,,y desde entonces\Nhas luchado según sus designios.
+Dialogue: 79,0:07:45.68,0:07:50.01,Gen_Main,Zeke,0,0,0,,Eren, ¿por qué te niegas a poner fin a este conflicto?
+Dialogue: 79,0:07:50.01,0:07:53.32,Gen_Main,Zeke,0,0,0,,¿Qué querías hacer con el poder del Fundador?
+Dialogue: 79,0:07:55.53,0:07:56.56,Gen_Main,Eren,0,0,0,,Yo...
+Dialogue: 79,0:07:58.28,0:07:59.64,Gen_Main,Eren,0,0,0,,Desde el momento en que nací,
+Dialogue: 79,0:08:02.51,0:08:04.00,Gen_Main,Eren,0,0,0,,todo lo que he hecho es ser yo mismo.
+Dialogue: 79,0:08:09.49,0:08:12.64,Gen_Main,Eren,0,0,0,,Supongo que pensaste que podría ser como tú,
+Dialogue: 79,0:08:13.14,0:08:14.76,Gen_Main,Eren,0,0,0,,pero estabas equivocado.
+Dialogue: 79,0:08:15.73,0:08:18.51,Gen_Main,Eren,0,0,0,,Si alguien trata de robar mi libertad,
+Dialogue: 79,0:08:19.23,0:08:22.02,Gen_Main,Eren,0,0,0,,No dudaría en robar la de ellos primero.
+Dialogue: 79,0:08:25.51,0:08:28.04,Gen_Main,Eren,0,0,0,,Papá no me hizo así.
+Dialogue: 79,0:08:29.49,0:08:31.87,Gen_Main,Eren,0,0,0,,He sido así desde que nací.
+Dialogue: 79,0:08:33.00,0:08:34.64,Gen_Main,Zeke,0,0,0,,Toda tu vida, eh.
+Dialogue: 79,0:08:35.33,0:08:39.09,Gen_Main,Eren,0,0,0,,El hermano miserable que buscas no existe.
+Dialogue: 79,0:08:40.41,0:08:45.04,Gen_Main,Eren,0,0,0,,Ni tampoco alguien que pueda compartir tu dolor.
+Dialogue: 79,0:08:46.01,0:08:52.07,Gen_Main,Eren,0,0,0,,Todo lo que veo aquí es un hombre\Nque no puede aceptarse a sí mismo
+Dialogue: 79,0:08:52.07,0:08:55.30,Gen_Main,Eren,0,0,0,,sin rechazar la restauración de\NEldia por la que trabajó su padre.
+Dialogue: 79,0:08:56.59,0:09:01.52,Gen_Main,Eren,0,0,0,,Un hombre patético que sigue siendo prisionero de su padre muerto incluso ahora.
+Dialogue: 79,0:09:03.14,0:09:04.55,Gen_Main,Zeke,0,0,0,,Tal vez sea así.
+Dialogue: 79,0:09:04.97,0:09:07.77,Gen_Main,Zeke,0,0,0,,Pero ese hombre le está muy agradecido.
+Dialogue: 79,0:09:08.24,0:09:11.77,Gen_Main,Zeke,0,0,0,,Las acciones de su padre le abrieron los ojos,
+Dialogue: 79,0:09:12.27,0:09:15.28,Gen_Main,Zeke,0,0,0,,y eso es lo que salvará al mundo de la amenaza de Eldia.
+Dialogue: 79,0:09:16.19,0:09:20.28,Gen_Main,Zeke,0,0,0,,En cierto modo, fue nuestro padre quien salvó al mundo.
+Dialogue: 79,0:09:21.47,0:09:23.85,Gen_Main,Zeke,0,0,0,,Irónico, ¿no crees?
+Dialogue: 79,0:09:25.54,0:09:26.54,Gen_Main,Zeke,0,0,0,,¿Eren?
+Dialogue: 79,0:09:31.67,0:09:33.02,Gen_Main,Mikasa,0,0,0,,Qué cálida...
+Dialogue: 79,0:09:35.32,0:09:40.30,Gen_Main,Zeke,0,0,0,,Lo entiendes, ¿verdad, Eren?  \NAhora yo controlo el poder del fundador.
+Dialogue: 79,0:09:41.10,0:09:44.36,Gen_Main,Zeke,0,0,0,,Puedo completar el plan de eutanasia en cualquier momento.
+Dialogue: 79,0:09:45.04,0:09:49.44,Gen_Main,Zeke,0,0,0,,Pero no pienso abandonarte.
+Dialogue: 79,0:09:50.80,0:09:54.23,Gen_Main,Zeke,0,0,0,,Al igual que el señor Ksaver nunca me abandonó.
+Dialogue: 79,0:09:55.86,0:09:57.82,Gen_Main,Zeke,0,0,0,,Antes de salvar el mundo,
+Dialogue: 79,0:09:58.99,0:10:01.76,Gen_Main,Zeke,0,0,0,,Quiero salvar a mi único hermano.
+Dialogue: 79,0:10:07.94,0:10:13.59,Gen_Main,Zeke,0,0,0,,"La humanidad no ha perecido", eh.
+Dialogue: 79,0:10:14.72,0:10:18.09,Gen_Main,Zeke,0,0,0,,Una última voluntad y testamento bastante grandiosos.
+Dialogue: 79,0:10:41.11,0:10:42.27,Gen_Main,Shota Eren,0,0,0,,Estamos en casa.
+Dialogue: 79,0:10:44.08,0:10:45.41,Gen_Main,Carla,0,0,0,,Bienvenidos.
+Dialogue: 79,0:10:48.72,0:10:52.27,Gen_Main,Carla,0,0,0,,Hoy trabajaste duro, ¿eh, Eren?
+Dialogue: 79,0:10:57.34,0:10:58.73,Gen_Main,Shota Eren,0,0,0,,¿Qué haces?
+Dialogue: 79,0:10:58.73,0:11:02.01,Gen_Main,Carla,0,0,0,,Tu oreja se puso roja, una señal de que mientes.
+Dialogue: 79,0:11:02.48,0:11:04.70,Gen_Main,Carla,0,0,0,,Mikasa te ayudó, ¿verdad?
+Dialogue: 79,0:11:06.63,0:11:09.27,Gen_Main,Shota Eren,0,0,0,,¿Eh?  ¿Adónde vas, papá?
+Dialogue: 79,0:11:09.71,0:11:10.79,Gen_Main,Shota Eren,0,0,0,,¿Trabajo?
+Dialogue: 79,0:11:10.79,0:11:13.34,Gen_Main,Grisha,0,0,0,,Sí.  Tengo un paciente en el interior.
+Dialogue: 79,0:11:13.34,0:11:14.99,Gen_Main,Grisha,0,0,0,,Volveré en dos o tres días.
+Dialogue: 79,0:11:18.41,0:11:21.28,Gen_Main,Mikasa,0,0,0,,Eren dice que quiere unirse a\Nla Legión de Reconocimiento.
+Dialogue: 79,0:11:21.57,0:11:23.38,Gen_Main,Shota Eren,0,0,0,,Mikasa!  ¡Era un secreto!
+Dialogue: 79,0:11:23.38,0:11:26.80,Gen_Main,Carla,0,0,0,,Eren!  ¿En qué estás pensando?
+Dialogue: 79,0:11:26.80,0:11:30.15,Gen_Main,Carla,0,0,0,,¿Sabes cuánta gente murió\Nfuera de las murallas?
+Dialogue: 79,0:11:30.15,0:11:31.36,Gen_Main,Shota Eren,0,0,0,,¡Por supuesto que sí!
+Dialogue: 79,0:11:31.36,0:11:32.17,Gen_Main,Carla,0,0,0,,¿Entonces por qué?
+Dialogue: 79,0:11:33.55,0:11:34.35,Gen_Main,Grisha,0,0,0,,Eren.
+Dialogue: 79,0:11:36.03,0:11:38.17,Gen_Main,Grisha,0,0,0,,¿Por qué quieres salir?
+Dialogue: 79,0:11:39.86,0:11:43.55,Gen_Main,Shota Eren,0,0,0,,¡Quiero saber cómo es el mundo exterior!
+Dialogue: 79,0:11:44.43,0:11:48.29,Gen_Main,Shota Eren,0,0,0,,No quiero pasar toda mi vida\Natrapado aquí, sin saber nada.
+Dialogue: 79,0:11:48.74,0:11:55.34,Gen_Main,Shota Eren,0,0,0,,Además, si nadie continúa su trabajo,\N¡toda esa gente murió para nada!
+Dialogue: 79,0:11:57.79,0:11:58.90,Gen_Main,Grisha,0,0,0,,Ya veo.
+Dialogue: 79,0:12:00.93,0:12:03.65,Gen_Main,Grisha,0,0,0,,Necesito ir.  No puedo perder mi barco.
+Dialogue: 79,0:12:03.65,0:12:06.49,Gen_Main,Carla,0,0,0,,¡Espera, cariño! \N ¡Tienes que hablar con Eren!
+Dialogue: 79,0:12:06.92,0:12:13.05,Gen_Main,Grisha,0,0,0,,Carla, no puedes reprimir la curiosidad humana\N solo con palabras.
+Dialogue: 79,0:12:14.74,0:12:15.53,Gen_Main,Grisha,0,0,0,,Eren.
+Dialogue: 79,0:12:17.10,0:12:21.49,Gen_Main,Grisha,0,0,0,,Cuando regrese, te mostraré el sótano\N que siempre mantenía cerrado.
+Dialogue: 79,0:12:22.55,0:12:23.92,Gen_Main,Shota Eren,0,0,0,,¿En serio?
+Dialogue: 79,0:12:28.42,0:12:30.43,Gen_Main,Shota Eren,0,0,0,,¡Buena suerte con el trabajo!
+Dialogue: 79,0:12:48.14,0:12:52.33,Gen_Main,Grisha,0,0,0,,¡Soy un eldiano de fuera de los muros!
+Dialogue: 79,0:12:53.20,0:12:55.07,Gen_Main,Grisha,0,0,0,,Soy como ustedes.
+Dialogue: 79,0:12:55.95,0:12:57.96,Gen_Main,Grisha,0,0,0,,¡Soy del pueblo de Ymir!
+
+Dialogue: 0,0:12:57.96,0:13:02.96,Cart_A_Tre,,0000,0000,0000,,{\blur2\bord3\shad0\pos(39,211)}\h\h\h\h\h\h\h\h\h{\3c&H6A4F2A&}Información pública actualmente\N\N{\an4\bord2\blur2\fs16\c&HFFFFFF&\3c&H000000&\shad0\4c&H000000&}Coordenada\N\N{\fs12\b1}El lugar donde convergen todos los Caminos.\NAhí, el tiempo pasa en un instante a la vez que es eterno.{\b0}
+
+Dialogue: 79,0:13:03.92,0:13:05.54,Gen_Main,Grisha,0,0,0,,¡Rey de las murallas!
+Dialogue: 79,0:13:05.54,0:13:08.97,Gen_Main,Grisha,0,0,0,,¡Por favor, mata a los titanes que atacan\N nuestros muros!
+Dialogue: 79,0:13:09.50,0:13:11.52,Gen_Main,Grisha,0,0,0,,O mi esposa e hijos—
+Dialogue: 79,0:13:11.52,0:13:15.07,Gen_Main,Grisha,0,0,0,,¡Toda la gente de los muros\N será devorada!
+Dialogue: 79,0:13:28.74,0:13:30.90,Gen_Main,Frieda,0,0,0,,No debemos huir de nuestros pecados.
+Dialogue: 79,0:13:31.42,0:13:35.42,Gen_Main,Frieda,0,0,0,,Llegó el día\Nen el que castigarán al pueblo de Ymir.
+Dialogue: 79,0:13:37.24,0:13:41.09,Gen_Main,Frieda,0,0,0,,Los humanos son débiles\Nante tanto poder.
+Dialogue: 79,0:13:41.64,0:13:44.82,Gen_Main,Frieda,0,0,0,,Llegué a entender esto en la Gran Guerra de los Titanes.
+Dialogue: 79,0:13:45.76,0:13:50.56,Gen_Main,Frieda,0,0,0,,Alguien debe mantener el poder de \Nlos Titanes fuera del alcance de los humanos.
+Dialogue: 79,0:13:51.35,0:13:55.38,Gen_Main,Frieda,0,0,0,,Si el poder del Fundador pasa\Nuna vez más a manos de los débiles,
+Dialogue: 79,0:13:55.38,0:13:58.06,Gen_Main,Frieda,0,0,0,,el mundo volverá\Na ser un infierno.
+Dialogue: 79,0:13:59.00,0:14:03.30,Gen_Main,Frieda,0,0,0,,Para proteger al\Nmundo, debemos aceptar nuestros pecados
+Dialogue: 79,0:14:03.30,0:14:05.57,Gen_Main,Frieda,0,0,0,,y la ruina que los acompaña.
+Dialogue: 79,0:14:06.17,0:14:09.61,Gen_Main,Zeke,0,0,0,,Creo que me llevaría bien con ella.
+Dialogue: 79,0:14:09.61,0:14:13.55,Gen_Main,Zeke,0,0,0,,Pero Grisha está a punto de matarla a ella\N y a toda su familia.
+Dialogue: 79,0:14:14.07,0:14:17.70,Gen_Main,Zeke,0,0,0,,Me dijiste que habías visto este recuerdo antes.
+Dialogue: 79,0:14:17.70,0:14:20.34,Gen_Main,Zeke,0,0,0,,Y que nuestro padre te decepcionó.
+Dialogue: 79,0:14:20.98,0:14:21.84,Gen_Main,Zeke,0,0,0,,¿Ese era otro—?
+Dialogue: 79,0:14:23.55,0:14:27.84,Gen_Main,Grisha,0,0,0,,¡Mi casa está cerca\Nde la muralla que destruyeron!
+Dialogue: 79,0:14:28.46,0:14:31.39,Gen_Main,Grisha,0,0,0,,¡Mi esposa, mi hijo y mi hija viven allí!
+Dialogue: 79,0:14:31.79,0:14:36.69,Gen_Main,Grisha,0,0,0,,¡Dentro de las murallas nadie sabe\Nlo que hicieron nuestros antepasados!
+Dialogue: 79,0:14:36.69,0:14:40.11,Gen_Main,Grisha,0,0,0,,¡Porque tú les robaste los recuerdos!
+Dialogue: 79,0:14:40.36,0:14:43.62,Gen_Main,Grisha,0,0,0,,¡No pueden saber por qué los titanes\N se los están comiendo!
+Dialogue: 79,0:14:43.62,0:14:45.61,Gen_Main,Grisha,0,0,0,,¿Y llamas a eso expiación?
+Dialogue: 79,0:14:47.10,0:14:47.95,Gen_Main,Frieda,0,0,0,,No.
+Dialogue: 79,0:14:48.50,0:14:51.14,Gen_Main,Frieda,0,0,0,,Ningún arrepentimiento de\Nnuestra parte traerá de vuelta
+Dialogue: 79,0:14:51.14,0:14:55.69,Gen_Main,Frieda,0,0,0,,las innumerables vidas\Naplastadas por las manos de Eldia.
+Dialogue: 79,0:14:56.70,0:15:03.13,Gen_Main,Frieda,0,0,0,,Pero sí podemos evitar\Narrebatarle la vida a la gente de fuera.
+Dialogue: 79,0:15:04.67,0:15:09.63,Gen_Main,Frieda,0,0,0,,Mientras permanezcamos ignorantes\N y aceptemos la ira del mundo,
+Dialogue: 79,0:15:10.16,0:15:14.29,Gen_Main,Frieda,0,0,0,,nosotros, los eldianos, seremos los únicos que tendremos que morir.
+Dialogue: 79,0:15:17.49,0:15:20.71,Gen_Main,Frieda,0,0,0,,Es inútil que intentes convencerme.
+Dialogue: 79,0:15:21.20,0:15:26.59,Gen_Main,Frieda,0,0,0,,Y aunque me robaras\Nel titán fundador, tú no...
+Dialogue: 79,0:15:26.59,0:15:27.65,Gen_Main,Grisha,0,0,0,,Lo sé.
+Dialogue: 79,0:15:28.89,0:15:31.66,Gen_Main,Grisha,0,0,0,,Sé que no podré usar el poder del Fundador.
+Dialogue: 79,0:15:33.29,0:15:36.98,Gen_Main,Grisha,0,0,0,,Cada uno de los Nueve Titanes tiene un poder único,
+Dialogue: 79,0:15:37.66,0:15:40.92,Gen_Main,Grisha,0,0,0,,Mi titán de ataque también.
+Dialogue: 79,0:15:41.87,0:15:47.85,Gen_Main,Grisha,0,0,0,,Desde el principio de los tiempos, aquellos que heredan el\NTitán de Ataque no se han rendido ante ninguna autoridad.
+Dialogue: 79,0:15:48.35,0:15:50.80,Gen_Main,Grisha,0,0,0,,Y yo sé por qué.
+Dialogue: 79,0:15:51.39,0:15:54.37,Gen_Main,Grisha,0,0,0,,¡Para resistirse\Na la santurronería del rey!
+Dialogue: 79,0:15:55.21,0:15:55.95,Gen_Main,Grisha,0,0,0,,Si.
+Dialogue: 79,0:15:56.62,0:16:00.31,Gen_Main,Grisha,0,0,0,,A todos los guiaron estos recuerdos\Npara llegar hasta aquí.
+Dialogue: 79,0:16:00.83,0:16:06.59,Gen_Main,Grisha,0,0,0,,El titán de ataque también ve\Nlos recuerdos de futuros herederos.
+Dialogue: 79,0:16:07.46,0:16:08.32,Gen_Main,Grisha,0,0,0,,Es decir,
+Dialogue: 79,0:16:10.00,0:16:12.56,Gen_Main,Grisha,0,0,0,,Soy capaz de conocer el futuro.
+Dialogue: 79,0:16:16.66,0:16:18.89,Gen_Main,Zeke,0,0,0,,¿El futuro?
+Dialogue: 79,0:16:20.00,0:16:22.08,Gen_Main,Zeke,0,0,0,,¿Qué significa eso, Eren?
+Dialogue: 79,0:16:24.33,0:16:26.92,Gen_Main,Frieda,0,0,0,,¿Esa es la habilidad del titán de ataque?
+Dialogue: 79,0:16:27.42,0:16:28.46,Gen_Main,Frieda,0,0,0,,Pero no tenia idea...
+Dialogue: 79,0:16:28.82,0:16:32.10,Gen_Main,Grisha,0,0,0,,También sé que no lo sabías.
+Dialogue: 79,0:16:32.10,0:16:35.97,Gen_Main,Grisha,0,0,0,,Puede que seas de sangre real,\Npero el juramento del primer rey aún te impide
+Dialogue: 79,0:16:36.57,0:16:39.07,Gen_Main,Grisha,0,0,0,,de usar todo el poder del Titán Fundador.
+Dialogue: 79,0:16:40.18,0:16:45.27,Gen_Main,Grisha,0,0,0,,¡Devoraré al Fundador \Ny pondré fin al linaje real!
+Dialogue: 79,0:16:45.76,0:16:49.73,Gen_Main,Grisha,0,0,0,,¡Ese es el futuro que está escrito!
+Dialogue: 79,0:16:50.36,0:16:51.36,Gen_Main,Frieda,0,0,0,,¡Corran!
+Dialogue: 79,0:17:08.94,0:17:10.63,Gen_Main,Grisha,0,0,0,,no puedo hacerlo
+Dialogue: 79,0:17:13.51,0:17:14.72,Gen_Main,Grisha,0,0,0,,Yo...
+Dialogue: 79,0:17:15.50,0:17:17.68,Gen_Main,Grisha,0,0,0,,no puedo matar a unos niños.
+Dialogue: 79,0:17:19.31,0:17:24.05,Gen_Main,Grisha,0,0,0,,Soy un doctor.  Yo salvo vidas.
+Dialogue: 79,0:17:25.24,0:17:26.40,Gen_Main,Zeke,0,0,0,,Imposible...
+Dialogue: 79,0:17:26.85,0:17:31.08,Gen_Main,Zeke,0,0,0,,Sé que Grisha robó al Fundador \Ny masacró a esta familia.
+Dialogue: 79,0:17:31.44,0:17:32.28,Gen_Main,Zeke,0,0,0,,Debería ser así.
+Dialogue: 79,0:17:32.87,0:17:37.78,Gen_Main,Zeke,0,0,0,,El pasado no puede cambiar.
+Dialogue: 79,0:17:39.08,0:17:41.04,Gen_Main,Rod,0,0,0,,¿Qué estás haciendo, Frieda?
+Dialogue: 79,0:17:41.27,0:17:43.29,Gen_Main,Rod,0,0,0,,¡Mata a ese hombre en este instante!
+Dialogue: 79,0:17:43.53,0:17:46.92,Gen_Main,Rod,0,0,0,,¡El Fundador no puede ser superado!\N  ¡Mátalo ahora!
+Dialogue: 79,0:17:47.24,0:17:50.30,Gen_Main,Guy,0,0,0,,¡No podemos dejarlo vivir!
+Dialogue: 79,0:17:50.45,0:17:52.30,Gen_Main,Boy,0,0,0,,¡Mátalo ya, Frieda!
+Dialogue: 79,0:17:52.62,0:17:54.67,Gen_Main,Girl,0,0,0,,¡Él va a destruir nuestro paraíso!
+Dialogue: 79,0:17:55.30,0:17:57.70,Gen_Main,Mother,0,0,0,,¡Protégenos, Frieda!
+Dialogue: 79,0:18:00.87,0:18:01.78,Gen_Main,Boy,0,0,0,,¡Hermana!
+Dialogue: 79,0:18:01.78,0:18:03.04,Gen_Main,Mother,0,0,0,,Frieda!
+Dialogue: 79,0:18:06.24,0:18:07.58,Gen_Main,Eren,0,0,0,,¿Qué estás haciendo?
+Dialogue: 79,0:18:08.36,0:18:09.44,Gen_Main,Eren,0,0,0,,Ponte de pie, papá.
+Dialogue: 79,0:18:13.36,0:18:15.00,Gen_Main,Eren,0,0,0,,¿Ya lo olvidaste?
+Dialogue: 79,0:18:15.00,0:18:17.17,Gen_Main,Eren,0,0,0,,¿Olvidaste lo que viniste a hacer?
+Dialogue: 79,0:18:17.99,0:18:21.23,Gen_Main,Eren,0,0,0,,Estás aquí para vengar a tu hermana,\Nque fue devorada por los perros.
+Dialogue: 79,0:18:23.44,0:18:25.47,Gen_Main,Eren,0,0,0,,Y a tus camaradas asesinados.
+Dialogue: 79,0:18:25.47,0:18:26.51,Gen_Main,Eren,0,0,0,,Dina.
+Dialogue: 79,0:18:26.51,0:18:27.71,Gen_Main,Eren,0,0,0,,Kruger.
+Dialogue: 79,0:18:28.06,0:18:29.21,Gen_Main,Eren,0,0,0,,Todos.
+Dialogue: 79,0:18:32.17,0:18:34.17,Gen_Main,Eren,0,0,0,,Tienes que seguir avanzando.
+Dialogue: 79,0:18:34.17,0:18:36.92,Gen_Main,Eren,0,0,0,,Incluso si mueres.\N  Incluso después de morir.
+Dialogue: 79,0:18:41.64,0:18:47.19,Gen_Main,Eren,0,0,0,,¿No eres tú quien empezó esta historia?
+Dialogue: 79,0:19:40.06,0:19:40.86,Gen_Main,Grisha,0,0,0,,¡Los maté!
+Dialogue: 79,0:19:42.08,0:19:43.87,Gen_Main,Grisha,0,0,0,,¡Aplasté a esos niños!
+Dialogue: 79,0:19:44.94,0:19:46.04,Gen_Main,Grisha,0,0,0,,¡Con esta mano!
+Dialogue: 79,0:19:48.38,0:19:49.62,Gen_Main,Grisha,0,0,0,,Eren!
+Dialogue: 79,0:19:49.97,0:19:52.48,Gen_Main,Grisha,0,0,0,,¡Maté a la familia Reiss!
+Dialogue: 79,0:19:52.48,0:19:54.38,Gen_Main,Grisha,0,0,0,,¡A todos menos al padre!
+Dialogue: 79,0:19:54.85,0:19:56.96,Gen_Main,Grisha,0,0,0,,¿Estás contento?
+Dialogue: 79,0:19:57.71,0:19:59.97,Gen_Main,Grisha,0,0,0,,¿Es esto lo que querías?
+Dialogue: 79,0:20:00.91,0:20:05.46,Gen_Main,Grisha,0,0,0,,¿De verdad esto salvará Eldia?
+Dialogue: 79,0:20:11.88,0:20:14.88,Gen_Main,Grisha,0,0,0,,¿Por qué no me muestras todo?
+Dialogue: 79,0:20:15.72,0:20:17.80,Gen_Main,Grisha,0,0,0,,El muro siendo destruido.
+Dialogue: 79,0:20:18.49,0:20:20.07,Gen_Main,Grisha,0,0,0,,El día que todo se derrumba.
+Dialogue: 79,0:20:21.35,0:20:22.95,Gen_Main,Grisha,0,0,0,,Si Carla está bien o no.
+Dialogue: 79,0:20:24.34,0:20:28.91,Gen_Main,Grisha,0,0,0,,¿Realmente esta era la única opción?
+Dialogue: 79,0:20:31.79,0:20:34.03,Gen_Main,Grisha,0,0,0,,Estás ahí, ¿no?
+Dialogue: 79,0:20:34.54,0:20:35.92,Gen_Main,Grisha,0,0,0,,¿Zeke?
+Dialogue: 79,0:20:38.03,0:20:41.94,Gen_Main,Grisha,0,0,0,,Tus deseos no se cumplirán.
+Dialogue: 79,0:20:41.94,0:20:44.80,Gen_Main,Grisha,0,0,0,,Se cumplirán los de Eren.
+Dialogue: 79,0:20:45.15,0:20:47.12,Gen_Main,Zeke,0,0,0,,¿Qué estás diciendo?
+Dialogue: 79,0:20:47.12,0:20:50.97,Gen_Main,Grisha,0,0,0,,Vi los recuerdos de Eren de lo que está por venir.
+Dialogue: 79,0:20:50.97,0:20:55.31,Gen_Main,Grisha,0,0,0,,Pero nunca podría haber imaginado el terror.
+Dialogue: 79,0:20:56.84,0:20:58.07,Gen_Main,Grisha,0,0,0,,¿Zeke?
+Dialogue: 79,0:20:59.68,0:21:01.07,Gen_Main,Grisha,0,0,0,,¿Eres tu?
+Dialogue: 79,0:21:02.08,0:21:04.57,Gen_Main,Grisha,0,0,0,,¡Cuánto creciste.!
+Dialogue: 79,0:21:05.02,0:21:08.94,Gen_Main,Grisha,0,0,0,,Lo siento.\N¡Fui un padre horrible!
+Dialogue: 79,0:21:09.84,0:21:13.58,Gen_Main,Grisha,0,0,0,,¡Te hice sufrir tanto!
+Dialogue: 79,0:21:17.44,0:21:21.26,Gen_Main,Grisha,0,0,0,,Te quiero, Zeke.
+Dialogue: 79,0:21:22.24,0:21:27.85,Gen_Main,Grisha,0,0,0,,¡Debería haber jugado más contigo!
+Dialogue: 79,0:21:47.18,0:21:48.25,Gen_Main,Zeke,0,0,0,,Padre...
+Dialogue: 79,0:21:50.79,0:21:52.03,Gen_Main,Grisha,0,0,0,,Zeke...
+Dialogue: 79,0:21:53.31,0:21:55.37,Gen_Main,Grisha,0,0,0,,detén a Eren.
+
+Dialogue: 0,0:22:06.97,0:22:09.99,Cart_A_Tre,,0000,0000,0000,,{\pos(449,280)\blur0.6\bord0\shad0\fs24\c&HCECECE&}Continuará…
+Dialogue: 0,0:23:39.98,0:23:42.98,Cart_TitleEp,,0000,0000,0000,,{\pos(320,140)\bord0\blur0.5}Avance
+Dialogue: 0,0:23:41.37,0:23:46.31,Gen_Italics,armin,0000,0000,0000,,Esta es la historia de aquellos que\Nresistieron, lucharon, y avanzaron.
+Dialogue: 0,0:23:46.75,0:23:50.97,Gen_Italics,armin,0000,0000,0000,,Pero, ¿quién fue el primero en tomar la pluma?
+
+Dialogue: 0,0:23:51.69,0:23:54.99,Gen_Main,armin,0000,0000,0000,,Próximo episodio:\N"De ti, hace 2000 años".
+
+Dialogue: 0,0:23:52.99,0:23:54.99,Cart_TitleEp,,0000,0000,0000,,{\bord1\blur2\pos(320,135)}De ti, hace 2000 años
+
