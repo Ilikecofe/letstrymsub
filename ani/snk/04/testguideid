@@ -1,0 +1,58 @@
+From https://publicapis.io/kitsu-api
+
+Exploring Kitsu API
+
+If you're looking for an open-source API that provides various anime and manga data, then Kitsu is the perfect solution. It offers extensive documentation, which you can find at https://kitsu.docs.apiary.io/.
+
+The API is organized into several categories, including anime, manga, libraries, users, and media. The documentation provides all the required fields for every API available. It also provides API request and response examples. The examples use JSON format, which you can easily parse and utilize in your application.
+
+Here are some examples of utilizing Kitsu API in JavaScript:
+Retrieving Anime Data
+
+const animeId = 1;
+const url = `https://kitsu.io/api/edge/anime/${animeId}`;
+const result = await fetch(url);
+const animeData = await result.json();
+console.log(animeData.data.attributes.titles.en_jp);
+
+The above code retrieves the English title of the anime with ID = 1.
+Retrieving Manga Data
+
+const mangaId = 1;
+const url = `https://kitsu.io/api/edge/manga/${mangaId}`;
+const result = await fetch(url);
+const mangaData = await result.json();
+console.log(mangaData.data.attributes.titles.en_jp);
+
+The above code retrieves the English title of the manga with ID = 1.
+Retrieving User Data
+
+const userId = 1;
+const url = `https://kitsu.io/api/edge/users/${userId}`;
+const result = await fetch(url);
+const userData = await result.json();
+console.log(userData.data.attributes.name);
+
+The above code retrieves the user's name with ID = 1.
+Search for Anime
+
+const query = "Naruto";
+const url = `https://kitsu.io/api/edge/anime?filter[text]=${query}`;
+const result = await fetch(url);
+const searchData = await result.json();
+searchData.data.forEach(anime => console.log(anime.attributes.titles.en_jp));
+
+The above code searches for anime containing the word "Naruto" in their titles and returns their English names.
+Search for Manga
+
+const query = "Tokyo Ghoul";
+const url = `https://kitsu.io/api/edge/manga?filter[text]=${query}`;
+const result = await fetch(url);
+const searchData = await result.json();
+searchData.data.forEach(manga => console.log(manga.attributes.titles.en_jp));
+
+The above code searches for manga containing the phrase "Tokyo Ghoul" in their titles and returns their English names.
+Conclusion
+
+Kitsu API provides an excellent solution for accessing various anime and manga data. Its detailed documentation, along with some examples in JavaScript, allows developers to quickly start integrating it into their applications.
+
