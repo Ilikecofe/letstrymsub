@@ -1,7 +1,7 @@
 msubtitles:
   - source: https://raw.githubusercontent.com/Ilikecofe/letstrymsub/main/ani/snk/
     subtitles:
-      - season: 1
+      - season: 42422
         items:
           - path: 0401/S04E01_spa.srt
             episode: 1
