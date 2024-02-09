@@ -1,1 +1,53 @@
-YAML
+msubtitles:
+  - source: https://raw.githubusercontent.com/Ilikecofe/letstrymsub/main/ani/jjk/
+    subtitles:
+      - season: 42765
+        items:
+          - path: S01/S01E01_spa.srt
+            episode: 1
+          - path: S01/S01E02_spa.srt
+            episode: 2
+          - path: S01/S01E03_spa.srt
+            episode: 3
+          - path: S01/S01E04_spa.srt
+            episode: 4
+          - path: S01/S01E05_spa.srt
+            episode: 5
+          - path: S01/S01E06_spa.srt
+            episode: 6
+          - path: S01/S01E07_spa.srt
+            episode: 7
+          - path: S01/S01E08_spa.srt
+            episode: 8
+          - path: S01/S01E09_spa.srt
+            episode: 9
+          - path: S01/S01E10_spa.srt
+            episode: 10
+          - path: S01/S01E11_spa.srt
+            episode: 11
+          - path: S01/S01E12_spa.srt
+            episode: 12
+          - path: S01/S01E13_spa.srt
+            episode: 13
+          - path: S01/S01E14_spa.srt
+            episode: 14
+          - path: S01/S01E15_spa.srt
+            episode: 15
+          - path: S01/S01E16_spa.srt
+            episode: 16
+          - path: S01/S01E06_spa.srt
+            episode: 17
+          - path: S01/S01E08_spa.srt
+            episode: 18
+          - path: S01/S01E09_spa.srt
+            episode: 19
+          - path: S01/S01E10_spa.srt
+            episode: 20
+          - path: S01/S01E11_spa.srt
+            episode: 21
+          - path: S01/S01E12_spa.srt
+            episode: 22
+          - path: S01/S01E13_spa.srt
+            episode: 23
+          - path: S01/S01E14_spa.srt
+            episode: 24
