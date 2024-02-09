@@ -1,0 +1,21 @@
+msubtitles:
+  - source: https://raw.githubusercontent.com/Ilikecofe/letstrymsub/main/series/the_bear/
+    subtitles:
+      - season: 1
+        items:
+          - path: S01/S01E01.srt
+            episode: 1
+          - path: S01/S01E02.srt
+            episode: 2
+          - path: S01/S01E03.srt
+            episode: 3
+          - path: S01/S01E04.srt
+            episode: 4
+          - path: S01/S01E05.srt
+            episode: 5
+          - path: S01/S01E06.srt
+            episode: 6
+          - path: S01/S01E07.srt
+            episode: 7
+          - path: S01/S01E08.srt
+            episode: 8
