@@ -1,6 +1,6 @@
 1
 00:00:17,811 --> 00:00:20,480
-<i>Hubo una época.</i>
+<i>Hubo una Ã©poca.</i>
 
 2
 00:00:20,647 --> 00:00:23,024
@@ -16,7 +16,7 @@
 
 5
 00:00:29,406 --> 00:00:31,700
-<i>Cómo se desmoronan las cosas.</i>
+<i>CÃ³mo se desmoronan las cosas.</i>
 
 6
 00:00:31,866 --> 00:00:34,286
@@ -24,16 +24,16 @@
 
 7
 00:00:34,452 --> 00:00:36,037
-<i>Y lo que se desmoronó...</i>
+<i>Y lo que se desmoronÃ³...</i>
 
 8
 00:00:36,663 --> 00:00:37,706
-¡Señorito Wayne!
+Â¡SeÃ±orito Wayne!
 
 9
 00:00:38,039 --> 00:00:39,416
-<i>- ...ahí se queda.</i>
-- ¡Bruce!
+<i>- ...ahÃ­ se queda.</i>
+- Â¡Bruce!
 
 10
 00:00:41,376 --> 00:00:42,711
@@ -50,8 +50,8 @@ EL ORIGEN DE LA JUSTICIA
 
 13
 00:01:06,943 --> 00:01:08,111
-EXCÁLIBUR
-ESTRENO EL MIÉRCOLES
+EXCÃLIBUR
+ESTRENO EL MIÃ‰RCOLES
 
 14
 00:03:09,983 --> 00:03:11,985
@@ -59,7 +59,7 @@ Martha.
 
 15
 00:04:43,826 --> 00:04:47,830
-<i>En el sueño,
+<i>En el sueÃ±o,
 me arrastraban hacia la luz.</i>
 
 16
@@ -86,25 +86,25 @@ del edificio ahora mismo.
 
 21
 00:05:40,925 --> 00:05:42,343
-<i>- ¿Entendido?</i>
+<i>- Â¿Entendido?</i>
 - Cielos.
 
 22
 00:05:42,510 --> 00:05:43,553
-¡Lejos de las ventanas!
+Â¡Lejos de las ventanas!
 
 23
 00:05:43,720 --> 00:05:45,805
-Vamos. Muévanse. Deprisa.
+Vamos. MuÃ©vanse. Deprisa.
 
 24
 00:05:46,014 --> 00:05:48,641
 El jefe nos quiere fuera del edificio,
-así que salgamos.
+asÃ­ que salgamos.
 
 25
 00:05:48,850 --> 00:05:50,727
-¡Jack!
+Â¡Jack!
 
 26
 00:07:31,744 --> 00:07:33,121
@@ -112,8 +112,8 @@ así que salgamos.
 
 27
 00:07:33,287 --> 00:07:37,625
-<i>Todas las redes están ocupadas.
-Intente más tarde, por favor.</i>
+<i>Todas las redes estÃ¡n ocupadas.
+Intente mÃ¡s tarde, por favor.</i>
 
 28
 00:07:39,085 --> 00:07:40,628
@@ -125,16 +125,16 @@ Dios celestial...
 
 30
 00:07:44,716 --> 00:07:45,883
-...apiádate de mi alma.
+...apiÃ¡date de mi alma.
 
 31
 00:07:49,804 --> 00:07:50,888
-¡Jack!
+Â¡Jack!
 
 32
 00:08:29,385 --> 00:08:32,180
-¡Tomados de la mano!
-¡Muéstrenme! ¡Bien hecho!
+Â¡Tomados de la mano!
+Â¡MuÃ©strenme! Â¡Bien hecho!
 
 33
 00:08:33,222 --> 00:08:34,432
@@ -142,7 +142,7 @@ Vamos, chicos.
 
 34
 00:08:36,267 --> 00:08:37,560
-Sujétense bien.
+SujÃ©tense bien.
 
 35
 00:08:39,187 --> 00:08:40,188
@@ -154,11 +154,11 @@ Ve.
 
 37
 00:08:43,024 --> 00:08:44,108
-¡Sr. Wayne!
+Â¡Sr. Wayne!
 
 38
 00:08:44,275 --> 00:08:47,195
-¡Sr. Wayne! No siento las piernas.
+Â¡Sr. Wayne! No siento las piernas.
 
 39
 00:08:47,695 --> 00:08:48,696
@@ -166,19 +166,19 @@ No siento las piernas.
 
 40
 00:08:48,988 --> 00:08:50,072
-¡Necesitamos ayuda!
+Â¡Necesitamos ayuda!
 
 41
 00:08:51,365 --> 00:08:52,700
-Ayúdeme. No siento las piernas.
+AyÃºdeme. No siento las piernas.
 
 42
 00:08:52,867 --> 00:08:54,452
-Estarás bien. ¿Me entiendes...
+EstarÃ¡s bien. Â¿Me entiendes...
 
 43
 00:08:55,369 --> 00:08:57,580
-...Wallace? ¿Cómo te dicen? ¿Wally?
+...Wallace? Â¿CÃ³mo te dicen? Â¿Wally?
 
 44
 00:08:59,749 --> 00:09:00,833
@@ -186,7 +186,7 @@ Como quiera, jefe.
 
 45
 00:09:02,543 --> 00:09:04,670
-Estarás bien.
+EstarÃ¡s bien.
 
 46
 00:09:04,837 --> 00:09:06,214
@@ -194,35 +194,35 @@ Con cuidado. Vamos.
 
 47
 00:09:09,509 --> 00:09:10,968
-Dios mío. No puedo mover la pierna.
+Dios mÃ­o. No puedo mover la pierna.
 
 48
 00:09:11,844 --> 00:09:13,930
-Dios mío. No siento la pierna.
+Dios mÃ­o. No siento la pierna.
 
 49
 00:09:21,979 --> 00:09:24,232
-Tranquila. Estarás bien.
+Tranquila. EstarÃ¡s bien.
 
 50
 00:09:24,398 --> 00:09:26,609
-Estás bien, ¿verdad?
+EstÃ¡s bien, Â¿verdad?
 
 51
 00:09:27,735 --> 00:09:29,195
-Busquemos a tu mamá.
+Busquemos a tu mamÃ¡.
 
 52
 00:09:29,821 --> 00:09:30,905
-¿Dónde está?
+Â¿DÃ³nde estÃ¡?
 
 53
 00:10:10,403 --> 00:10:13,573
-18 MESES DESPUÉS
+18 MESES DESPUÃ‰S
 
 54
 00:10:23,666 --> 00:10:26,836
-EN ALGÚN LUGAR DEL OCÉANO ÍNDICO
+EN ALGÃšN LUGAR DEL OCÃ‰ANO ÃNDICO
 
 55
 00:11:33,527 --> 00:11:36,864
@@ -231,7 +231,7 @@ Sangre en el cielo.
 
 56
 00:11:37,615 --> 00:11:38,741
-¡Ahí está ella!
+Â¡AhÃ­ estÃ¡ ella!
 
 57
 00:11:47,333 --> 00:11:48,376
@@ -240,11 +240,11 @@ Srta. Lane.
 58
 00:11:50,169 --> 00:11:53,881
 Srta. Lane. Jimmy Olsen.
-Fotógrafo. Obviamente.
+FotÃ³grafo. Obviamente.
 
 59
 00:11:54,256 --> 00:11:55,591
-¿Dónde está Heron?
+Â¿DÃ³nde estÃ¡ Heron?
 
 60
 00:11:55,883 --> 00:11:57,176
@@ -252,7 +252,7 @@ Problemas en la frontera.
 
 61
 00:11:59,679 --> 00:12:02,556
-¿Cómo lo conseguiste? Eres una pionera.
+Â¿CÃ³mo lo conseguiste? Eres una pionera.
 
 62
 00:12:02,723 --> 00:12:04,976
@@ -260,7 +260,7 @@ Amajagh nunca dio una entrevista.
 
 63
 00:12:05,142 --> 00:12:08,104
-¿Sabes qué dice Heron
+Â¿Sabes quÃ© dice Heron
 cuando trabajamos juntos?
 
 64
@@ -278,21 +278,21 @@ Vamos.
 67
 00:12:34,588 --> 00:12:36,632
 Pasaportes. Dispositivos.
-Teléfonos. Cámara.
+TelÃ©fonos. CÃ¡mara.
 
 68
 00:12:36,799 --> 00:12:39,135
-Acordamos que se permitirían
+Acordamos que se permitirÃ­an
 algunas fotos.
 
 69
 00:13:07,830 --> 00:13:10,207
-¿Es un terrorista, general?
+Â¿Es un terrorista, general?
 
 70
 00:13:11,292 --> 00:13:14,462
 No me dijeron
-que me entrevistaría una dama.
+que me entrevistarÃ­a una dama.
 
 71
 00:13:14,628 --> 00:13:16,047
@@ -308,12 +308,12 @@ Solo soy un hombre que no posee nada...
 
 74
 00:13:25,639 --> 00:13:28,059
-¿Quién paga el ejército privado,
+Â¿QuiÃ©n paga el ejÃ©rcito privado,
 general?
 
 75
 00:13:28,642 --> 00:13:30,853
-¿Quién paga los drones
+Â¿QuiÃ©n paga los drones
 que vienen por las noches?
 
 76
@@ -322,7 +322,7 @@ Una pregunta lleva a la otra.
 
 77
 00:13:34,482 --> 00:13:35,649
-¿Sí?
+Â¿SÃ­?
 
 78
 00:13:36,192 --> 00:13:37,860
@@ -330,7 +330,7 @@ Sea claro, general.
 
 79
 00:13:38,027 --> 00:13:39,027
-Solo es una cámara.
+Solo es una cÃ¡mara.
 
 80
 00:13:39,987 --> 00:13:43,074
@@ -339,7 +339,7 @@ neutrales en esta guerra civil...
 
 81
 00:13:43,240 --> 00:13:45,409
-...políticamente y por principios.
+...polÃ­ticamente y por principios.
 
 82
 00:13:46,160 --> 00:13:48,746
@@ -347,7 +347,7 @@ No abra... Acaba de velar...
 
 83
 00:13:51,123 --> 00:13:53,334
-Son mentiras hipócritas
+Son mentiras hipÃ³critas
 estadounidenses...
 
 84
@@ -358,7 +358,7 @@ estadounidenses...
 85
 00:14:01,175 --> 00:14:06,263
 Los hombres poderosos no acatan
-ni políticas ni principios, Srta. Lane.
+ni polÃ­ticas ni principios, Srta. Lane.
 
 86
 00:14:09,642 --> 00:14:10,684
@@ -374,36 +374,36 @@ La CIA.
 
 89
 00:14:25,866 --> 00:14:27,118
-¡Nos rastrean!
+Â¡Nos rastrean!
 
 90
 00:14:27,785 --> 00:14:28,869
-¡Tú!
+Â¡TÃº!
 
 91
 00:14:33,874 --> 00:14:35,042
-¿Eres de la CIA?
+Â¿Eres de la CIA?
 
 92
 00:14:35,209 --> 00:14:36,460
-¿Cómo? ¡No!
+Â¿CÃ³mo? Â¡No!
 
 93
 00:14:36,627 --> 00:14:38,712
-- ¡Tú lo trajiste!
-- No, es el fotógrafo.
+- Â¡TÃº lo trajiste!
+- No, es el fotÃ³grafo.
 
 94
 00:14:40,548 --> 00:14:41,715
-¡No!
+Â¡No!
 
 95
 00:14:42,174 --> 00:14:43,175
-¡Ella no!
+Â¡Ella no!
 
 96
 00:14:43,384 --> 00:14:45,344
-La usamos para encubrir la misión.
+La usamos para encubrir la misiÃ³n.
 
 97
 00:14:45,553 --> 00:14:46,887
@@ -423,7 +423,7 @@ Estoy autorizado a proponer un acuerdo.
 
 101
 00:15:06,323 --> 00:15:07,324
-Mataron a Talon, señor.
+Mataron a Talon, seÃ±or.
 
 102
 00:15:07,992 --> 00:15:09,785
@@ -440,13 +440,13 @@ La rescataremos.
 
 105
 00:15:15,249 --> 00:15:18,043
-<i>Negativo. Un dron se hará cargo.
-Retírense y ocúltense.</i>
+<i>Negativo. Un dron se harÃ¡ cargo.
+RetÃ­rense y ocÃºltense.</i>
 
 106
 00:15:18,627 --> 00:15:21,380
-Los nuestros estarán
-en la zona, así que...
+Los nuestros estarÃ¡n
+en la zona, asÃ­ que...
 
 107
 00:15:21,589 --> 00:15:22,965
@@ -454,11 +454,11 @@ Cancela el dron.
 
 108
 00:15:23,591 --> 00:15:26,260
-Retírense, es una orden. ¿Python?
+RetÃ­rense, es una orden. Â¿Python?
 
 109
 00:15:26,802 --> 00:15:27,845
-¡En marcha!
+Â¡En marcha!
 
 110
 00:15:36,061 --> 00:15:37,188
@@ -466,7 +466,7 @@ Yo--
 
 111
 00:15:37,771 --> 00:15:38,772
-No sabía.
+No sabÃ­a.
 
 112
 00:15:39,523 --> 00:15:44,111
@@ -479,11 +479,11 @@ a "inocencia"...
 
 114
 00:16:13,182 --> 00:16:15,768
-¡Levántese!
+Â¡LevÃ¡ntese!
 
 115
 00:16:28,155 --> 00:16:29,865
-Rápido. Ahí viene.
+RÃ¡pido. AhÃ­ viene.
 
 116
 00:16:43,003 --> 00:16:44,338
@@ -495,7 +495,7 @@ Pasa a Python ahora.
 
 118
 00:16:55,516 --> 00:16:56,684
-¡Vamos!
+Â¡Vamos!
 
 119
 00:17:04,108 --> 00:17:06,151
@@ -516,28 +516,28 @@ Dos. Uno.
 
 123
 00:17:29,800 --> 00:17:31,176
-Le dieron a la conexión.
+Le dieron a la conexiÃ³n.
 
 124
 00:17:31,385 --> 00:17:32,803
-¿Qué cosa lo hizo?
+Â¿QuÃ© cosa lo hizo?
 
 125
 00:17:37,266 --> 00:17:40,436
-Un paso más, y le vuelo la cabeza.
+Un paso mÃ¡s, y le vuelo la cabeza.
 
 126
 00:19:04,478 --> 00:19:07,189
 <i>En la aldea,
-las mujeres oímos un ruido.</i>
+las mujeres oÃ­mos un ruido.</i>
 
 127
 00:19:08,357 --> 00:19:11,944
-Parecía que el cielo se partía.
+ParecÃ­a que el cielo se partÃ­a.
 
 128
 00:19:13,362 --> 00:19:17,032
-Él descendió. Luego vino el fuego.
+Ã‰l descendiÃ³. Luego vino el fuego.
 
 129
 00:19:17,658 --> 00:19:19,326
@@ -545,11 +545,11 @@ SENADORA FINCH
 
 130
 00:19:19,493 --> 00:19:20,994
-Después sucedieron cosas peores.
+DespuÃ©s sucedieron cosas peores.
 
 131
 00:19:22,121 --> 00:19:23,622
-El gobierno atacó.
+El gobierno atacÃ³.
 
 132
 00:19:24,373 --> 00:19:26,417
@@ -561,21 +561,21 @@ Mis padres intentaron huir.
 
 134
 00:19:34,216 --> 00:19:37,386
-El mundo está tan cautivado
+El mundo estÃ¡ tan cautivado
 con lo que Superman puede hacer...
 
 135
 00:19:37,553 --> 00:19:40,347
-...que no se pregunta qué debería hacer.
+...que no se pregunta quÃ© deberÃ­a hacer.
 
 136
 00:19:43,183 --> 00:19:46,270
 Que conste
-que este comité lo hace responsable.
+que este comitÃ© lo hace responsable.
 
 137
 00:19:46,437 --> 00:19:48,355
-Nunca les rendirá cuentas.
+Nunca les rendirÃ¡ cuentas.
 
 138
 00:19:48,522 --> 00:19:53,026
@@ -588,17 +588,17 @@ Ni creo que se las rinda a Dios.
 
 140
 00:19:57,573 --> 00:19:59,783
-<i>Metrópolis, otra vez,
-apabulla a Ciudad Gótica.</i>
+<i>MetrÃ³polis, otra vez,
+apabulla a Ciudad GÃ³tica.</i>
 
 141
 00:19:59,950 --> 00:20:01,743
-<i>Solo permanecen los muy fanáticos.</i>
+<i>Solo permanecen los muy fanÃ¡ticos.</i>
 
 142
 00:20:01,952 --> 00:20:04,580
 <i>Delta Charlie 27.
-Denuncia de gritos en casa vacía...</i>
+Denuncia de gritos en casa vacÃ­a...</i>
 
 143
 00:20:04,746 --> 00:20:06,457
@@ -623,7 +623,7 @@ Denuncia de gritos en casa vacía...</i>
 
 148
 00:20:12,880 --> 00:20:13,881
-Solo arrodíllate.
+Solo arrodÃ­llate.
 
 149
 00:20:14,047 --> 00:20:16,675
@@ -633,7 +633,7 @@ como si Clarkson fuera a lanzar lejos.</i>
 150
 00:20:16,842 --> 00:20:18,051
 <i>- No, Dave.
-- ¡Al área de anotación!</i>
+- Â¡Al Ã¡rea de anotaciÃ³n!</i>
 
 151
 00:20:18,218 --> 00:20:19,761
@@ -642,8 +642,8 @@ como si Clarkson fuera a lanzar lejos.</i>
 
 152
 00:20:19,928 --> 00:20:22,931
-<i>Zeke Baker está libre.
-¡Baker recibe para anotar!</i>
+<i>Zeke Baker estÃ¡ libre.
+Â¡Baker recibe para anotar!</i>
 
 153
 00:20:23,098 --> 00:20:24,308
@@ -651,7 +651,7 @@ como si Clarkson fuera a lanzar lejos.</i>
 
 154
 00:20:24,475 --> 00:20:26,643
-<i>Delta Charlie 27. ¿Me recibe?</i>
+<i>Delta Charlie 27. Â¿Me recibe?</i>
 
 155
 00:20:27,644 --> 00:20:28,896
@@ -663,17 +663,17 @@ Recibido. Ya vamos.
 
 157
 00:20:31,148 --> 00:20:34,443
-<i>Ciudad Gótica,
-ya sabes cómo son con su equipo.</i>
+<i>Ciudad GÃ³tica,
+ya sabes cÃ³mo son con su equipo.</i>
 
 158
 00:20:34,651 --> 00:20:37,404
-<i>Las cosas podrían ponerse feas
+<i>Las cosas podrÃ­an ponerse feas
 en la ciudad esta noche.</i>
 
 159
 00:20:43,994 --> 00:20:45,829
-PUERTO DE GÓTICA
+PUERTO DE GÃ“TICA
 LLEGAR ES IMPORTANTE
 
 160
@@ -682,7 +682,7 @@ Vamos.
 
 161
 00:21:27,454 --> 00:21:28,455
-Nos salvó.
+Nos salvÃ³.
 
 162
 00:21:29,748 --> 00:21:30,791
@@ -702,15 +702,15 @@ Vinimos a ayudarlas.
 
 166
 00:21:37,256 --> 00:21:38,257
-Nos salvó.
+Nos salvÃ³.
 
 167
 00:21:38,423 --> 00:21:40,717
-Las sacaremos de aquí.
+Las sacaremos de aquÃ­.
 
 168
 00:21:49,017 --> 00:21:50,727
-Sigue aquí.
+Sigue aquÃ­.
 
 169
 00:21:50,936 --> 00:21:52,354
@@ -726,19 +726,19 @@ No comprendo.
 
 172
 00:22:13,917 --> 00:22:15,252
-<i>¡No lo conozco!</i>
+<i>Â¡No lo conozco!</i>
 
 173
 00:22:18,463 --> 00:22:20,257
-<i>¡No!</i>
+<i>Â¡No!</i>
 
 174
 00:22:40,944 --> 00:22:42,154
-¡Rayos!
+Â¡Rayos!
 
 175
 00:23:21,234 --> 00:23:22,235
-¡Cielos!
+Â¡Cielos!
 
 176
 00:23:22,402 --> 00:23:23,779
@@ -746,7 +746,7 @@ Lo vi.
 
 177
 00:23:23,945 --> 00:23:25,822
-No lo conocía. No sabía.
+No lo conocÃ­a. No sabÃ­a.
 
 178
 00:23:25,989 --> 00:23:27,407
@@ -754,7 +754,7 @@ Casi me vuelas la cara.
 
 179
 00:23:27,574 --> 00:23:29,618
-¿Qué tal si no le disparas a los buenos?
+Â¿QuÃ© tal si no le disparas a los buenos?
 
 180
 00:23:33,330 --> 00:23:35,165
@@ -762,7 +762,7 @@ Cielos.
 
 181
 00:23:35,332 --> 00:23:36,958
-Lo marcó.
+Lo marcÃ³.
 
 182
 00:25:07,174 --> 00:25:09,134
@@ -775,11 +775,11 @@ Estaba por cocinar.
 
 184
 00:25:11,219 --> 00:25:12,429
-Quería darte una sorpresa.
+QuerÃ­a darte una sorpresa.
 
 185
 00:25:16,975 --> 00:25:18,852
-Hubo una audiencia por lo que pasó.
+Hubo una audiencia por lo que pasÃ³.
 
 186
 00:25:21,021 --> 00:25:22,355
@@ -797,17 +797,17 @@ Pudieron matar a la mujer que amo.
 189
 00:25:29,070 --> 00:25:32,616
 - Piensa en lo que pudo pasar.
-- Piensa en lo que pasó.
+- Piensa en lo que pasÃ³.
 
 190
 00:25:32,783 --> 00:25:35,035
-No maté a esos hombres,
+No matÃ© a esos hombres,
 si es lo que creen.
 
 191
 00:25:35,202 --> 00:25:39,039
 - Si a eso te refieres.
-- Quiero entender lo que pasó.
+- Quiero entender lo que pasÃ³.
 
 192
 00:25:40,957 --> 00:25:44,878
@@ -816,11 +816,11 @@ Pero hay consecuencias.
 
 193
 00:25:53,762 --> 00:25:55,722
-No sé si será posible.
+No sÃ© si serÃ¡ posible.
 
 194
 00:25:56,973 --> 00:25:58,433
-¿Qué cosa?
+Â¿QuÃ© cosa?
 
 195
 00:26:01,895 --> 00:26:03,396
@@ -828,15 +828,15 @@ Que me ames y seas quien eres.
 
 196
 00:26:31,883 --> 00:26:33,343
-¡Clark!
+Â¡Clark!
 
 197
 00:26:34,302 --> 00:26:36,513
-Clark, inundarás el apartamento.
+Clark, inundarÃ¡s el apartamento.
 
 198
 00:27:11,631 --> 00:27:12,632
-¿Todavía trabajas?
+Â¿TodavÃ­a trabajas?
 
 199
 00:27:13,800 --> 00:27:16,219
@@ -844,7 +844,7 @@ Te vuelves lento con la vejez, Alfred.
 
 200
 00:27:16,386 --> 00:27:18,346
-A todos nos llega, señorito Wayne.
+A todos nos llega, seÃ±orito Wayne.
 
 201
 00:27:19,598 --> 00:27:21,725
@@ -865,7 +865,7 @@ Uno, dos, tres, probando.
 
 205
 00:27:32,068 --> 00:27:33,570
-No es problema del micrófono.
+No es problema del micrÃ³fono.
 
 206
 00:27:34,905 --> 00:27:36,823
@@ -873,20 +873,20 @@ Es la nueva capa de la armadura.
 
 207
 00:27:37,991 --> 00:27:39,409
-Tendré que volver a instalarla.
+TendrÃ© que volver a instalarla.
 
 208
 00:27:41,286 --> 00:27:44,789
-¿Fue una noche fructífera?
+Â¿Fue una noche fructÃ­fera?
 
 209
 00:27:46,207 --> 00:27:49,252
 No. No era nadie importante.
-No sabía nada.
+No sabÃ­a nada.
 
 210
 00:27:49,628 --> 00:27:51,546
-Él es quien sabe.
+Ã‰l es quien sabe.
 
 211
 00:27:52,631 --> 00:27:55,717
@@ -898,24 +898,24 @@ Trabaja a nivel mundial...
 
 213
 00:27:57,844 --> 00:27:59,220
-...con base cerca del puerto de Gótica.
+...con base cerca del puerto de GÃ³tica.
 
 214
 00:27:59,387 --> 00:28:00,889
-Tráfico de personas y de armas.
+TrÃ¡fico de personas y de armas.
 
 215
 00:28:01,056 --> 00:28:02,682
-Entonces la teoría es...
+Entonces la teorÃ­a es...
 
 216
 00:28:02,849 --> 00:28:04,184
-...que el Portugués Blanco es ruso.
+...que el PortuguÃ©s Blanco es ruso.
 
 217
 00:28:04,351 --> 00:28:09,356
-No. La teoría es que el ruso me llevará
-al hombre en cuestión.
+No. La teorÃ­a es que el ruso me llevarÃ¡
+al hombre en cuestiÃ³n.
 
 218
 00:28:09,689 --> 00:28:12,525
@@ -924,12 +924,12 @@ Si es que es un hombre.
 219
 00:28:13,777 --> 00:28:16,655
 Ni siquiera sabe si existe.
-Podría ser un fantasma.
+PodrÃ­a ser un fantasma.
 
 220
 00:28:16,821 --> 00:28:18,907
-¿Uno que quiere meter
-una bomba nuclear en Gótica?
+Â¿Uno que quiere meter
+una bomba nuclear en GÃ³tica?
 
 221
 00:28:20,033 --> 00:28:21,743
@@ -937,12 +937,12 @@ Algo muy riesgoso.
 
 222
 00:28:24,829 --> 00:28:25,830
-¿Reglas nuevas?
+Â¿Reglas nuevas?
 
 223
 00:28:26,039 --> 00:28:27,332
-PRENSA LIBRE DE GÓTICA
-LA MARCA JUSTICIERA DEL MURCIÉLAGO
+PRENSA LIBRE DE GÃ“TICA
+LA MARCA JUSTICIERA DEL MURCIÃ‰LAGO
 
 224
 00:28:29,709 --> 00:28:31,378
@@ -950,15 +950,15 @@ Somos criminales, Alfred.
 
 225
 00:28:31,544 --> 00:28:33,630
-Siempre lo fuimos. Nada cambió.
+Siempre lo fuimos. Nada cambiÃ³.
 
 226
 00:28:34,756 --> 00:28:36,007
-Sí que cambió, señor.
+SÃ­ que cambiÃ³, seÃ±or.
 
 227
 00:28:38,551 --> 00:28:40,095
-Todo cambió.
+Todo cambiÃ³.
 
 228
 00:28:44,975 --> 00:28:46,643
@@ -974,11 +974,11 @@ Muere gente inocente.
 
 231
 00:28:54,693 --> 00:28:56,361
-Así empieza, señor.
+AsÃ­ empieza, seÃ±or.
 
 232
 00:28:57,237 --> 00:28:59,406
-La agitación. La furia.
+La agitaciÃ³n. La furia.
 
 233
 00:28:59,572 --> 00:29:02,409
@@ -990,25 +990,25 @@ Hacen crueles a los hombres buenos.
 
 235
 00:29:19,676 --> 00:29:20,885
-John, márcalo.
+John, mÃ¡rcalo.
 
 236
 00:29:23,013 --> 00:29:25,056
-¡Hola! No sabía que estaban aquí.
+Â¡Hola! No sabÃ­a que estaban aquÃ­.
 
 237
 00:29:25,223 --> 00:29:27,100
 - El hombre del cartel.
-- Sí, cuesta creerlo.
+- SÃ­, cuesta creerlo.
 
 238
 00:29:27,267 --> 00:29:28,476
-Mi padre bautizó la compañía.
+Mi padre bautizÃ³ la compaÃ±Ã­a.
 
 239
 00:29:28,643 --> 00:29:30,520
-El "Lex" antes de "Corp" es por él.
-¿Qué tal?
+El "Lex" antes de "Corp" es por Ã©l.
+Â¿QuÃ© tal?
 
 240
 00:29:30,687 --> 00:29:31,896
@@ -1016,11 +1016,11 @@ Muy bien.
 
 241
 00:29:32,063 --> 00:29:34,774
-¿Sí? Bien. Síganme.
+Â¿SÃ­? Bien. SÃ­ganme.
 
 242
 00:29:34,941 --> 00:29:37,694
-No, papá la llamó así...
+No, papÃ¡ la llamÃ³ asÃ­...
 
 243
 00:29:37,902 --> 00:29:39,404
@@ -1028,12 +1028,12 @@ No, papá la llamó así...
 
 244
 00:29:39,571 --> 00:29:41,698
-Le pareció que le gustaría
+Le pareciÃ³ que le gustarÃ­a
 a las ancianas ricas.
 
 245
 00:29:41,865 --> 00:29:43,575
-"Extiéndele un cheque a Lex".
+"ExtiÃ©ndele un cheque a Lex".
 
 246
 00:29:43,742 --> 00:29:44,742
@@ -1041,15 +1041,15 @@ ACCESO ABIERTO
 
 247
 00:29:44,868 --> 00:29:46,870
-Papá nació en Alemania Oriental.
+PapÃ¡ naciÃ³ en Alemania Oriental.
 
 248
 00:29:47,037 --> 00:29:49,164
-Creció comiendo galletas rancias.
+CreciÃ³ comiendo galletas rancias.
 
 249
 00:29:49,330 --> 00:29:51,416
-Cada dos sábados, tenía que desfilar...
+Cada dos sÃ¡bados, tenÃ­a que desfilar...
 
 250
 00:29:51,583 --> 00:29:53,460
@@ -1057,7 +1057,7 @@ Cada dos sábados, tenía que desfilar...
 
 251
 00:29:53,626 --> 00:29:57,338
-Así que fue obra de la providencia
+AsÃ­ que fue obra de la providencia
 que su hijo, o sea yo...
 
 252
@@ -1067,25 +1067,25 @@ que su hijo, o sea yo...
 253
 00:29:58,840 --> 00:30:01,342
 La hallamos
-durante la reconstrucción de Metrópolis.
+durante la reconstrucciÃ³n de MetrÃ³polis.
 
 254
 00:30:01,509 --> 00:30:03,928
-Un pequeño recuerdo
+Un pequeÃ±o recuerdo
 del Motor Mundial kryptoniano.
 
 255
 00:30:04,095 --> 00:30:05,972
-¿Qué tiene que ver
+Â¿QuÃ© tiene que ver
 con la seguridad nacional?
 
 256
 00:30:06,139 --> 00:30:07,807
-¿"Seguridad nacional"?
+Â¿"Seguridad nacional"?
 
 257
 00:30:07,974 --> 00:30:10,643
-No, señora. Seguridad planetaria.
+No, seÃ±ora. Seguridad planetaria.
 
 258
 00:30:11,144 --> 00:30:13,521
@@ -1093,16 +1093,16 @@ Es un xenomineral radiactivo.
 
 259
 00:30:13,688 --> 00:30:15,940
-Sospechamos que tenía
-interacciones biológicas...
+Sospechamos que tenÃ­a
+interacciones biolÃ³gicas...
 
 260
 00:30:16,107 --> 00:30:18,026
-...así que lo enviamos a AMRIID...
+...asÃ­ que lo enviamos a AMRIID...
 
 261
 00:30:19,486 --> 00:30:22,530
-...donde están los restos
+...donde estÃ¡n los restos
 del kryptoniano.
 
 262
@@ -1112,29 +1112,29 @@ expuesto al mineral...
 
 263
 00:30:26,326 --> 00:30:27,577
-...pasó esto.
+...pasÃ³ esto.
 
 264
 00:30:28,203 --> 00:30:32,540
-Una biodegradación profunda con
-deterioro de las células kryptonianas.
+Una biodegradaciÃ³n profunda con
+deterioro de las cÃ©lulas kryptonianas.
 
 265
 00:30:32,707 --> 00:30:34,125
-Pensamos que con un tamaño adecuado...
+Pensamos que con un tamaÃ±o adecuado...
 
 266
 00:30:34,292 --> 00:30:35,668
-...podría usarse como arma.
+...podrÃ­a usarse como arma.
 
 267
 00:30:35,835 --> 00:30:39,089
 Y encontramos la piedra,
-una enorme, entre otras más pequeñas.
+una enorme, entre otras mÃ¡s pequeÃ±as.
 
 268
 00:30:40,757 --> 00:30:42,801
-En el fondo del Océano Índico.
+En el fondo del OcÃ©ano Ãndico.
 
 269
 00:30:43,426 --> 00:30:44,719
@@ -1151,11 +1151,11 @@ La piedra es radioactiva...
 272
 00:30:49,182 --> 00:30:52,352
 ...y necesitamos que nos den
-un permiso de importación.
+un permiso de importaciÃ³n.
 
 273
 00:30:52,519 --> 00:30:54,896
-¿Por qué querríamos utilizarla
+Â¿Por quÃ© querrÃ­amos utilizarla
 como arma?
 
 274
@@ -1165,23 +1165,23 @@ de plata contra los kryptonianos...
 
 275
 00:30:58,733 --> 00:31:02,112
-...para que no llegue el día
+...para que no llegue el dÃ­a
 en que sus hijos saluden con flores.
 
 276
 00:31:02,695 --> 00:31:05,990
-Si mal no recuerdo, el único
-que vuela por aquí es Superman.
+Si mal no recuerdo, el Ãºnico
+que vuela por aquÃ­ es Superman.
 
 277
 00:31:06,157 --> 00:31:10,370
-Sí, Superman. Pero hay...
-Hay muchos más.
+SÃ­, Superman. Pero hay...
+Hay muchos mÃ¡s.
 
 278
 00:31:10,537 --> 00:31:13,206
 - La tesis de los metahumanos.
-- Sí, la tesis de los metahumanos.
+- SÃ­, la tesis de los metahumanos.
 
 279
 00:31:13,373 --> 00:31:14,666
@@ -1199,11 +1199,11 @@ de los dioses entre los hombres...
 
 282
 00:31:19,212 --> 00:31:20,755
-...en este pequeño planeta azul.
+...en este pequeÃ±o planeta azul.
 
 283
 00:31:23,466 --> 00:31:25,385
-No hay por qué usar la bala de plata.
+No hay por quÃ© usar la bala de plata.
 
 284
 00:31:25,552 --> 00:31:27,637
@@ -1224,11 +1224,11 @@ Pase a mi oficina.
 
 288
 00:31:46,156 --> 00:31:47,407
-Sí.
+SÃ­.
 
 289
 00:31:47,949 --> 00:31:49,659
-¿Qué es lo que quiere?
+Â¿QuÃ© es lo que quiere?
 
 290
 00:31:53,496 --> 00:31:56,249
@@ -1241,12 +1241,12 @@ Concedido.
 
 292
 00:32:48,635 --> 00:32:51,471
-Los restos del alienígena muerto
+Los restos del alienÃ­gena muerto
 para pruebas.
 
 293
 00:32:53,097 --> 00:32:54,349
-¿Quiere el cuerpo de Zod?
+Â¿Quiere el cuerpo de Zod?
 
 294
 00:32:55,558 --> 00:32:56,559
@@ -1267,17 +1267,17 @@ el otro lado de la historia.</i>
 
 298
 00:33:45,608 --> 00:33:48,861
-<i>Dicen que Superman es un héroe.
-Pero ¿para quién?</i>
+<i>Dicen que Superman es un hÃ©roe.
+Pero Â¿para quiÃ©n?</i>
 
 299
 00:33:49,028 --> 00:33:52,740
 <i>Si Superman estuviera,
-¿qué le diría?</i>
+Â¿quÃ© le dirÃ­a?</i>
 
 300
 00:33:53,366 --> 00:33:55,368
-<i>Que mi familia también tenía sueños.</i>
+<i>Que mi familia tambiÃ©n tenÃ­a sueÃ±os.</i>
 
 301
 00:33:56,369 --> 00:33:57,370
@@ -1285,20 +1285,20 @@ ENTREVISTA A KAHINA ZIRI
 
 302
 00:33:57,537 --> 00:34:01,874
-<i>Le preguntaría
-mirándolo a los ojos cómo decide...</i>
+<i>Le preguntarÃ­a
+mirÃ¡ndolo a los ojos cÃ³mo decide...</i>
 
 303
 00:34:02,583 --> 00:34:04,002
-<i>...qué vidas importan.</i>
+<i>...quÃ© vidas importan.</i>
 
 304
 00:34:04,752 --> 00:34:06,462
-<i>Y qué vidas no.</i>
+<i>Y quÃ© vidas no.</i>
 
 305
 00:34:09,632 --> 00:34:11,217
-¡SUPERMAN EVITA ATAQUE DE MISILES!
+Â¡SUPERMAN EVITA ATAQUE DE MISILES!
 RESCATE HEROICO DE SUPERMAN
 
 306
@@ -1311,15 +1311,15 @@ LO RESCATA DE LOS ESCOMBROS
 
 308
 00:35:16,783 --> 00:35:18,117
-Señor, baje.
+SeÃ±or, baje.
 
 309
 00:35:19,744 --> 00:35:22,163
-Señor, ¡dije que bajara!
+SeÃ±or, Â¡dije que bajara!
 
 310
 00:35:22,330 --> 00:35:23,539
-¡Ya mismo!
+Â¡Ya mismo!
 
 311
 00:35:25,291 --> 00:35:26,793
@@ -1327,16 +1327,16 @@ Pide refuerzos.
 
 312
 00:35:28,086 --> 00:35:30,088
-¡Oiga! ¡No lo haga!
+Â¡Oiga! Â¡No lo haga!
 
 313
 00:35:30,254 --> 00:35:31,381
-¡Oiga!
+Â¡Oiga!
 
 314
 00:35:33,758 --> 00:35:36,010
-¡Lois! Del laboratorio forense,
-línea tres.
+Â¡Lois! Del laboratorio forense,
+lÃ­nea tres.
 
 315
 00:35:37,970 --> 00:35:39,472
@@ -1349,16 +1349,16 @@ Hoy te toca Deportes.
 
 317
 00:35:40,932 --> 00:35:43,309
-Sigue con los artículos de fútbol.
+Sigue con los artÃ­culos de fÃºtbol.
 
 318
 00:35:43,476 --> 00:35:47,230
-"Los sueños del perdedor destruidos:
-Diez yardas entre Gótica y la gloria".
+"Los sueÃ±os del perdedor destruidos:
+Diez yardas entre GÃ³tica y la gloria".
 
 319
 00:35:48,106 --> 00:35:50,441
-Ten cuidado en Gótica.
+Ten cuidado en GÃ³tica.
 
 320
 00:35:50,608 --> 00:35:51,776
@@ -1366,21 +1366,21 @@ Que no te roben el dinero.
 
 321
 00:35:53,152 --> 00:35:54,987
-¿Miran esto?
+Â¿Miran esto?
 
 322
 00:35:55,154 --> 00:35:56,531
-<i>Emergencias creó...</i>
+<i>Emergencias creÃ³...</i>
 
 323
 00:35:56,697 --> 00:35:58,116
-<i>...un área de exclusión
-en el Parque de los Héroes...</i>
+<i>...un Ã¡rea de exclusiÃ³n
+en el Parque de los HÃ©roes...</i>
 
 324
 00:35:58,282 --> 00:35:59,283
 INFORME: DELITO DE ODIO
-EN PARQUE DE LOS HÉROES
+EN PARQUE DE LOS HÃ‰ROES
 
 325
 00:35:59,450 --> 00:36:01,786
@@ -1394,12 +1394,12 @@ como Wallace Vernon Keefe.</i>
 
 327
 00:36:05,248 --> 00:36:07,959
-<i>¡Trabajo para Bruce Wayne!</i>
-<i>¡Trabajo para Bruce Wayne!</i>
+<i>Â¡Trabajo para Bruce Wayne!</i>
+<i>Â¡Trabajo para Bruce Wayne!</i>
 
 328
 00:36:08,126 --> 00:36:10,795
-<i>Se lo acusará de vandalismo...</i>
+<i>Se lo acusarÃ¡ de vandalismo...</i>
 
 329
 00:36:10,962 --> 00:36:13,714
@@ -1409,16 +1409,16 @@ y amenazas terroristas.</i>
 330
 00:36:13,881 --> 00:36:14,882
 INFORME: DELITO DE ODIO
-EN PARQUE DE LOS HÉROES
+EN PARQUE DE LOS HÃ‰ROES
 
 331
 00:36:15,049 --> 00:36:17,552
-<i>- Podrían valerle 40 años de prisión.</i>
+<i>- PodrÃ­an valerle 40 aÃ±os de prisiÃ³n.</i>
 - Pobre hijo de perra.
 
 332
 00:36:17,802 --> 00:36:19,262
-<i>Noticias Metrópolis 8.</i>
+<i>Noticias MetrÃ³polis 8.</i>
 
 333
 00:36:19,512 --> 00:36:20,513
@@ -1426,7 +1426,7 @@ Jenny.
 
 334
 00:36:20,680 --> 00:36:24,100
-Título: "¿Fin del romance
+TÃ­tulo: "Â¿Fin del romance
 con el Hombre del Cielo?"
 
 335
@@ -1439,7 +1439,7 @@ De acuerdo.
 
 337
 00:37:09,937 --> 00:37:10,938
-¿Está ella?
+Â¿EstÃ¡ ella?
 
 338
 00:37:11,814 --> 00:37:13,191
@@ -1447,37 +1447,37 @@ No, se fue.
 
 339
 00:37:13,733 --> 00:37:14,901
-¿Qué hizo, oficial?
+Â¿QuÃ© hizo, oficial?
 
 340
 00:37:16,235 --> 00:37:19,405
-No soy policía. Soy periodista.
+No soy policÃ­a. Soy periodista.
 
 341
 00:37:21,240 --> 00:37:22,909
-¿La señorita vive aquí...?
+Â¿La seÃ±orita vive aquÃ­...?
 
 342
 00:37:23,367 --> 00:37:24,744
-No regresó.
+No regresÃ³.
 
 343
 00:37:24,911 --> 00:37:27,079
 De hecho, si es lista,
-se habrá ido de la ciudad.
+se habrÃ¡ ido de la ciudad.
 
 344
 00:37:27,246 --> 00:37:30,082
-Tú también tienes que irte
+TÃº tambiÃ©n tienes que irte
 antes del anochecer.
 
 345
 00:37:30,249 --> 00:37:31,250
-Si no quieres toparte con él.
+Si no quieres toparte con Ã©l.
 
 346
 00:37:31,417 --> 00:37:33,419
-No haga caso a esas tonterías.
+No haga caso a esas tonterÃ­as.
 
 347
 00:37:33,586 --> 00:37:37,089
@@ -1486,7 +1486,7 @@ para tenerle miedo.
 
 348
 00:37:37,256 --> 00:37:38,424
-¿A quién?
+Â¿A quiÃ©n?
 
 349
 00:37:38,591 --> 00:37:41,302
@@ -1494,7 +1494,7 @@ Algo malo le sucede.
 
 350
 00:37:42,011 --> 00:37:43,221
-Está enojado.
+EstÃ¡ enojado.
 
 351
 00:37:45,389 --> 00:37:46,849
@@ -1502,19 +1502,19 @@ Y caza.
 
 352
 00:37:50,520 --> 00:37:51,521
-¡Muéstrales lo tuyo!
+Â¡MuÃ©strales lo tuyo!
 
 353
 00:37:52,188 --> 00:37:53,898
-¡Vamos!
+Â¡Vamos!
 
 354
 00:37:57,276 --> 00:37:58,486
-Golpéalo.
+GolpÃ©alo.
 
 355
 00:38:00,154 --> 00:38:02,406
-¡Vamos!
+Â¡Vamos!
 
 356
 00:38:25,555 --> 00:38:26,681
@@ -1541,25 +1541,25 @@ una bailarina del Bolshoi...
 
 361
 00:38:46,909 --> 00:38:48,202
-...me enseñó solo eso.
+...me enseÃ±Ã³ solo eso.
 
 362
 00:38:48,744 --> 00:38:51,747
-Seguro no fue lo único. Buenas noches.
+Seguro no fue lo Ãºnico. Buenas noches.
 
 363
 00:38:56,168 --> 00:38:57,169
-CLONACIÓN DE DISPOSITIVO
+CLONACIÃ“N DE DISPOSITIVO
 EXITOSA
 
 364
 00:38:57,336 --> 00:38:59,171
-Esto es un régimen de terror
+Esto es un rÃ©gimen de terror
 de un solo hombre.
 
 365
 00:38:59,338 --> 00:39:02,883
-Este Murciélago parapolicía ha estado
+Este MurciÃ©lago parapolicÃ­a ha estado
 focalizado en el puerto...
 
 366
@@ -1568,30 +1568,30 @@ focalizado en el puerto...
 
 367
 00:39:05,011 --> 00:39:06,929
-Y, por lo que sé,
-lo ayudan los policías.
+Y, por lo que sÃ©,
+lo ayudan los policÃ­as.
 
 368
 00:39:07,096 --> 00:39:09,849
-"Ola delictiva en Gótica".
+"Ola delictiva en GÃ³tica".
 
 369
 00:39:10,016 --> 00:39:13,227
-Otra noticia de último momento:
+Otra noticia de Ãºltimo momento:
 "Agua, mojada".
 
 370
 00:39:13,394 --> 00:39:14,687
-¿Ya hiciste el artículo
-sobre fútbol americano?
+Â¿Ya hiciste el artÃ­culo
+sobre fÃºtbol americano?
 
 371
 00:39:14,854 --> 00:39:16,731
-¿Por qué no lo cubrimos?
+Â¿Por quÃ© no lo cubrimos?
 
 372
 00:39:16,897 --> 00:39:18,190
-¿El pobre no compra diarios?
+Â¿El pobre no compra diarios?
 
 373
 00:39:18,733 --> 00:39:20,818
@@ -1603,11 +1603,11 @@ Cuando asignas una historia...
 
 375
 00:39:22,153 --> 00:39:23,779
-...ves a quién le importa...
+...ves a quiÃ©n le importa...
 
 376
 00:39:23,946 --> 00:39:25,448
-...y quién la merece.
+...y quiÃ©n la merece.
 
 377
 00:39:25,615 --> 00:39:27,033
@@ -1615,17 +1615,17 @@ Bienvenido al mundo.
 
 378
 00:39:27,199 --> 00:39:30,870
-La conciencia estadounidense murió,
+La conciencia estadounidense muriÃ³,
 con Robert, Martin y John.
 
 379
 00:39:31,037 --> 00:39:32,204
-Perdón. Lo siento.
+PerdÃ³n. Lo siento.
 
 380
 00:39:33,956 --> 00:39:37,084
 No coincide con nada.
-En el laboratorio nunca vieron algo así.
+En el laboratorio nunca vieron algo asÃ­.
 
 381
 00:39:38,711 --> 00:39:40,671
@@ -1647,17 +1647,17 @@ en ninguna parte del mundo...
 
 385
 00:39:47,345 --> 00:39:48,346
-¿Y?
+Â¿Y?
 
 386
 00:39:48,554 --> 00:39:50,348
-¿Quién dio balas militares
+Â¿QuiÃ©n dio balas militares
 experimentales...
 
 387
 00:39:50,514 --> 00:39:53,559
-- ...a los tuaregs en el Sáhara?
-- Tú eres la periodista. Dime.
+- ...a los tuaregs en el SÃ¡hara?
+- TÃº eres la periodista. Dime.
 
 388
 00:39:53,726 --> 00:39:55,269
@@ -1674,7 +1674,7 @@ Al grano, Lois.
 
 391
 00:40:03,778 --> 00:40:05,404
-Quiero ir a Washington unos días.
+Quiero ir a Washington unos dÃ­as.
 
 392
 00:40:05,571 --> 00:40:07,031
@@ -1682,20 +1682,20 @@ Ve.
 
 393
 00:40:07,198 --> 00:40:09,241
-Clase económica.
+Clase econÃ³mica.
 Nada de estirar las piernas.
 
 394
 00:40:11,994 --> 00:40:13,204
-Económica <i>premium.</i>
+EconÃ³mica <i>premium.</i>
 
 395
 00:40:13,371 --> 00:40:14,413
-¡Económica!
+Â¡EconÃ³mica!
 
 396
 00:40:15,831 --> 00:40:17,917
-¿Por qué no me dijiste?
+Â¿Por quÃ© no me dijiste?
 
 397
 00:40:21,087 --> 00:40:22,380
@@ -1711,20 +1711,20 @@ Por eso no te dije.
 
 400
 00:40:27,385 --> 00:40:28,761
-Lane, ¿no tienes que tomar un avión?
+Lane, Â¿no tienes que tomar un aviÃ³n?
 
 401
 00:40:29,845 --> 00:40:30,888
-Sí, señor.
+SÃ­, seÃ±or.
 
 402
 00:40:32,556 --> 00:40:34,892
-Una reunión benéfica
-para la Biblioteca de Metrópolis.
+Una reuniÃ³n benÃ©fica
+para la Biblioteca de MetrÃ³polis.
 
 403
 00:40:35,059 --> 00:40:37,978
-Alguien del comité pidió
+Alguien del comitÃ© pidiÃ³
 que lo cubra Clark Kent.
 
 404
@@ -1738,7 +1738,7 @@ Senadora.
 
 406
 00:40:53,953 --> 00:40:55,454
-¿Un poco de <i>bourbon</i> antes de comer?
+Â¿Un poco de <i>bourbon</i> antes de comer?
 
 407
 00:40:55,621 --> 00:40:57,581
@@ -1747,15 +1747,15 @@ No puedo quedarme.
 
 408
 00:40:57,748 --> 00:40:58,958
-¿No quiere <i>bourbon?</i>
+Â¿No quiere <i>bourbon?</i>
 
 409
 00:40:59,583 --> 00:41:01,001
-¿Una chica de Kentucky?
+Â¿Una chica de Kentucky?
 
 410
 00:41:03,671 --> 00:41:06,507
-Mi papá decía que el <i>bourbon</i>
+Mi papÃ¡ decÃ­a que el <i>bourbon</i>
 de Kentucky...
 
 411
@@ -1768,12 +1768,12 @@ Este era su cuarto.
 
 413
 00:41:14,598 --> 00:41:16,225
-Lo dejé como estaba.
+Lo dejÃ© como estaba.
 
 414
 00:41:22,398 --> 00:41:25,901
-"Quizá papá vuelva un día
-si dejo todo como está".
+"QuizÃ¡ papÃ¡ vuelva un dÃ­a
+si dejo todo como estÃ¡".
 
 415
 00:41:26,360 --> 00:41:27,653
@@ -1781,12 +1781,12 @@ Es tonto.
 
 416
 00:41:29,488 --> 00:41:31,699
-El pensamiento mágico
-de los niños huérfanos.
+El pensamiento mÃ¡gico
+de los niÃ±os huÃ©rfanos.
 
 417
 00:41:31,866 --> 00:41:34,285
-Bloquearé el permiso de importación
+BloquearÃ© el permiso de importaciÃ³n
 para su mineral.
 
 418
@@ -1808,26 +1808,26 @@ para advertirnos.
 
 422
 00:42:01,854 --> 00:42:05,065
-Una señal si llegan por tierra,
+Una seÃ±al si llegan por tierra,
 dos si lo hacen por aire.
 
 423
 00:42:11,155 --> 00:42:14,200
-¿Cuál es el embuste
-más antiguo del país, senadora?
+Â¿CuÃ¡l es el embuste
+mÃ¡s antiguo del paÃ­s, senadora?
 
 424
 00:42:14,408 --> 00:42:15,409
-¿Puedo llamarla June?
+Â¿Puedo llamarla June?
 
 425
 00:42:15,576 --> 00:42:17,036
-Llámeme como quiera.
+LlÃ¡meme como quiera.
 
 426
 00:42:18,078 --> 00:42:20,915
 Llame a un balde de orina
-té de durazno de la abuela.
+tÃ© de durazno de la abuela.
 
 427
 00:42:22,416 --> 00:42:25,211
@@ -1836,27 +1836,27 @@ fuerza disuasiva.
 
 428
 00:42:27,505 --> 00:42:29,006
-No engaña a nadie.
+No engaÃ±a a nadie.
 
 429
 00:42:31,091 --> 00:42:32,593
-No me tragaré esto.
+No me tragarÃ© esto.
 
 430
 00:42:37,723 --> 00:42:40,017
-¿Piensa que papá se opondría?
+Â¿Piensa que papÃ¡ se opondrÃ­a?
 
 431
 00:42:40,184 --> 00:42:44,939
-¿A que cambiara una cosa en el cuarto?
+Â¿A que cambiara una cosa en el cuarto?
 
 432
 00:42:47,399 --> 00:42:49,693
-Porque eso debería estar al revés.
+Porque eso deberÃ­a estar al revÃ©s.
 
 433
 00:42:51,987 --> 00:42:53,906
-Ahora lo sabemos, ¿verdad?
+Ahora lo sabemos, Â¿verdad?
 
 434
 00:42:54,073 --> 00:42:57,117
@@ -1869,20 +1869,20 @@ No, vienen del cielo.
 
 436
 00:44:57,738 --> 00:44:59,531
-Ojalá la próxima generación Wayne...
+OjalÃ¡ la prÃ³xima generaciÃ³n Wayne...
 
 437
 00:44:59,698 --> 00:45:01,784
-...no herede una bodega vacía.
+...no herede una bodega vacÃ­a.
 
 438
 00:45:03,702 --> 00:45:06,747
 Aunque es poco probable
-que haya una próxima generación.
+que haya una prÃ³xima generaciÃ³n.
 
 439
 00:45:07,998 --> 00:45:09,041
-Gracias, señor.
+Gracias, seÃ±or.
 
 440
 00:45:12,378 --> 00:45:15,547
@@ -1891,7 +1891,7 @@ Estas son todas las llamadas del ruso.
 441
 00:45:15,923 --> 00:45:18,384
 Hay dos menciones de negocios
-con el Portugués Blanco.
+con el PortuguÃ©s Blanco.
 
 442
 00:45:18,550 --> 00:45:21,345
@@ -1904,8 +1904,8 @@ datos cifrados...
 
 444
 00:45:24,723 --> 00:45:28,018
-¿Cree que Lex Luthor sea
-el Portugués Blanco?
+Â¿Cree que Lex Luthor sea
+el PortuguÃ©s Blanco?
 
 445
 00:45:29,728 --> 00:45:33,065
@@ -1918,21 +1918,21 @@ Tengo que obtener datos en su casa...
 
 447
 00:45:34,650 --> 00:45:35,818
-...necesitaré el traje.
+...necesitarÃ© el traje.
 
 448
 00:45:35,985 --> 00:45:37,945
-El Murciélago interrogó
+El MurciÃ©lago interrogÃ³
 a seis personas...
 
 449
 00:45:38,153 --> 00:45:39,947
-...y no consiguió nada.
+...y no consiguiÃ³ nada.
 
 450
 00:45:41,740 --> 00:45:43,909
 Bruce Wayne fue
-quien obtuvo la información.
+quien obtuvo la informaciÃ³n.
 
 451
 00:45:44,076 --> 00:45:47,037
@@ -1941,7 +1941,7 @@ sin permiso en casa de Lex Luthor.
 
 452
 00:45:47,204 --> 00:45:48,747
-No tendrá que hacerlo.
+No tendrÃ¡ que hacerlo.
 
 453
 00:45:50,833 --> 00:45:52,167
@@ -1949,21 +1949,21 @@ Lo invitaron.
 
 454
 00:45:53,961 --> 00:45:56,422
-PARTICIPA - 1 ° DE NOVIEMBRE - 7:00 PM
+PARTICIPA - 1 Â° DE NOVIEMBRE - 7:00 PM
 ORGANIZADA POR ALEXANDER LUTHOR
 
 455
 00:46:20,029 --> 00:46:22,865
 JA, JA
-TE SALIÓ EL TIRO POR LA CULATA, BATMAN
+TE SALIÃ“ EL TIRO POR LA CULATA, BATMAN
 
 456
 00:47:04,865 --> 00:47:06,325
-¿Quién es?
+Â¿QuiÃ©n es?
 
 457
 00:47:07,659 --> 00:47:09,995
-Deberías saberlo.
+DeberÃ­as saberlo.
 
 458
 00:47:10,162 --> 00:47:11,789
@@ -1971,13 +1971,13 @@ Es Bruce Wayne.
 
 459
 00:47:12,831 --> 00:47:15,084
-Filántropo,
+FilÃ¡ntropo,
 amante de los libros...
 
 460
 00:47:15,292 --> 00:47:18,337
 ...y amigo fiel
-de la Biblioteca de Metrópolis.
+de la Biblioteca de MetrÃ³polis.
 
 461
 00:47:18,504 --> 00:47:19,880
@@ -1985,7 +1985,7 @@ El Sr. Lex Luthor.
 
 462
 00:47:20,297 --> 00:47:22,508
-¿Yo? Vaya.
+Â¿Yo? Vaya.
 
 463
 00:47:26,887 --> 00:47:28,472
@@ -1993,7 +1993,7 @@ Nicky.
 
 464
 00:47:29,139 --> 00:47:30,808
-Me avergüenzas.
+Me avergÃ¼enzas.
 
 465
 00:47:31,475 --> 00:47:32,851
@@ -2013,7 +2013,7 @@ Fin.
 
 469
 00:47:42,486 --> 00:47:45,239
-La palabra "filántropo" viene
+La palabra "filÃ¡ntropo" viene
 del griego.
 
 470
@@ -2022,11 +2022,11 @@ Significa "amante de la humanidad".
 
 471
 00:47:47,950 --> 00:47:50,160
-<i>Tiene unos 2.500 años de antigüedad.</i>
+<i>Tiene unos 2.500 aÃ±os de antigÃ¼edad.</i>
 
 472
 00:47:50,327 --> 00:47:51,870
-¿Adónde voy, Alfred?
+Â¿AdÃ³nde voy, Alfred?
 
 473
 00:47:52,037 --> 00:47:54,039
@@ -2038,12 +2038,12 @@ Gire a la izquierda.
 
 475
 00:47:56,375 --> 00:47:57,501
-<i>Ahí debería ser.</i>
+<i>AhÃ­ deberÃ­a ser.</i>
 
 476
 00:47:58,544 --> 00:48:00,379
 <i>Es en el pasillo de servicio,
-en el sótano.</i>
+en el sÃ³tano.</i>
 
 477
 00:48:00,546 --> 00:48:01,880
@@ -2052,11 +2052,11 @@ en el sótano.</i>
 478
 00:48:02,047 --> 00:48:04,633
 Dioses y hombres.
-Prometeo nos eligió a nosotros.
+Prometeo nos eligiÃ³ a nosotros.
 
 479
 00:48:04,800 --> 00:48:07,386
-Y arruinó el plan
+Y arruinÃ³ el plan
 de Zeus de destruirnos...
 
 480
@@ -2070,22 +2070,22 @@ Eso parece injusto.
 482
 00:48:13,475 --> 00:48:15,394
 En serio,
-la Biblioteca de Metrópolis...
+la Biblioteca de MetrÃ³polis...
 
 483
 00:48:15,561 --> 00:48:17,396
-Cuando entró,
-vio unas escaleras. Bájelas.
+Cuando entrÃ³,
+vio unas escaleras. BÃ¡jelas.
 
 484
 00:48:17,563 --> 00:48:20,732
 Pero antes,
-papá no podía comprarlos. No.
+papÃ¡ no podÃ­a comprarlos. No.
 
 485
 00:48:20,899 --> 00:48:22,234
-De niño,
-no podía permitirse libros.
+De niÃ±o,
+no podÃ­a permitirse libros.
 
 486
 00:48:22,401 --> 00:48:24,778
@@ -2093,7 +2093,7 @@ Buscaba en la basura el diario de ayer.
 
 487
 00:48:27,322 --> 00:48:28,740
-A su derecha está la cocina.
+A su derecha estÃ¡ la cocina.
 
 488
 00:48:30,033 --> 00:48:31,535
@@ -2105,7 +2105,7 @@ Delante de usted. Ese es el lugar.
 
 490
 00:48:49,887 --> 00:48:51,263
-¿Puedo ayudarlo, Sr. Wayne?
+Â¿Puedo ayudarlo, Sr. Wayne?
 
 491
 00:48:52,472 --> 00:48:53,891
@@ -2113,16 +2113,16 @@ Solo...
 
 492
 00:48:54,266 --> 00:48:56,602
-Pensé que el baño estaba aquí.
+PensÃ© que el baÃ±o estaba aquÃ­.
 Debo haberme...
 
 493
 00:48:57,394 --> 00:49:00,772
-El último martini fue demasiado.
+El Ãºltimo martini fue demasiado.
 
 494
 00:49:00,939 --> 00:49:03,525
-- El baño de hombres está arriba.
+- El baÃ±o de hombres estÃ¡ arriba.
 - Fabuloso. Estoy bien.
 
 495
@@ -2131,7 +2131,7 @@ Bonitos zapatos.
 
 496
 00:49:10,616 --> 00:49:12,576
-No puedo permanecer aquí, Alfred.
+No puedo permanecer aquÃ­, Alfred.
 
 497
 00:49:12,951 --> 00:49:14,453
@@ -2140,11 +2140,11 @@ No puedo permanecer aquí, Alfred.
 498
 00:49:14,620 --> 00:49:17,080
 Alguna joven
-de Metrópolis lo llevará al altar.
+de MetrÃ³polis lo llevarÃ¡ al altar.
 
 499
 00:49:19,249 --> 00:49:20,792
-En tus sueños, Alfred.
+En tus sueÃ±os, Alfred.
 
 500
 00:49:21,501 --> 00:49:22,961
@@ -2160,11 +2160,11 @@ No.
 
 503
 00:49:28,258 --> 00:49:30,969
-No. ¿Qué soy? ¿Qué decía? No.
+No. Â¿QuÃ© soy? Â¿QuÃ© decÃ­a? No.
 
 504
 00:49:33,347 --> 00:49:34,681
-Es una sensación contradictoria...
+Es una sensaciÃ³n contradictoria...
 
 505
 00:49:34,848 --> 00:49:37,768
@@ -2173,7 +2173,7 @@ porque...
 
 506
 00:49:38,810 --> 00:49:40,938
-¡Porque es paradójico! Y...
+Â¡Porque es paradÃ³jico! Y...
 
 507
 00:49:44,107 --> 00:49:45,317
@@ -2185,12 +2185,12 @@ Beban, por favor.
 
 509
 00:49:58,121 --> 00:50:02,084
-¿Sr. Wayne?
+Â¿Sr. Wayne?
 Soy Clark Kent, del <i>Daily Planet.</i>
 
 510
 00:50:02,251 --> 00:50:04,211
-Mi fundación ya hizo una declaración...
+Mi fundaciÃ³n ya hizo una declaraciÃ³n...
 
 511
 00:50:04,378 --> 00:50:06,338
@@ -2198,22 +2198,22 @@ Mi fundación ya hizo una declaración...
 
 512
 00:50:06,505 --> 00:50:07,673
-¿Perdón?
+Â¿PerdÃ³n?
 
 513
 00:50:09,424 --> 00:50:11,385
-Qué belleza. Es una mala costumbre.
-No lo publiques. ¿De acuerdo?
+QuÃ© belleza. Es una mala costumbre.
+No lo publiques. Â¿De acuerdo?
 
 514
 00:50:11,969 --> 00:50:14,012
-¿Qué opina
-del Murciélago parapolicía de Gótica?
+Â¿QuÃ© opina
+del MurciÃ©lago parapolicÃ­a de GÃ³tica?
 
 515
 00:50:16,014 --> 00:50:18,767
-<i>Daily Planet.</i> ¿Yo soy el dueño?
-O ¿es de otro?
+<i>Daily Planet.</i> Â¿Yo soy el dueÃ±o?
+O Â¿es de otro?
 
 516
 00:50:18,976 --> 00:50:22,145
@@ -2230,8 +2230,8 @@ No creas todo lo que escuches.
 
 519
 00:50:28,652 --> 00:50:32,030
-He visto la situación, Sr. Wayne.
-Él cree que es inmune a la ley.
+He visto la situaciÃ³n, Sr. Wayne.
+Ã‰l cree que es inmune a la ley.
 
 520
 00:50:35,200 --> 00:50:38,328
@@ -2239,13 +2239,13 @@ Que el <i>Daily Planet</i> critique eso...
 
 521
 00:50:38,495 --> 00:50:41,540
-...resulta un poco hipócrita,
-¿no te parece?
+...resulta un poco hipÃ³crita,
+Â¿no te parece?
 
 522
 00:50:42,666 --> 00:50:45,210
-Considerando que si su héroe
-baja un gato de un árbol...
+Considerando que si su hÃ©roe
+baja un gato de un Ã¡rbol...
 
 523
 00:50:45,377 --> 00:50:47,546
@@ -2253,25 +2253,25 @@ baja un gato de un árbol...
 
 524
 00:50:47,713 --> 00:50:50,299
-...a un alienígena que, si quisiera...
+...a un alienÃ­gena que, si quisiera...
 
 525
 00:50:50,465 --> 00:50:52,134
-...podría incinerar el mundo entero.
+...podrÃ­a incinerar el mundo entero.
 
 526
 00:50:53,218 --> 00:50:55,971
-No podríamos hacer nada para detenerlo.
+No podrÃ­amos hacer nada para detenerlo.
 
 527
 00:50:58,015 --> 00:51:01,059
-La mayoría no comparte
-su opinión, Sr. Wayne.
+La mayorÃ­a no comparte
+su opiniÃ³n, Sr. Wayne.
 
 528
 00:51:01,226 --> 00:51:03,770
-Quizá se deba a que soy
-de Ciudad Gótica.
+QuizÃ¡ se deba a que soy
+de Ciudad GÃ³tica.
 
 529
 00:51:03,937 --> 00:51:07,524
@@ -2280,7 +2280,7 @@ con bichos raros disfrazados de payasos.
 
 530
 00:51:09,735 --> 00:51:11,194
-¡Chicos!
+Â¡Chicos!
 
 531
 00:51:11,361 --> 00:51:13,739
@@ -2289,7 +2289,7 @@ Bruce Wayne conoce a Clark Kent.
 532
 00:51:13,905 --> 00:51:16,908
 Me encanta reunir a la gente.
-¿Cómo están?
+Â¿CÃ³mo estÃ¡n?
 
 533
 00:51:17,159 --> 00:51:18,660
@@ -2302,28 +2302,28 @@ Hola, soy Lex, mucho gusto.
 
 535
 00:51:21,163 --> 00:51:22,247
-¡Qué buen apretón!
+Â¡QuÃ© buen apretÃ³n!
 
 536
 00:51:22,414 --> 00:51:25,500
-Nunca pelees con él.
+Nunca pelees con Ã©l.
 
 537
 00:51:25,667 --> 00:51:27,919
-Después de tantos años,
-por fin visitas Metrópolis.
+DespuÃ©s de tantos aÃ±os,
+por fin visitas MetrÃ³polis.
 
 538
 00:51:28,086 --> 00:51:29,588
-Quería beberme todo tu alcohol.
+QuerÃ­a beberme todo tu alcohol.
 
 539
 00:51:29,755 --> 00:51:30,756
-Siempre serás bienvenido.
+Siempre serÃ¡s bienvenido.
 
 540
 00:51:30,964 --> 00:51:31,965
-Ven más seguido.
+Ven mÃ¡s seguido.
 
 541
 00:51:32,174 --> 00:51:33,216
@@ -2331,8 +2331,8 @@ Quiero que veas mis laboratorios.
 
 542
 00:51:33,425 --> 00:51:35,469
-Quizá podríamos asociarnos
-para algún negocio.
+QuizÃ¡ podrÃ­amos asociarnos
+para algÃºn negocio.
 
 543
 00:51:35,927 --> 00:51:38,096
@@ -2344,12 +2344,12 @@ Pasaron siete minutos.
 
 545
 00:51:44,186 --> 00:51:46,104
-<i>Se completó la transferencia.</i>
+<i>Se completÃ³ la transferencia.</i>
 
 546
 00:51:46,605 --> 00:51:47,773
 - Sr. Luthor.
-- ¿Sí?
+- Â¿SÃ­?
 
 547
 00:51:47,939 --> 00:51:49,608
@@ -2359,15 +2359,15 @@ Pasaron siete minutos.
 548
 00:51:49,775 --> 00:51:51,109
 - Disculpen.
-- Para la próxima.
+- Para la prÃ³xima.
 
 549
 00:51:51,276 --> 00:51:52,277
-¡Gobernador! ¡Hola!
+Â¡Gobernador! Â¡Hola!
 
 550
 00:51:52,444 --> 00:51:54,321
-Lex, qué gusto verte.
+Lex, quÃ© gusto verte.
 
 551
 00:52:32,734 --> 00:52:33,735
@@ -2386,7 +2386,7 @@ en un poder superior...</i>
 554
 00:53:46,391 --> 00:53:49,728
 <i>...y todas las religiones creen
-en una figura mesiánica.</i>
+en una figura mesiÃ¡nica.</i>
 
 555
 00:53:49,895 --> 00:53:51,396
@@ -2399,7 +2399,7 @@ EL TEMA DE SUPERMAN
 
 557
 00:53:53,064 --> 00:53:55,108
-<i>...¿queremos que acate nuestras normas?</i>
+<i>...Â¿queremos que acate nuestras normas?</i>
 
 558
 00:53:55,275 --> 00:53:57,235
@@ -2409,11 +2409,11 @@ como un cambio de paradigma.</i>
 559
 00:53:57,402 --> 00:53:59,821
 <i>Hay que empezar a pensar
-más allá de la política.</i>
+mÃ¡s allÃ¡ de la polÃ­tica.</i>
 
 560
 00:53:59,988 --> 00:54:02,491
-<i>¿Está sujeto a alguna restricción moral?</i>
+<i>Â¿EstÃ¡ sujeto a alguna restricciÃ³n moral?</i>
 
 561
 00:54:02,657 --> 00:54:04,493
@@ -2422,20 +2422,20 @@ más allá de la política.</i>
 562
 00:54:04,659 --> 00:54:05,911
 <i>En este planeta,
-todo acto es un acto político.</i>
+todo acto es un acto polÃ­tico.</i>
 
 563
 00:54:06,077 --> 00:54:07,370
-LAS ACCIONES DE SUPERMAN SON POLÍTICAS
+LAS ACCIONES DE SUPERMAN SON POLÃTICAS
 
 564
 00:54:07,579 --> 00:54:09,456
-<i>¿Sorprende a alguien...</i>
+<i>Â¿Sorprende a alguien...</i>
 
 565
 00:54:09,623 --> 00:54:11,833
 <i>...que el hombre
-más poderoso del mundo...</i>
+mÃ¡s poderoso del mundo...</i>
 
 566
 00:54:12,000 --> 00:54:14,503
@@ -2448,7 +2448,7 @@ más poderoso del mundo...</i>
 568
 00:54:16,505 --> 00:54:17,756
 SENADORA JUNE FINCH
-KENTUCKY (DEMÓCRATA)
+KENTUCKY (DEMÃ“CRATA)
 
 569
 00:54:17,923 --> 00:54:19,966
@@ -2456,7 +2456,7 @@ KENTUCKY (DEMÓCRATA)
 
 570
 00:54:20,133 --> 00:54:21,510
-<i>...debería hacernos dudar.</i>
+<i>...deberÃ­a hacernos dudar.</i>
 
 571
 00:54:22,260 --> 00:54:24,012
@@ -2474,16 +2474,16 @@ tremendas atrocidades.</i>
 
 574
 00:54:30,268 --> 00:54:32,896
-<i>Siempre creamos íconos
+<i>Siempre creamos Ã­conos
 a nuestra imagen y semejanza.</i>
 
 575
 00:54:33,063 --> 00:54:36,358
-<i>Nos proyectamos a nosotros mismos en él.</i>
+<i>Nos proyectamos a nosotros mismos en Ã©l.</i>
 
 576
 00:54:36,525 --> 00:54:40,070
-<i>Quizá no sea Jesús ni el diablo...</i>
+<i>QuizÃ¡ no sea JesÃºs ni el diablo...</i>
 
 577
 00:54:40,237 --> 00:54:42,489
@@ -2497,17 +2497,17 @@ cuya mera existencia...</i>
 
 579
 00:54:45,784 --> 00:54:47,744
-<i>...desafía nuestro propio sentido
+<i>...desafÃ­a nuestro propio sentido
 de prioridad en el universo.</i>
 
 580
 00:54:47,911 --> 00:54:49,621
 NEIL DEGRASSE TYSON
-ASTROFÍSICO, COSMÓLOGO, ESCRITOR
+ASTROFÃSICO, COSMÃ“LOGO, ESCRITOR
 
 581
 00:54:50,413 --> 00:54:51,665
-<i>Y volvemos a Copérnico...</i>
+<i>Y volvemos a CopÃ©rnico...</i>
 
 582
 00:54:51,831 --> 00:54:53,208
@@ -2523,7 +2523,7 @@ ASTROFÍSICO, COSMÓLOGO, ESCRITOR
 
 585
 00:54:56,336 --> 00:54:58,046
-<i>Llegamos a la evolución darwiniana...</i>
+<i>Llegamos a la evoluciÃ³n darwiniana...</i>
 
 586
 00:54:58,213 --> 00:55:00,173
@@ -2532,7 +2532,7 @@ que no somos especiales...</i>
 
 587
 00:55:00,340 --> 00:55:03,134
-<i>...sino una forma más de vida.</i>
+<i>...sino una forma mÃ¡s de vida.</i>
 
 588
 00:55:03,301 --> 00:55:04,761
@@ -2545,7 +2545,7 @@ porque existe Superman.</i>
 
 590
 00:55:09,432 --> 00:55:12,936
-<i>Hay un alienígena entre nosotros.</i>
+<i>Hay un alienÃ­gena entre nosotros.</i>
 
 591
 00:55:13,103 --> 00:55:14,229
@@ -2557,7 +2557,7 @@ porque existe Superman.</i>
 
 593
 00:55:17,357 --> 00:55:21,653
-<i>...¿le parece bien decirle
+<i>...Â¿le parece bien decirle
 a un padre afligido...</i>
 
 594
@@ -2571,19 +2571,19 @@ el estado no quiso que actuara?</i>
 
 596
 00:55:29,619 --> 00:55:31,371
-<i>Yo no digo que no actúe.</i>
+<i>Yo no digo que no actÃºe.</i>
 
 597
 00:55:31,538 --> 00:55:33,331
-<i>No debería hacerlo unilateralmente.</i>
+<i>No deberÃ­a hacerlo unilateralmente.</i>
 
 598
 00:55:33,498 --> 00:55:35,542
-<i>¿De qué hablamos entonces?</i>
+<i>Â¿De quÃ© hablamos entonces?</i>
 
 599
 00:55:35,709 --> 00:55:38,169
-<i>¿Debe existir un Superman?</i>
+<i>Â¿Debe existir un Superman?</i>
 
 600
 00:55:40,630 --> 00:55:41,756
@@ -2591,19 +2591,19 @@ el estado no quiso que actuara?</i>
 
 601
 00:55:54,519 --> 00:55:55,520
-¿Hola?
+Â¿Hola?
 
 602
 00:55:56,021 --> 00:55:57,063
-<i>¿Mamá?</i>
+<i>Â¿MamÃ¡?</i>
 
 603
 00:55:57,230 --> 00:55:58,440
-¡Clark!
+Â¡Clark!
 
 604
 00:55:59,608 --> 00:56:01,860
-¿Qué pasa?
+Â¿QuÃ© pasa?
 
 605
 00:56:02,027 --> 00:56:04,029
@@ -2619,27 +2619,27 @@ Hola.
 
 608
 00:56:14,414 --> 00:56:16,041
-¿Por qué papá nunca dejó Kansas?
+Â¿Por quÃ© papÃ¡ nunca dejÃ³ Kansas?
 
 609
 00:56:20,378 --> 00:56:22,047
-Él...
+Ã‰l...
 
 610
 00:56:22,547 --> 00:56:24,049
-Ya sabes cómo era.
+Ya sabes cÃ³mo era.
 
 611
 00:56:24,674 --> 00:56:26,509
-"¿Para qué viajar?
+"Â¿Para quÃ© viajar?
 
 612
 00:56:26,676 --> 00:56:28,386
-Ya estoy ahí".
+Ya estoy ahÃ­".
 
 613
 00:56:30,555 --> 00:56:32,140
-Ojalá fuera más fácil.
+OjalÃ¡ fuera mÃ¡s fÃ¡cil.
 
 614
 00:56:34,976 --> 00:56:36,311
@@ -2647,37 +2647,37 @@ Mi hijito.
 
 615
 00:56:38,188 --> 00:56:40,523
-Nada es fácil.
+Nada es fÃ¡cil.
 
 616
 00:56:47,864 --> 00:56:49,407
-Qué cosa más rara.
+QuÃ© cosa mÃ¡s rara.
 
 617
 00:56:53,078 --> 00:56:54,454
-Nunca había visto este metal.
+Nunca habÃ­a visto este metal.
 
 618
 00:56:56,414 --> 00:56:59,417
 Puede que sea
-algún experimento del gobierno.
+algÃºn experimento del gobierno.
 
 619
 00:56:59,584 --> 00:57:01,086
-¿Quién puede averiguarlo?
+Â¿QuiÃ©n puede averiguarlo?
 
 620
 00:57:01,252 --> 00:57:02,962
-Nadie querrá hacerlo.
+Nadie querrÃ¡ hacerlo.
 
 621
 00:57:03,129 --> 00:57:05,757
-Quizá se las dieron a los rebeldes
+QuizÃ¡ se las dieron a los rebeldes
 para probarlas.
 
 622
 00:57:05,924 --> 00:57:08,093
-¿Usaron soldados
+Â¿Usaron soldados
 como conejillos de indias?
 
 623
@@ -2686,17 +2686,17 @@ Esto es lo que te hace buen periodista.
 
 624
 00:57:11,888 --> 00:57:13,223
-Las cosas que aún te impresionan.
+Las cosas que aÃºn te impresionan.
 
 625
 00:57:22,774 --> 00:57:24,651
-POLICIALES - PARA LOS PRESOS DE GÓTICA,
+POLICIALES - PARA LOS PRESOS DE GÃ“TICA,
 LA MARCA ES PENA DE MUERTE
 
 626
 00:57:29,781 --> 00:57:32,367
 NUMEROSOS CRIMINALES
-CON LA "MARCA DEL MURCIÉLAGO"
+CON LA "MARCA DEL MURCIÃ‰LAGO"
 
 627
 00:57:32,617 --> 00:57:34,369
@@ -2704,21 +2704,21 @@ BATMAN ES JUEZ, JURADO Y VERDUGO
 
 628
 00:57:34,536 --> 00:57:35,995
-¿EL JUSTICIERO CON CAPA DE GÓTICA
+Â¿EL JUSTICIERO CON CAPA DE GÃ“TICA
 HA IDO DEMASIADO LEJOS?
 
 629
 00:57:36,162 --> 00:57:38,665
-¡Es un error!
+Â¡Es un error!
 
 630
 00:57:39,332 --> 00:57:40,625
-¡Transferencia de preso!
+Â¡Transferencia de preso!
 
 631
 00:57:41,292 --> 00:57:43,878
 No puede ponerme con el resto.
-Me matarán.
+Me matarÃ¡n.
 
 632
 00:57:44,045 --> 00:57:45,046
@@ -2730,16 +2730,16 @@ Agradezca a los contribuyentes...
 
 634
 00:57:46,965 --> 00:57:48,299
-...de Metrópolis por la prisión.
+...de MetrÃ³polis por la prisiÃ³n.
 
 635
 00:57:48,466 --> 00:57:49,467
-- Firme aquí.
+- Firme aquÃ­.
 - Estoy marcado.
 
 636
 00:57:49,676 --> 00:57:50,927
-¿No sabe lo que me harán?
+Â¿No sabe lo que me harÃ¡n?
 
 637
 00:57:51,136 --> 00:57:52,137
@@ -2747,13 +2747,13 @@ Es solo un criminal.
 
 638
 00:57:52,387 --> 00:57:54,139
-- ¡Por aquí! ¡Vamos!
-- ¡Me matarán!
+- Â¡Por aquÃ­! Â¡Vamos!
+- Â¡Me matarÃ¡n!
 
 639
 00:57:54,681 --> 00:57:56,141
-- ¡Me matarán!
-- ¡Vamos!
+- Â¡Me matarÃ¡n!
+- Â¡Vamos!
 
 640
 00:57:56,474 --> 00:57:58,852
@@ -2765,11 +2765,11 @@ Abre la dos.
 
 642
 00:58:05,775 --> 00:58:06,943
-¿Quién lo hizo?
+Â¿QuiÃ©n lo hizo?
 
 643
 00:58:19,080 --> 00:58:20,498
-¿Quién diablos eres?
+Â¿QuiÃ©n diablos eres?
 
 644
 00:58:26,045 --> 00:58:27,046
@@ -2777,7 +2777,7 @@ Soy solo un hombre.
 
 645
 00:58:27,255 --> 00:58:29,591
-¿Sí? Y ¿qué quieres?
+Â¿SÃ­? Y Â¿quÃ© quieres?
 
 646
 00:58:34,637 --> 00:58:35,847
@@ -2785,15 +2785,15 @@ Mantener en pie tu lucha.
 
 647
 00:58:41,352 --> 00:58:42,812
-Está la persona que citó.
+EstÃ¡ la persona que citÃ³.
 
 648
 00:58:52,822 --> 00:58:55,200
-Él me dejó minusválido.
+Ã‰l me dejÃ³ minusvÃ¡lido.
 
 649
 00:58:57,160 --> 00:59:00,872
-Mi esposa me dejó.
+Mi esposa me dejÃ³.
 
 650
 00:59:03,291 --> 00:59:06,377
@@ -2801,11 +2801,11 @@ Ni siquiera puedo orinar de pie.
 
 651
 00:59:07,545 --> 00:59:09,047
-Déjeme enfrentarlo.
+DÃ©jeme enfrentarlo.
 
 652
 00:59:11,216 --> 00:59:12,425
-¿Te encargas tú?
+Â¿Te encargas tÃº?
 
 653
 00:59:14,219 --> 00:59:15,386
@@ -2813,11 +2813,11 @@ Bien.
 
 654
 00:59:41,037 --> 00:59:42,163
-¿Qué?
+Â¿QuÃ©?
 
 655
 01:00:00,682 --> 01:00:02,058
-Se equivocó de baño, señorita.
+Se equivocÃ³ de baÃ±o, seÃ±orita.
 
 656
 01:00:02,475 --> 01:00:03,518
@@ -2825,7 +2825,7 @@ Secretario Swanwick...
 
 657
 01:00:03,768 --> 01:00:05,228
-...no contestó ninguna de mis llamadas.
+...no contestÃ³ ninguna de mis llamadas.
 
 658
 01:00:07,564 --> 01:00:09,524
@@ -2833,11 +2833,11 @@ Srta. Lane, si quiere una entrevista...
 
 659
 01:00:09,691 --> 01:00:12,110
-...el comandante Farris está ahí fuera.
+...el comandante Farris estÃ¡ ahÃ­ fuera.
 
 660
 01:00:12,277 --> 01:00:14,112
-¿Me trata como a una desconocida?
+Â¿Me trata como a una desconocida?
 
 661
 01:00:15,780 --> 01:00:17,365
@@ -2845,7 +2845,7 @@ La trato como a una periodista.
 
 662
 01:00:17,574 --> 01:00:21,411
-Bien. ¿Los Estados Unidos proveen
+Bien. Â¿Los Estados Unidos proveen
 de armas militares experimentales...
 
 663
@@ -2858,12 +2858,12 @@ Con semejantes pelotas...
 
 665
 01:00:25,874 --> 01:00:27,625
-...está en el lugar correcto.
+...estÃ¡ en el lugar correcto.
 
 666
 01:00:27,792 --> 01:00:30,461
-¿Quién es su fuente?
-¿Un loco con casco de papel aluminio?
+Â¿QuiÃ©n es su fuente?
+Â¿Un loco con casco de papel aluminio?
 
 667
 01:00:30,962 --> 01:00:32,964
@@ -2876,7 +2876,7 @@ Una bala del altercado de Superman.
 
 669
 01:00:34,966 --> 01:00:38,344
-El Pentágono no pudo identificarla.
+El PentÃ¡gono no pudo identificarla.
 No nos dicen la verdad.
 
 670
@@ -2885,16 +2885,16 @@ La verdad es esta.
 
 671
 01:00:39,804 --> 01:00:42,473
-Una periodista ávida por primicias
-se metió donde no debía.
+Una periodista Ã¡vida por primicias
+se metiÃ³ donde no debÃ­a.
 
 672
 01:00:42,640 --> 01:00:44,642
-Superman actuó como un renegado...
+Superman actuÃ³ como un renegado...
 
 673
 01:00:44,809 --> 01:00:46,436
-...y murió gente.
+...y muriÃ³ gente.
 
 674
 01:00:47,520 --> 01:00:50,189
@@ -2903,12 +2903,12 @@ para devolverle la aureola.
 
 675
 01:00:51,566 --> 01:00:52,650
-O devolvérsela a usted.
+O devolvÃ©rsela a usted.
 
 676
 01:00:53,860 --> 01:00:55,153
 - Comandante.
-- Señor.
+- SeÃ±or.
 
 677
 01:00:56,154 --> 01:00:57,447
@@ -2916,38 +2916,38 @@ O devolvérsela a usted.
 
 678
 01:00:57,614 --> 01:00:59,490
-Entré en tu Dropbox
+EntrÃ© en tu Dropbox
 para buscar la copia.
 
 679
 01:01:00,283 --> 01:01:01,618
-Y allí estaba.
+Y allÃ­ estaba.
 
 680
 01:01:02,911 --> 01:01:05,663
-Pero no trataba sobre fútbol...
+Pero no trataba sobre fÃºtbol...
 
 681
 01:01:06,664 --> 01:01:09,000
 ...ni sobre los amigos
-de la Biblioteca de Metrópolis...
+de la Biblioteca de MetrÃ³polis...
 
 682
 01:01:10,001 --> 01:01:12,712
-...sino sobre el Murciélago de Gótica...
+...sino sobre el MurciÃ©lago de GÃ³tica...
 
 683
 01:01:12,879 --> 01:01:14,422
-...que te prohibí investigar.
+...que te prohibÃ­ investigar.
 
 684
 01:01:14,589 --> 01:01:16,966
-Si la policía no ayuda,
+Si la policÃ­a no ayuda,
 debemos hacer lo correcto.
 
 685
 01:01:17,133 --> 01:01:18,259
-Tú no decides qué es lo correcto.
+TÃº no decides quÃ© es lo correcto.
 
 686
 01:01:18,426 --> 01:01:21,012
@@ -2956,8 +2956,8 @@ se luchaba por algo, Perry.
 
 687
 01:01:21,262 --> 01:01:25,058
-Podías hacerlo en 1938,
-pero no estamos en esa época.
+PodÃ­as hacerlo en 1938,
+pero no estamos en esa Ã©poca.
 
 688
 01:01:25,224 --> 01:01:28,269
@@ -2966,8 +2966,8 @@ Las manzanas no cuestan centavos.
 
 689
 01:01:28,436 --> 01:01:31,314
-Ni aquí ni en ningún lado.
-¡Ya deja ese artículo!
+Ni aquÃ­ ni en ningÃºn lado.
+Â¡Ya deja ese artÃ­culo!
 
 690
 01:01:33,900 --> 01:01:36,611
@@ -2985,7 +2985,7 @@ como estadounidense.</i>
 
 693
 01:01:42,992 --> 01:01:44,202
-<i>De hecho, ¿por qué lo haríamos?</i>
+<i>De hecho, Â¿por quÃ© lo harÃ­amos?</i>
 
 694
 01:01:44,369 --> 01:01:46,204
@@ -2993,12 +2993,12 @@ como estadounidense.</i>
 
 695
 01:01:46,371 --> 01:01:48,039
-<i>Y quizá el hecho...</i>
+<i>Y quizÃ¡ el hecho...</i>
 
 696
 01:01:48,247 --> 01:01:50,541
 <i>...de que lleve una letra
-del nombre de nuestro país.</i>
+del nombre de nuestro paÃ­s.</i>
 
 697
 01:01:50,708 --> 01:01:52,085
@@ -3006,7 +3006,7 @@ del nombre de nuestro país.</i>
 
 698
 01:01:52,293 --> 01:01:54,504
-<i>...la Declaración de independencia
+<i>...la DeclaraciÃ³n de independencia
 como capa porque...</i>
 
 699
@@ -3015,7 +3015,7 @@ como capa porque...</i>
 
 700
 01:01:56,714 --> 01:01:58,383
-- ¿Qué pasa aquí?
+- Â¿QuÃ© pasa aquÃ­?
 - No.
 
 701
@@ -3024,7 +3024,7 @@ Vamos. Andando.
 
 702
 01:02:00,218 --> 01:02:01,344
-Reúnanse y salgan.
+ReÃºnanse y salgan.
 
 703
 01:02:01,511 --> 01:02:02,595
@@ -3036,21 +3036,21 @@ La gente tiene sed.
 
 705
 01:02:13,272 --> 01:02:14,649
-¿Nos disculpan?
+Â¿Nos disculpan?
 
 706
 01:02:14,816 --> 01:02:16,609
 - Quiero mostrarle algo.
-- Perdón.
+- PerdÃ³n.
 
 707
 01:02:17,986 --> 01:02:21,072
 Algunos expertos insisten
-en que nunca pasó...
+en que nunca pasÃ³...
 
 708
 01:02:21,239 --> 01:02:23,074
-...pero yo creo que es la acción...
+...pero yo creo que es la acciÃ³n...
 
 709
 01:02:23,241 --> 01:02:25,078
@@ -3059,12 +3059,12 @@ perfectamente con un rey...
 
 710
 01:02:25,178 --> 01:02:27,245
-...que también era un asesino psicópata.
+...que tambiÃ©n era un asesino psicÃ³pata.
 
 711
 01:02:28,121 --> 01:02:31,708
-Para mí, es la culminación
-de 40 años de trabajo.
+Para mÃ­, es la culminaciÃ³n
+de 40 aÃ±os de trabajo.
 
 712
 01:02:31,916 --> 01:02:34,877
@@ -3077,16 +3077,16 @@ Es la espada de Alejandro.
 
 714
 01:02:39,674 --> 01:02:42,510
-La misma que cortó el nudo gordiano.
+La misma que cortÃ³ el nudo gordiano.
 
 715
 01:02:44,929 --> 01:02:47,598
 - Es una gran victoria.
-- Sí.
+- SÃ­.
 
 716
 01:02:47,807 --> 01:02:49,434
-- Disfrútela.
+- DisfrÃºtela.
 - Gracias.
 
 717
@@ -3101,7 +3101,7 @@ en el mercado negro.
 719
 01:03:01,487 --> 01:03:04,574
 - Y ahora cuelga--
-- Sobre la cama del Sultán de Hajar.
+- Sobre la cama del SultÃ¡n de Hajar.
 
 720
 01:03:08,119 --> 01:03:09,537
@@ -3109,24 +3109,24 @@ Con permiso.
 
 721
 01:03:10,788 --> 01:03:12,665
-Disculpe, señorita.
+Disculpe, seÃ±orita.
 
 722
 01:03:12,874 --> 01:03:16,044
-La otra noche tomó algo
+La otra noche tomÃ³ algo
 que no le pertenece.
 
 723
 01:03:16,210 --> 01:03:17,628
-Robar no es de buena educación.
+Robar no es de buena educaciÃ³n.
 
 724
 01:03:18,337 --> 01:03:20,965
-¿Es robo si se hurta a otro ladrón?
+Â¿Es robo si se hurta a otro ladrÃ³n?
 
 725
 01:03:22,717 --> 01:03:24,302
-¿Quién es?
+Â¿QuiÃ©n es?
 
 726
 01:03:24,469 --> 01:03:26,971
@@ -3135,15 +3135,15 @@ en el mismo hombre que usted.
 
 727
 01:03:28,222 --> 01:03:29,474
-¿Es así?
+Â¿Es asÃ­?
 
 728
 01:03:29,640 --> 01:03:32,935
-El Sr. Luthor tiene una foto que es mía.
+El Sr. Luthor tiene una foto que es mÃ­a.
 
 729
 01:03:33,102 --> 01:03:34,395
-¿La recuperó?
+Â¿La recuperÃ³?
 
 730
 01:03:34,604 --> 01:03:36,272
@@ -3151,7 +3151,7 @@ De hecho, no.
 
 731
 01:03:37,106 --> 01:03:39,984
-Los datos que copió tienen
+Los datos que copiÃ³ tienen
 un cifrado de nivel militar.
 
 732
@@ -3165,7 +3165,7 @@ que te salgas con la tuya.
 
 734
 01:03:46,657 --> 01:03:47,909
-Y ¿usted es el décimo?
+Y Â¿usted es el dÃ©cimo?
 
 735
 01:03:48,159 --> 01:03:49,660
@@ -3181,7 +3181,7 @@ No me conoces...
 
 738
 01:03:55,666 --> 01:03:57,251
-...pero conocí a mujeres como tú.
+...pero conocÃ­ a mujeres como tÃº.
 
 739
 01:04:00,838 --> 01:04:03,174
@@ -3198,12 +3198,12 @@ No saben compartir naturalmente.
 
 742
 01:04:12,391 --> 01:04:15,520
-No robé su dispositivo.
-Lo tomé prestado.
+No robÃ© su dispositivo.
+Lo tomÃ© prestado.
 
 743
 01:04:16,854 --> 01:04:19,774
-Lo encontrará en la guantera de su auto.
+Lo encontrarÃ¡ en la guantera de su auto.
 
 744
 01:04:21,067 --> 01:04:22,151
@@ -3227,15 +3227,15 @@ DESCIFRANDO
 
 749
 01:06:15,389 --> 01:06:16,641
-¿La conseguiste?
+Â¿La conseguiste?
 
 750
 01:06:16,807 --> 01:06:17,808
-¿La piedra?
+Â¿La piedra?
 
 751
 01:06:17,975 --> 01:06:19,227
-Sí, la tenemos.
+SÃ­, la tenemos.
 
 752
 01:06:45,002 --> 01:06:46,295
@@ -3243,11 +3243,11 @@ Lo siento.
 
 753
 01:06:47,964 --> 01:06:50,883
-¡Abajo!
+Â¡Abajo!
 
 754
 01:07:06,732 --> 01:07:07,858
-¡No!
+Â¡No!
 
 755
 01:09:02,014 --> 01:09:03,432
@@ -3255,59 +3255,59 @@ Ella era mi mundo.
 
 756
 01:09:05,309 --> 01:09:07,144
-Y tú me la quitaste.
+Y tÃº me la quitaste.
 
 757
 01:09:18,531 --> 01:09:19,532
-¡Bruce!
+Â¡Bruce!
 
 758
 01:09:19,782 --> 01:09:22,576
-¡Bruce! ¡Escúchame!
+Â¡Bruce! Â¡EscÃºchame!
 
 759
 01:09:26,122 --> 01:09:27,331
-¡Es Lois!
+Â¡Es Lois!
 
 760
 01:09:28,207 --> 01:09:29,500
-¡Lois Lane!
+Â¡Lois Lane!
 
 761
 01:09:30,793 --> 01:09:32,044
-¡Ella es la llave!
+Â¡Ella es la llave!
 
 762
 01:09:34,130 --> 01:09:35,548
-¿Llego muy temprano?
+Â¿Llego muy temprano?
 
 763
 01:09:38,092 --> 01:09:39,510
-¡Llego muy temprano!
+Â¡Llego muy temprano!
 
 764
 01:09:40,761 --> 01:09:42,763
-¡Tienes razón sobre él!
+Â¡Tienes razÃ³n sobre Ã©l!
 
 765
 01:09:42,930 --> 01:09:45,850
-¡Siempre la tuviste!
+Â¡Siempre la tuviste!
 
 766
 01:09:46,016 --> 01:09:48,352
-¡Tenle miedo!
+Â¡Tenle miedo!
 
 767
 01:09:48,853 --> 01:09:50,146
-¡Búscanos, Bruce!
+Â¡BÃºscanos, Bruce!
 
 768
 01:09:51,230 --> 01:09:52,815
-¡Tienes que encontrarnos!
+Â¡Tienes que encontrarnos!
 
 769
 01:10:27,391 --> 01:10:30,060
-PORTUGUÉS BLANCO
+PORTUGUÃ‰S BLANCO
 
 770
 01:10:32,730 --> 01:10:34,982
@@ -3323,15 +3323,15 @@ VERDUGO
 
 773
 01:10:43,782 --> 01:10:46,035
-¿JUSTICIA?
+Â¿JUSTICIA?
 
 774
 01:10:50,539 --> 01:10:52,750
-PORTUGUÉS BLANCO
+PORTUGUÃ‰S BLANCO
 
 775
 01:10:57,129 --> 01:10:58,923
-<i>El</i> Portugués Blanco <i>no es un hombre.</i>
+<i>El</i> PortuguÃ©s Blanco <i>no es un hombre.</i>
 
 776
 01:10:59,089 --> 01:11:00,257
@@ -3339,12 +3339,12 @@ PORTUGUÉS BLANCO
 
 777
 01:11:03,010 --> 01:11:06,096
-Señorito Wayne,
-desde que tenía siete años...
+SeÃ±orito Wayne,
+desde que tenÃ­a siete aÃ±os...
 
 778
 01:11:06,263 --> 01:11:08,140
-...ha sido tan bueno engañando...
+...ha sido tan bueno engaÃ±ando...
 
 779
 01:11:08,307 --> 01:11:10,768
@@ -3352,16 +3352,16 @@ desde que tenía siete años...
 
 780
 01:11:10,935 --> 01:11:13,979
-Pero no tanto como para engañarme a mí.
+Pero no tanto como para engaÃ±arme a mÃ­.
 
 781
 01:11:16,607 --> 01:11:19,610
-El <i>Portugués Blanco</i> no lleva
-una bomba atómica.
+El <i>PortuguÃ©s Blanco</i> no lleva
+una bomba atÃ³mica.
 
 782
 01:11:19,777 --> 01:11:21,153
-¿Qué transporta?
+Â¿QuÃ© transporta?
 
 783
 01:11:22,446 --> 01:11:23,739
@@ -3374,20 +3374,20 @@ Una piedra.
 785
 01:11:26,283 --> 01:11:29,578
 Un mineral capaz de debilitar
-las células kryptonianas.
+las cÃ©lulas kryptonianas.
 
 786
 01:11:29,745 --> 01:11:31,497
 Hallaron la primera
-de tamaño significativo...
+de tamaÃ±o significativo...
 
 787
 01:11:31,664 --> 01:11:33,707
-...en el Índico hace tres meses.
+...en el Ãndico hace tres meses.
 
 788
 01:11:33,874 --> 01:11:35,501
-Está a bordo del <i>Portugués Blanco</i>...
+EstÃ¡ a bordo del <i>PortuguÃ©s Blanco</i>...
 
 789
 01:11:35,709 --> 01:11:37,962
@@ -3395,11 +3395,11 @@ Está a bordo del <i>Portugués Blanco</i>...
 
 790
 01:11:38,212 --> 01:11:39,713
-A quien se la robaré.
+A quien se la robarÃ©.
 
 791
 01:11:39,964 --> 01:11:41,757
-Se la quitará...
+Se la quitarÃ¡...
 
 792
 01:11:42,007 --> 01:11:43,342
@@ -3411,12 +3411,12 @@ No.
 
 794
 01:11:48,722 --> 01:11:50,599
-¿Iniciará una guerra?
+Â¿IniciarÃ¡ una guerra?
 
 795
 01:11:51,141 --> 01:11:55,479
 Ese hijo de perra trajo la guerra
-hace dos años.
+hace dos aÃ±os.
 
 796
 01:11:57,022 --> 01:12:00,359
@@ -3425,7 +3425,7 @@ Miles de personas.
 
 797
 01:12:01,944 --> 01:12:04,488
-¿Qué es lo que sigue? ¿Millones?
+Â¿QuÃ© es lo que sigue? Â¿Millones?
 
 798
 01:12:04,697 --> 01:12:07,324
@@ -3434,7 +3434,7 @@ toda la raza humana.
 
 799
 01:12:07,491 --> 01:12:09,910
-La más mínima posibilidad
+La mÃ¡s mÃ­nima posibilidad
 de que sea nuestro enemigo...
 
 800
@@ -3452,11 +3452,11 @@ Pero no es nuestro enemigo.
 
 803
 01:12:18,002 --> 01:12:19,545
-Todavía no.
+TodavÃ­a no.
 
 804
 01:12:20,170 --> 01:12:21,964
-Pero con 20 años en Gótica, Alfred...
+Pero con 20 aÃ±os en GÃ³tica, Alfred...
 
 805
 01:12:22,715 --> 01:12:24,633
@@ -3465,11 +3465,11 @@ que valen las promesas...
 
 806
 01:12:25,843 --> 01:12:27,469
-...cuánta gente buena quedó...
+...cuÃ¡nta gente buena quedÃ³...
 
 807
 01:12:28,887 --> 01:12:30,514
-...y cuántos permanecieron así.
+...y cuÃ¡ntos permanecieron asÃ­.
 
 808
 01:12:33,559 --> 01:12:35,019
@@ -3482,7 +3482,7 @@ del <i>Daily Planet.</i>
 
 810
 01:12:43,819 --> 01:12:46,530
-Investigo qué pasó con un preso...
+Investigo quÃ© pasÃ³ con un preso...
 
 811
 01:12:46,739 --> 01:12:47,823
@@ -3490,35 +3490,35 @@ Investigo qué pasó con un preso...
 
 812
 01:12:48,157 --> 01:12:49,825
-No puedo brindarle información.
+No puedo brindarle informaciÃ³n.
 
 813
 01:13:07,468 --> 01:13:08,719
-¡Mamá!
+Â¡MamÃ¡!
 
 814
 01:13:12,389 --> 01:13:13,557
-¿Sra. Santos?
+Â¿Sra. Santos?
 
 815
 01:13:15,225 --> 01:13:16,935
-¿Puedo hacerle unas preguntas?
+Â¿Puedo hacerle unas preguntas?
 
 816
 01:13:17,436 --> 01:13:20,731
-No era mi esposo. Pero sé lo que hizo.
+No era mi esposo. Pero sÃ© lo que hizo.
 
 817
 01:13:22,066 --> 01:13:24,860
-Pero también era padre.
+Pero tambiÃ©n era padre.
 
 818
 01:13:25,903 --> 01:13:27,696
-Lo sacaron de la sede de Gótica.
+Lo sacaron de la sede de GÃ³tica.
 
 819
 01:13:27,863 --> 01:13:29,406
-Lo trasladaron a Metrópolis.
+Lo trasladaron a MetrÃ³polis.
 
 820
 01:13:29,907 --> 01:13:31,575
@@ -3531,30 +3531,30 @@ A los guardias no les importa.
 
 822
 01:13:34,328 --> 01:13:35,663
-El Murciélago es el juez.
+El MurciÃ©lago es el juez.
 
 823
 01:13:36,622 --> 01:13:38,457
-Un hombre decide quién vive.
+Un hombre decide quiÃ©n vive.
 
 824
 01:13:38,624 --> 01:13:40,167
-- ¿Dónde está la justicia?
-- Cuénteme.
+- Â¿DÃ³nde estÃ¡ la justicia?
+- CuÃ©nteme.
 
 825
 01:13:40,834 --> 01:13:43,128
-- Ayúdeme a cambiarlo.
-- ¿Con qué cosa? ¿Su pluma?
+- AyÃºdeme a cambiarlo.
+- Â¿Con quÃ© cosa? Â¿Su pluma?
 
 826
 01:13:44,046 --> 01:13:46,256
-Las palabras no detendrán
-a un hombre así.
+Las palabras no detendrÃ¡n
+a un hombre asÃ­.
 
 827
 01:13:46,840 --> 01:13:49,677
-¿Sabe qué lo detendrá? Un puño.
+Â¿Sabe quÃ© lo detendrÃ¡? Un puÃ±o.
 
 828
 01:13:54,390 --> 01:13:55,599
@@ -3562,15 +3562,15 @@ a un hombre así.
 
 829
 01:13:57,976 --> 01:13:59,436
-¡Kent!
+Â¡Kent!
 
 830
 01:13:59,603 --> 01:14:01,605
-¿Dónde se mete? ¿Adónde va, Jenny?
+Â¿DÃ³nde se mete? Â¿AdÃ³nde va, Jenny?
 
 831
 01:14:01,814 --> 01:14:03,273
-No lo sé.
+No lo sÃ©.
 
 832
 01:14:03,691 --> 01:14:06,694
@@ -3583,32 +3583,32 @@ Hijo de...
 
 834
 01:14:22,167 --> 01:14:24,336
-¡Gírala!
+Â¡GÃ­rala!
 
 835
 01:15:08,005 --> 01:15:09,423
-¡Vamos!
+Â¡Vamos!
 
 836
 01:15:44,374 --> 01:15:45,374
-DÁRSENA Y TERMINAL NICHOLSON
+DÃRSENA Y TERMINAL NICHOLSON
 
 837
 01:15:45,501 --> 01:15:46,502
-¡Vamos!
+Â¡Vamos!
 
 838
 01:16:25,749 --> 01:16:26,917
-¡No!
+Â¡No!
 
 839
 01:17:51,835 --> 01:17:53,086
-¿Dónde está?
+Â¿DÃ³nde estÃ¡?
 
 840
 01:19:13,000 --> 01:19:15,544
-La próxima vez
-que tu señal brille en el cielo...
+La prÃ³xima vez
+que tu seÃ±al brille en el cielo...
 
 841
 01:19:15,711 --> 01:19:17,379
@@ -3616,11 +3616,11 @@ que tu señal brille en el cielo...
 
 842
 01:19:17,546 --> 01:19:19,881
-El Murciélago está muerto. Entiérralo.
+El MurciÃ©lago estÃ¡ muerto. EntiÃ©rralo.
 
 843
 01:19:21,550 --> 01:19:22,801
-Considéralo un acto de piedad.
+ConsidÃ©ralo un acto de piedad.
 
 844
 01:19:25,220 --> 01:19:26,388
@@ -3628,19 +3628,19 @@ Dime.
 
 845
 01:19:30,809 --> 01:19:32,269
-¿Tú sangras?
+Â¿TÃº sangras?
 
 846
 01:19:40,986 --> 01:19:42,279
-Lo harás.
+Lo harÃ¡s.
 
 847
 01:20:24,154 --> 01:20:27,407
-EN BUSCA DE SEÑAL DEL TRANSPONDEDOR
+EN BUSCA DE SEÃ‘AL DEL TRANSPONDEDOR
 
 848
 01:20:46,510 --> 01:20:49,096
-PARQUE TECNOLÓGICO LEXCORP
+PARQUE TECNOLÃ“GICO LEXCORP
 
 849
 01:21:24,548 --> 01:21:27,425
@@ -3649,7 +3649,7 @@ Sr. Secretario.
 
 850
 01:21:27,592 --> 01:21:29,261
-Fui al desierto, murió gente...
+Fui al desierto, muriÃ³ gente...
 
 851
 01:21:29,511 --> 01:21:31,221
@@ -3658,15 +3658,15 @@ Fui al desierto, murió gente...
 852
 01:21:37,269 --> 01:21:40,564
 Si usted cree que Superman
-es un asesino, tírela.
+es un asesino, tÃ­rela.
 
 853
 01:21:41,106 --> 01:21:42,858
-Pero no creo que piense así.
+Pero no creo que piense asÃ­.
 
 854
 01:21:45,944 --> 01:21:47,737
-<i>¿Cómo decidimos lo que está bien?</i>
+<i>Â¿CÃ³mo decidimos lo que estÃ¡ bien?</i>
 
 855
 01:21:49,114 --> 01:21:51,950
@@ -3675,16 +3675,16 @@ el bien surge del consenso colectivo...
 
 856
 01:21:52,117 --> 01:21:53,535
-...no es una decisión unilateral.
+...no es una decisiÃ³n unilateral.
 
 857
 01:21:54,452 --> 01:21:57,539
-Así que le pido a Superman que venga...
+AsÃ­ que le pido a Superman que venga...
 
 858
 01:21:57,706 --> 01:22:00,417
-<i>...mañana al Congreso
-para ver a las víctimas.</i>
+<i>...maÃ±ana al Congreso
+para ver a las vÃ­ctimas.</i>
 
 859
 01:22:00,584 --> 01:22:01,626
@@ -3693,19 +3693,19 @@ RUEDA DE PRENSA DE LA SENADORA FINCH
 860
 01:22:01,793 --> 01:22:04,588
 <i>El mundo necesita saber
-qué pasó en el desierto.</i>
+quÃ© pasÃ³ en el desierto.</i>
 
 861
 01:22:05,255 --> 01:22:06,756
-<i>Y conocer qué es lo que defiende.</i>
+<i>Y conocer quÃ© es lo que defiende.</i>
 
 862
 01:22:07,757 --> 01:22:09,926
-<i>¿Hasta qué punto llevará su poder?</i>
+<i>Â¿Hasta quÃ© punto llevarÃ¡ su poder?</i>
 
 863
 01:22:11,553 --> 01:22:15,307
-<i>¿Actúa según nuestra voluntad,
+<i>Â¿ActÃºa segÃºn nuestra voluntad,
 o por cuenta propia?</i>
 
 864
@@ -3714,7 +3714,7 @@ o por cuenta propia?</i>
 
 865
 01:22:27,652 --> 01:22:31,281
-Pero ve lo que haces y sabe quién eres.
+Pero ve lo que haces y sabe quiÃ©n eres.
 
 866
 01:22:32,782 --> 01:22:35,911
@@ -3726,12 +3726,12 @@ Nunca quise que te mostraras al mundo.
 
 868
 01:22:43,251 --> 01:22:46,755
-Sé su héroe, Clark. Sé su inspiración.
+SÃ© su hÃ©roe, Clark. SÃ© su inspiraciÃ³n.
 
 869
 01:22:46,922 --> 01:22:50,550
-Sé su ángel.
-Sé todo lo que quieran que seas.
+SÃ© su Ã¡ngel.
+SÃ© todo lo que quieran que seas.
 
 870
 01:22:51,468 --> 01:22:53,136
@@ -3748,11 +3748,11 @@ Nunca le debiste.
 873
 01:23:02,646 --> 01:23:05,440
 <i>Llegamos a DeNiros.
-Lugar de combinación para avenida Kane.</i>
+Lugar de combinaciÃ³n para avenida Kane.</i>
 
 874
 01:23:05,607 --> 01:23:06,983
-<i>Tengan cuidado con el escalón.</i>
+<i>Tengan cuidado con el escalÃ³n.</i>
 
 875
 01:23:37,013 --> 01:23:40,517
@@ -3762,7 +3762,7 @@ Lugar de combinación para avenida Kane.</i>
 876
 01:23:40,767 --> 01:23:44,020
 <i>Debo verla antes de la audiencia.
-¿Entiende lo importante que es?</i>
+Â¿Entiende lo importante que es?</i>
 
 877
 01:23:44,229 --> 01:23:47,357
@@ -3771,8 +3771,8 @@ Lugar de combinación para avenida Kane.</i>
 
 878
 01:23:47,565 --> 01:23:50,360
-<i>Señora. ¡Se lo ruego!
-¡No haga esto!</i>
+<i>SeÃ±ora. Â¡Se lo ruego!
+Â¡No haga esto!</i>
 
 879
 01:23:50,527 --> 01:23:51,820
@@ -3780,38 +3780,38 @@ Es muy importante.
 
 880
 01:23:52,028 --> 01:23:53,613
-- Acompáñeme.
-- ¡No me toque!
+- AcompÃ¡Ã±eme.
+- Â¡No me toque!
 
 881
 01:23:54,572 --> 01:23:56,449
-- ¡Por favor!
-- Perdón. No se iba.
+- Â¡Por favor!
+- PerdÃ³n. No se iba.
 
 882
 01:23:58,493 --> 01:23:59,995
-No le conté la verdad.
+No le contÃ© la verdad.
 
 883
 01:24:01,329 --> 01:24:03,331
-Según el FBI,
+SegÃºn el FBI,
 lo del desierto fue una trampa.
 
 884
 01:24:04,124 --> 01:24:05,917
-Querían que pareciera culpa de Superman.
+QuerÃ­an que pareciera culpa de Superman.
 
 885
 01:24:08,336 --> 01:24:09,462
-¿La bala?
+Â¿La bala?
 
 886
 01:24:17,095 --> 01:24:19,139
-Una empresa desarrolló el metal.
+Una empresa desarrollÃ³ el metal.
 
 887
 01:24:19,306 --> 01:24:20,390
-¿Qué empresa?
+Â¿QuÃ© empresa?
 
 888
 01:24:20,557 --> 01:24:21,683
@@ -3819,16 +3819,16 @@ LexCorp.
 
 889
 01:24:23,143 --> 01:24:24,227
-¿Lex Luthor?
+Â¿Lex Luthor?
 
 890
 01:24:24,394 --> 01:24:27,314
-También tenía una instalación
+TambiÃ©n tenÃ­a una instalaciÃ³n
 con mercenarios en el desierto.
 
 891
 01:24:31,651 --> 01:24:32,986
-Hazlo público.
+Hazlo pÃºblico.
 
 892
 01:24:33,445 --> 01:24:36,031
@@ -3849,7 +3849,7 @@ para incriminar a Superman...
 
 896
 01:24:41,578 --> 01:24:43,246
-...¿cómo supieron que aparecería en--
+...Â¿cÃ³mo supieron que aparecerÃ­a en--
 
 897
 01:24:50,920 --> 01:24:52,797
@@ -3857,7 +3857,7 @@ En medio del desierto. Gracias.
 
 898
 01:24:56,301 --> 01:24:59,804
-La audiencia del Senado empezará
+La audiencia del Senado empezarÃ¡
 en cualquier momento.
 
 899
@@ -3866,7 +3866,7 @@ Y el gran misterio es...
 
 900
 01:25:02,349 --> 01:25:03,433
-...si Superman se presentará.
+...si Superman se presentarÃ¡.
 
 901
 01:25:03,600 --> 01:25:04,601
@@ -3887,11 +3887,11 @@ Una pregunta.
 
 905
 01:25:08,897 --> 01:25:10,315
-Se reunirá con los senadores.
+Se reunirÃ¡ con los senadores.
 
 906
 01:25:10,565 --> 01:25:11,816
-¿Qué les dirá?
+Â¿QuÃ© les dirÃ¡?
 
 907
 01:25:12,317 --> 01:25:15,278
@@ -3903,24 +3903,24 @@ Se reunirá con los senadores.
 
 909
 01:25:17,447 --> 01:25:18,907
-<i>Él desató una guerra aquí.</i>
+<i>Ã‰l desatÃ³ una guerra aquÃ­.</i>
 
 910
 01:25:19,074 --> 01:25:20,075
-<i>Y así...</i>
+<i>Y asÃ­...</i>
 
 911
 01:25:20,241 --> 01:25:21,242
-EXEMPLEADO DE WAYNE DECLARARÁ
+EXEMPLEADO DE WAYNE DECLARARÃ
 
 912
 01:25:21,409 --> 01:25:23,787
-<i>Así luce la guerra.
+<i>AsÃ­ luce la guerra.
 No tengo nada.</i>
 
 913
 01:25:23,995 --> 01:25:28,666
-<i>- Mucha gente diría que él es un héroe.
+<i>- Mucha gente dirÃ­a que Ã©l es un hÃ©roe.
 - No lo es.</i>
 
 914
@@ -3933,20 +3933,20 @@ Ya mismo.
 
 916
 01:25:34,089 --> 01:25:35,715
-Una fuente anónima puede verificar todo.
+Una fuente anÃ³nima puede verificar todo.
 
 917
 01:25:35,965 --> 01:25:37,759
-Te dije lo que pasó en Nairomi.
+Te dije lo que pasÃ³ en Nairomi.
 
 918
 01:25:37,926 --> 01:25:40,303
-- ¿Una fuente anónima?
-<i>- Publícalo.</i>
+- Â¿Una fuente anÃ³nima?
+<i>- PublÃ­calo.</i>
 
 919
 01:25:40,470 --> 01:25:42,180
-Luthor tramó lo del desierto.
+Luthor tramÃ³ lo del desierto.
 
 920
 01:25:42,472 --> 01:25:44,641
@@ -3954,11 +3954,11 @@ Fue una emboscada para Superman.
 
 921
 01:25:44,808 --> 01:25:45,975
-Confía. Piensa en Watergate.
+ConfÃ­a. Piensa en Watergate.
 
 922
 01:25:46,184 --> 01:25:47,811
-<i>Y tú piensa en los juicios.</i>
+<i>Y tÃº piensa en los juicios.</i>
 
 923
 01:25:48,019 --> 01:25:50,230
@@ -3976,24 +3976,24 @@ Tienes que publicarlo ya.
 926
 01:25:53,733 --> 01:25:56,611
 <i>Antes de la audiencia.
-Superman podría cambiar lo que dirá.</i>
+Superman podrÃ­a cambiar lo que dirÃ¡.</i>
 
 927
 01:25:56,778 --> 01:25:58,822
-No arriesgaré el diario...
+No arriesgarÃ© el diario...
 
 928
 01:25:58,988 --> 01:26:01,908
-...para que tú le pases notas
-en clase al hombre que te rescató.
+...para que tÃº le pases notas
+en clase al hombre que te rescatÃ³.
 
 929
 01:26:02,242 --> 01:26:03,451
-<i>¿Le pagó?</i>
+<i>Â¿Le pagÃ³?</i>
 
 930
 01:26:03,618 --> 01:26:06,329
-No solo le pagó, la amenazó.
+No solo le pagÃ³, la amenazÃ³.
 
 931
 01:26:06,496 --> 01:26:07,831
@@ -4001,19 +4001,19 @@ Le dio un guion para aprender.
 
 932
 01:26:08,665 --> 01:26:10,542
-Sus padres están vivos en su país.
+Sus padres estÃ¡n vivos en su paÃ­s.
 
 933
 01:26:11,501 --> 01:26:13,294
-Pero la chica tiene escrúpulos.
+Pero la chica tiene escrÃºpulos.
 
 934
 01:26:13,461 --> 01:26:15,171
-Él ha estado jugando con el comité.
+Ã‰l ha estado jugando con el comitÃ©.
 
 935
 01:26:15,338 --> 01:26:16,339
-¡Senadora!
+Â¡Senadora!
 
 936
 01:26:17,006 --> 01:26:18,216
@@ -4025,7 +4025,7 @@ No se vaya. Quiero hablarle.
 
 938
 01:26:20,135 --> 01:26:21,136
-¿Sabes qué?
+Â¿Sabes quÃ©?
 
 939
 01:26:21,302 --> 01:26:23,638
@@ -4034,7 +4034,7 @@ que nadie se siente en mi lugar.
 
 940
 01:26:23,805 --> 01:26:24,931
-¿Qué trae entre manos?
+Â¿QuÃ© trae entre manos?
 
 941
 01:26:25,181 --> 01:26:26,391
@@ -4051,16 +4051,16 @@ un disuasivo kryptoniano...
 
 944
 01:26:30,520 --> 01:26:31,729
-...decidió impedirlo.
+...decidiÃ³ impedirlo.
 
 945
 01:26:31,980 --> 01:26:36,151
-Sí, la presidente del comité
+SÃ­, la presidente del comitÃ©
 sobre Superman descuida la seguridad.
 
 946
 01:26:36,317 --> 01:26:37,652
-Greg, ¿por qué no recibe
+Greg, Â¿por quÃ© no recibe
 nuestros cheques?
 
 947
@@ -4070,7 +4070,7 @@ Los recibe, Sr. Wayne...
 948
 01:26:39,154 --> 01:26:40,738
 ...todos los meses,
-del Fondo para Víctimas.
+del Fondo para VÃ­ctimas.
 
 949
 01:26:41,322 --> 01:26:42,449
@@ -4083,12 +4083,12 @@ ABRA LOS OJOS
 
 951
 01:26:43,908 --> 01:26:45,493
-<i>Quien perdió las piernas...</i>
+<i>Quien perdiÃ³ las piernas...</i>
 
 952
 01:26:45,660 --> 01:26:49,205
-<i>...en el horror que sufrió Metrópolis
-hace dos años.</i>
+<i>...en el horror que sufriÃ³ MetrÃ³polis
+hace dos aÃ±os.</i>
 
 953
 01:26:49,664 --> 01:26:50,790
@@ -4100,21 +4100,21 @@ BRUCE WAYNE = CIEGO
 
 955
 01:26:52,750 --> 01:26:55,462
-- ¿Por qué nunca los vi?
-- Lo siento. Lo investigaré a fondo.
+- Â¿Por quÃ© nunca los vi?
+- Lo siento. Lo investigarÃ© a fondo.
 
 956
 01:26:56,713 --> 01:26:59,048
-<i>Y ahí está. Superman vino.</i>
+<i>Y ahÃ­ estÃ¡. Superman vino.</i>
 
 957
 01:26:59,340 --> 01:27:01,301
-<i>Está en el Congreso
+<i>EstÃ¡ en el Congreso
 de los Estados Unidos.</i>
 
 958
 01:27:01,551 --> 01:27:03,720
-<i>Es un momento histórico.</i>
+<i>Es un momento histÃ³rico.</i>
 
 959
 01:27:03,887 --> 01:27:05,805
@@ -4131,26 +4131,26 @@ y ante el mundo.</i>
 
 962
 01:27:11,561 --> 01:27:12,729
-Está aquí. Vino.
+EstÃ¡ aquÃ­. Vino.
 
 963
 01:27:12,896 --> 01:27:14,606
-Está encima del Congreso.
+EstÃ¡ encima del Congreso.
 
 964
 01:27:15,607 --> 01:27:18,151
 Le toca sacar
-las castañas del fuego, June.
+las castaÃ±as del fuego, June.
 
 965
 01:27:18,401 --> 01:27:21,654
 Me crie en una granja.
-Sé cómo hacerle frente a un cerdo.
+SÃ© cÃ³mo hacerle frente a un cerdo.
 
 966
 01:27:21,821 --> 01:27:23,573
-¿Cuál es el embuste más antiguo
-del país, senadora?
+Â¿CuÃ¡l es el embuste mÃ¡s antiguo
+del paÃ­s, senadora?
 
 967
 01:27:25,700 --> 01:27:27,452
@@ -4162,7 +4162,7 @@ Suerte.
 
 969
 01:28:06,783 --> 01:28:07,784
-Señorita...
+SeÃ±orita...
 
 970
 01:28:08,826 --> 01:28:10,411
@@ -4170,20 +4170,20 @@ Rudy, ella puede pasar.
 
 971
 01:28:13,873 --> 01:28:16,793
-SUPERMAN = ALIENÍGENA ILEGAL
+SUPERMAN = ALIENÃGENA ILEGAL
 
 972
 01:28:19,170 --> 01:28:20,213
-¡Vete!
+Â¡Vete!
 
 973
 01:28:23,758 --> 01:28:26,302
-- ¡Vete!
-- ¡Superman!
+- Â¡Vete!
+- Â¡Superman!
 
 974
 01:28:33,476 --> 01:28:35,144
-Llegó otro esta mañana, Sr. Wayne.
+LlegÃ³ otro esta maÃ±ana, Sr. Wayne.
 
 975
 01:29:14,100 --> 01:29:17,145
@@ -4196,7 +4196,7 @@ quiero agradecer al testigo...
 
 977
 01:29:20,440 --> 01:29:22,525
-Así funciona la democracia.
+AsÃ­ funciona la democracia.
 
 978
 01:29:23,192 --> 01:29:24,611
@@ -4208,12 +4208,12 @@ Actuamos por consentimiento del pueblo.
 
 980
 01:29:31,534 --> 01:29:34,871
-Ya estuve aquí para decir
-que este comité no tolerará...
+Ya estuve aquÃ­ para decir
+que este comitÃ© no tolerarÃ¡...
 
 981
 01:29:35,038 --> 01:29:36,539
-...ninguna intervención
+...ninguna intervenciÃ³n
 a puertas cerradas.
 
 982
@@ -4222,7 +4222,7 @@ Ni mentiras.
 
 983
 01:29:40,960 --> 01:29:44,380
-Porque hoy es un día para la verdad.
+Porque hoy es un dÃ­a para la verdad.
 
 984
 01:29:46,257 --> 01:29:47,884
@@ -4242,7 +4242,7 @@ Podemos dar libertad a--
 
 988
 01:30:27,924 --> 01:30:29,342
-TÉ DE DURAZNO DE LA ABUELA
+TÃ‰ DE DURAZNO DE LA ABUELA
 
 989
 01:30:35,848 --> 01:30:38,184
@@ -4251,7 +4251,7 @@ PRESIDENTE - LEXCORP
 
 990
 01:30:52,448 --> 01:30:53,449
-<i>¡Dios mío!</i>
+<i>Â¡Dios mÃ­o!</i>
 
 991
 01:30:53,616 --> 01:30:54,616
@@ -4279,7 +4279,7 @@ Disculpe, oficial.
 
 997
 01:31:44,417 --> 01:31:46,836
-Soy periodista. ¿Me deja pasar?
+Soy periodista. Â¿Me deja pasar?
 
 998
 01:31:54,844 --> 01:31:56,220
@@ -4287,7 +4287,7 @@ Respire hondo y lentamente.
 
 999
 01:31:56,929 --> 01:31:58,055
-Se pondrá bien.
+Se pondrÃ¡ bien.
 
 1000
 01:32:05,730 --> 01:32:09,150
@@ -4295,7 +4295,7 @@ Gracias. Necesito espacio para trabajar.
 
 1001
 01:32:10,568 --> 01:32:13,279
-Señora, parece que sufrió
+SeÃ±ora, parece que sufriÃ³
 un trauma en la cabeza.
 
 1002
@@ -4304,11 +4304,11 @@ Quiero que siga la luz con los ojos.
 
 1003
 01:33:06,958 --> 01:33:08,417
-Señorito Wayne.
+SeÃ±orito Wayne.
 
 1004
 01:33:11,587 --> 01:33:13,339
-¡Sr. Wayne!
+Â¡Sr. Wayne!
 
 1005
 01:33:14,465 --> 01:33:18,553
@@ -4317,8 +4317,8 @@ donde Superman declaraba.</i>
 
 1006
 01:33:18,719 --> 01:33:21,430
-<i>La situación
-en el Congreso es catastrófica.</i>
+<i>La situaciÃ³n
+en el Congreso es catastrÃ³fica.</i>
 
 1007
 01:33:21,597 --> 01:33:22,890
@@ -4326,11 +4326,11 @@ en el Congreso es catastrófica.</i>
 
 1008
 01:33:23,057 --> 01:33:25,184
-<i>...pero más de una docena de personas...</i>
+<i>...pero mÃ¡s de una docena de personas...</i>
 
 1009
 01:33:25,351 --> 01:33:26,811
-<i>...murieron en la explosión.</i>
+<i>...murieron en la explosiÃ³n.</i>
 
 1010
 01:33:26,978 --> 01:33:28,062
@@ -4338,20 +4338,20 @@ en el Congreso es catastrófica.</i>
 
 1011
 01:33:28,229 --> 01:33:29,689
-<i>...todavía retiran víctimas.</i>
+<i>...todavÃ­a retiran vÃ­ctimas.</i>
 
 1012
 01:33:29,897 --> 01:33:30,898
-EXPLOSIÓN SACUDE EL CONGRESO
+EXPLOSIÃ“N SACUDE EL CONGRESO
 
 1013
 01:33:31,232 --> 01:33:34,527
 <i>Al principio,
-Superman ayudaba a retirar víctimas...</i>
+Superman ayudaba a retirar vÃ­ctimas...</i>
 
 1014
 01:33:34,694 --> 01:33:37,029
-<i>...pero luego desapareció...</i>
+<i>...pero luego desapareciÃ³...</i>
 
 1015
 01:33:37,196 --> 01:33:38,322
@@ -4364,8 +4364,8 @@ en vivo desde el Congreso nacional.</i>
 
 1017
 01:33:41,450 --> 01:33:44,120
-<i>La policía del Congreso confirma
-que la explosión se produjo...</i>
+<i>La policÃ­a del Congreso confirma
+que la explosiÃ³n se produjo...</i>
 
 1018
 01:33:44,287 --> 01:33:46,956
@@ -4374,17 +4374,17 @@ dentro de la sala de audiencias.</i>
 
 1019
 01:34:11,898 --> 01:34:14,275
-Pásamelo una vez más.
+PÃ¡samelo una vez mÃ¡s.
 
 1020
 01:34:14,442 --> 01:34:17,320
-- ¿Puedes realzarlo?
-- Ahí tiene, señor.
+- Â¿Puedes realzarlo?
+- AhÃ­ tiene, seÃ±or.
 
 1021
 01:34:56,025 --> 01:35:00,029
-<i>La policía del Congreso confirma a CNN
-que el presunto terrorista sería...</i>
+<i>La policÃ­a del Congreso confirma a CNN
+que el presunto terrorista serÃ­a...</i>
 
 1022
 01:35:00,196 --> 01:35:02,198
@@ -4393,7 +4393,7 @@ Dichas fuentes...</i>
 
 1023
 01:35:02,365 --> 01:35:04,033
-Clark, soy yo otra vez. ¿Puedes--
+Clark, soy yo otra vez. Â¿Puedes--
 
 1024
 01:35:04,200 --> 01:35:08,829
@@ -4403,7 +4403,7 @@ audiencia, oculto en su silla de ruedas.</i>
 1025
 01:35:08,996 --> 01:35:12,208
 <i>Superman estaba en la sala,
-pero, obviamente, no lo impidió.</i>
+pero, obviamente, no lo impidiÃ³.</i>
 
 1026
 01:35:12,375 --> 01:35:13,668
@@ -4411,11 +4411,11 @@ No lo vi, Lo.
 
 1027
 01:35:14,877 --> 01:35:16,796
-Yo estaba ahí mismo y no lo vi.
+Yo estaba ahÃ­ mismo y no lo vi.
 
 1028
 01:35:16,963 --> 01:35:18,381
-Clark, hay gente detrás de esto.
+Clark, hay gente detrÃ¡s de esto.
 
 1029
 01:35:18,547 --> 01:35:21,467
@@ -4436,7 +4436,7 @@ Remediando injusticias para un fantasma.
 
 1033
 01:35:34,563 --> 01:35:36,774
-Pensando que estaba aquí para ayudar.
+Pensando que estaba aquÃ­ para ayudar.
 
 1034
 01:35:40,653 --> 01:35:42,571
@@ -4444,16 +4444,16 @@ Superman nunca fue real.
 
 1035
 01:35:43,531 --> 01:35:45,908
-Fue un sueño de un granjero de Kansas.
+Fue un sueÃ±o de un granjero de Kansas.
 
 1036
 01:35:47,451 --> 01:35:50,371
 Hay personas que solo tienen
-ese sueño de granjero.
+ese sueÃ±o de granjero.
 
 1037
 01:35:50,955 --> 01:35:53,249
-Es lo único que les da esperanza.
+Es lo Ãºnico que les da esperanza.
 
 1038
 01:36:04,093 --> 01:36:05,928
@@ -4473,20 +4473,20 @@ Mi mundo ya no existe.
 
 1042
 01:37:33,516 --> 01:37:37,937
-<i>Según el análisis,
+<i>SegÃºn el anÃ¡lisis,
 el rendimiento de la nave es del 37%.</i>
 
 1043
 01:37:38,771 --> 01:37:40,856
-<i>¿Quiere asumir el mando?</i>
+<i>Â¿Quiere asumir el mando?</i>
 
 1044
 01:37:41,440 --> 01:37:42,775
-Sí.
+SÃ­.
 
 1045
 01:37:43,442 --> 01:37:45,361
-Sí.
+SÃ­.
 
 1046
 01:37:45,528 --> 01:37:48,030
@@ -4499,7 +4499,7 @@ el conocimiento de 100. 000 planetas.</i>
 
 1048
 01:37:53,744 --> 01:37:57,081
-Bien. Enséñame.
+Bien. EnsÃ©Ã±ame.
 
 1049
 01:39:12,281 --> 01:39:14,408
@@ -4507,7 +4507,7 @@ META_HUMANO
 
 1050
 01:39:24,919 --> 01:39:25,920
-2012_CENTRAL_IMPORTACIÓN.JPEG
+2012_CENTRAL_IMPORTACIÃ“N.JPEG
 
 1051
 01:39:38,974 --> 01:39:39,975
@@ -4515,37 +4515,37 @@ VIGILANCIA_MBANK_0188374.MP4
 
 1052
 01:39:40,809 --> 01:39:44,897
-CÁMARA 01
-PARÍS, FRANCIA
+CÃMARA 01
+PARÃS, FRANCIA
 
 1053
 01:39:50,736 --> 01:39:51,862
-VERIFICACIÓN FACIAL
+VERIFICACIÃ“N FACIAL
 DATOS REGISTRADOS
 
 1054
 01:39:52,321 --> 01:39:53,989
-PARÍS, FRANCIA
+PARÃS, FRANCIA
 RUE DES SAINTS
 
 1055
 01:39:58,869 --> 01:40:00,579
-BÉLGICA, NOVIEMBRE, 1918
+BÃ‰LGICA, NOVIEMBRE, 1918
 
 1056
 01:40:27,231 --> 01:40:31,318
 <i>Alexander Luthor, fue aceptada
-su cancelación de la seguridad.</i>
+su cancelaciÃ³n de la seguridad.</i>
 
 1057
 01:40:31,485 --> 01:40:34,363
-<i>Cámara Génesis lista
-para analizar muestra genética.</i>
+<i>CÃ¡mara GÃ©nesis lista
+para analizar muestra genÃ©tica.</i>
 
 1058
 01:40:37,741 --> 01:40:40,703
 <i>Reconocimiento de presencia
-de material genético.</i>
+de material genÃ©tico.</i>
 
 1059
 01:40:40,869 --> 01:40:42,204
@@ -4553,13 +4553,13 @@ de material genético.</i>
 
 1060
 01:40:44,957 --> 01:40:48,711
-<i>Huésped identificado
+<i>HuÃ©sped identificado
 como General Zod de Kandor.</i>
 
 1061
 01:41:04,393 --> 01:41:07,146
 <i>Reconocimiento de presencia
-de material genético extraño.</i>
+de material genÃ©tico extraÃ±o.</i>
 
 1062
 01:41:07,313 --> 01:41:08,897
@@ -4571,19 +4571,19 @@ Volaste muy cerca del sol.
 
 1064
 01:41:14,153 --> 01:41:15,946
-Mírate ahora.
+MÃ­rate ahora.
 
 1065
 01:41:17,281 --> 01:41:19,783
-<i>Advertencia. Acción prohibida.</i>
+<i>Advertencia. AcciÃ³n prohibida.</i>
 
 1066
 01:41:20,284 --> 01:41:22,661
-<i>Por decreto del Consejo de Kryptón...</i>
+<i>Por decreto del Consejo de KryptÃ³n...</i>
 
 1067
 01:41:22,828 --> 01:41:26,123
-<i>...nadie resucitará
+<i>...nadie resucitarÃ¡
 a una monstruosidad...</i>
 
 1068
@@ -4593,15 +4593,15 @@ para la vista y la memoria.</i>
 
 1069
 01:41:28,709 --> 01:41:30,753
-<i>La profanación sin nombre.</i>
+<i>La profanaciÃ³n sin nombre.</i>
 
 1070
 01:41:31,211 --> 01:41:33,756
-Y ¿dónde está el Consejo de Kryptón?
+Y Â¿dÃ³nde estÃ¡ el Consejo de KryptÃ³n?
 
 1071
 01:41:34,506 --> 01:41:35,591
-<i>Destruido, señor.</i>
+<i>Destruido, seÃ±or.</i>
 
 1072
 01:41:36,884 --> 01:41:38,260
@@ -4613,7 +4613,7 @@ Entonces prosigue.
 
 1074
 01:41:40,387 --> 01:41:43,515
-<i>Preparando crisálida
+<i>Preparando crisÃ¡lida
 y comenzando metamorfosis.</i>
 
 1075
@@ -4627,16 +4627,16 @@ de la amenaza y no hizo nada...
 
 1077
 01:41:51,106 --> 01:41:54,026
-...¿fue cómplice
+...Â¿fue cÃ³mplice
 en la tragedia del Congreso?"
 
 1078
 01:41:54,276 --> 01:41:55,277
-¿Kent aún no llegó?
+Â¿Kent aÃºn no llegÃ³?
 
 1079
 01:41:55,444 --> 01:41:57,154
-"Su desaparición suscita dudas".
+"Su desapariciÃ³n suscita dudas".
 
 1080
 01:41:57,404 --> 01:41:58,447
@@ -4644,13 +4644,13 @@ No.
 
 1081
 01:41:58,614 --> 01:42:01,909
-<i>Aún hay muchas preguntas
+<i>AÃºn hay muchas preguntas
 sin respuesta. La principal...</i>
 
 1082
 01:42:02,076 --> 01:42:04,787
 <i>...si Superman estaba implicado
-en la planificación del ataque.</i>
+en la planificaciÃ³n del ataque.</i>
 
 1083
 01:42:04,953 --> 01:42:07,164
@@ -4660,7 +4660,7 @@ con poderes ilimitados...</i>
 1084
 01:42:07,331 --> 01:42:10,334
 <i>...y no hizo nada para detener
-al terrorista muy cerca de él.</i>
+al terrorista muy cerca de Ã©l.</i>
 
 1085
 01:42:10,501 --> 01:42:12,127
@@ -4669,19 +4669,19 @@ para los investigadores.</i>
 
 1086
 01:42:13,170 --> 01:42:14,838
-<i>¡Quémenlo!</i>
+<i>Â¡QuÃ©menlo!</i>
 
 1087
 01:42:15,005 --> 01:42:17,549
-<i>¡Quémenlo!</i>
+<i>Â¡QuÃ©menlo!</i>
 
 1088
 01:42:20,761 --> 01:42:24,139
-¿SUPERMAN ESTABA INVOLUCRADO?
+Â¿SUPERMAN ESTABA INVOLUCRADO?
 
 1089
 01:42:39,613 --> 01:42:42,533
-Por 20 dólares, no te vio.
+Por 20 dÃ³lares, no te vio.
 
 1090
 01:42:44,034 --> 01:42:45,119
@@ -4697,7 +4697,7 @@ Lo mismo digo.
 
 1093
 01:43:00,968 --> 01:43:04,680
-<i>"Un montón de materiales para fabricar
+<i>"Un montÃ³n de materiales para fabricar
 bombas en el apartamento de Keefe".</i>
 
 1094
@@ -4706,22 +4706,22 @@ bombas en el apartamento de Keefe".</i>
 
 1095
 01:43:06,515 --> 01:43:09,726
-<i>...si recibió ayuda en la planificación
-y ejecución del atentado.</i>
+<i>...si recibiÃ³ ayuda en la planificaciÃ³n
+y ejecuciÃ³n del atentado.</i>
 
 1096
 01:43:09,893 --> 01:43:14,273
 <i>No excluyen la idea
-de que Superman sea cómplice.</i>
+de que Superman sea cÃ³mplice.</i>
 
 1097
 01:43:15,190 --> 01:43:16,442
-<i>Según mis fuentes...</i>
+<i>SegÃºn mis fuentes...</i>
 
 1098
 01:43:16,608 --> 01:43:19,653
 <i>...reciben muchos indicios
-anónimos y creíbles...</i>
+anÃ³nimos y creÃ­bles...</i>
 
 1099
 01:43:19,903 --> 01:43:24,783
@@ -4734,11 +4734,11 @@ Lois. Tienes que irte.
 
 1101
 01:44:20,964 --> 01:44:23,008
-No sabía que iba a morir.
+No sabÃ­a que iba a morir.
 
 1102
 01:44:24,301 --> 01:44:25,928
-Compró comida.
+ComprÃ³ comida.
 
 1103
 01:44:26,094 --> 01:44:27,888
@@ -4751,25 +4751,25 @@ y la bala del desierto...
 
 1105
 01:44:30,098 --> 01:44:31,225
-Sí. El desierto. La audiencia.
+SÃ­. El desierto. La audiencia.
 
 1106
 01:44:31,391 --> 01:44:34,102
-Allí donde Superman va,
+AllÃ­ donde Superman va,
 Luthor quiere muerte.
 
 1107
 01:44:34,269 --> 01:44:36,730
-<i>Pero, ¿Luthor se toma la molestia...</i>
+<i>Pero, Â¿Luthor se toma la molestia...</i>
 
 1108
 01:44:36,897 --> 01:44:40,108
 ...de crear una bomba en una silla
-de ruedas y limita la explosión?
+de ruedas y limita la explosiÃ³n?
 
 1109
 01:44:40,275 --> 01:44:41,902
-¿Qué quieres decir?
+Â¿QuÃ© quieres decir?
 
 1110
 01:44:42,069 --> 01:44:44,613
@@ -4778,47 +4778,47 @@ recubierto de plomo.
 
 1111
 01:44:46,823 --> 01:44:48,283
-No podías detenerlo.
+No podÃ­as detenerlo.
 
 1112
 01:44:49,618 --> 01:44:50,911
-No podías verlo.
+No podÃ­as verlo.
 
 1113
 01:45:33,287 --> 01:45:34,621
-Es algo, ¿no?
+Es algo, Â¿no?
 
 1114
 01:45:36,498 --> 01:45:40,502
 En Kansas, vivimos en una llanura,
-así que venimos a las montañas.
+asÃ­ que venimos a las montaÃ±as.
 
 1115
 01:45:41,628 --> 01:45:45,257
-Desde aquí,
+Desde aquÃ­,
 todo es cuesta abajo, hasta llegar...
 
 1116
 01:45:45,424 --> 01:45:47,467
-...a la granja junto al río.
+...a la granja junto al rÃ­o.
 
 1117
 01:45:49,261 --> 01:45:52,139
 Recuerdo una temporada
-que llovió demasiado.
+que lloviÃ³ demasiado.
 
 1118
 01:45:52,306 --> 01:45:54,349
-Yo tenía menos de 12 años.
+Yo tenÃ­a menos de 12 aÃ±os.
 
 1119
 01:45:54,516 --> 01:45:57,394
-Papá buscó las palas,
+PapÃ¡ buscÃ³ las palas,
 y trabajamos duro toda la noche.
 
 1120
 01:45:57,561 --> 01:45:59,187
-Trabajamos hasta que me desmayé.
+Trabajamos hasta que me desmayÃ©.
 
 1121
 01:45:59,354 --> 01:46:01,148
@@ -4830,42 +4830,42 @@ Salvamos la granja.
 
 1123
 01:46:05,485 --> 01:46:08,572
-Tu abuela me preparó un pastel.
-Me dijo que era un héroe.
+Tu abuela me preparÃ³ un pastel.
+Me dijo que era un hÃ©roe.
 
 1124
 01:46:11,074 --> 01:46:15,037
-Más tarde vimos
+MÃ¡s tarde vimos
 que bloqueamos el agua...
 
 1125
 01:46:15,245 --> 01:46:16,580
-...pero la habíamos enviado río arriba.
+...pero la habÃ­amos enviado rÃ­o arriba.
 
 1126
 01:46:17,789 --> 01:46:19,958
-La corriente se llevó la granja de Lang.
+La corriente se llevÃ³ la granja de Lang.
 
 1127
 01:46:21,335 --> 01:46:24,212
-Mientras comía mi pastel de héroe,
+Mientras comÃ­a mi pastel de hÃ©roe,
 se ahogaban sus caballos.
 
 1128
 01:46:27,174 --> 01:46:29,885
-En mis sueños, oía sus lamentos.
+En mis sueÃ±os, oÃ­a sus lamentos.
 
 1129
 01:46:33,347 --> 01:46:35,432
-¿Dejaste de tener las pesadillas?
+Â¿Dejaste de tener las pesadillas?
 
 1130
 01:46:37,559 --> 01:46:38,894
-Sí.
+SÃ­.
 
 1131
 01:46:39,936 --> 01:46:41,855
-Cuando conocí a tu madre.
+Cuando conocÃ­ a tu madre.
 
 1132
 01:46:43,899 --> 01:46:46,693
@@ -4878,11 +4878,11 @@ Ella era mi mundo.
 
 1134
 01:46:54,117 --> 01:46:55,744
-Te extraño, hijo.
+Te extraÃ±o, hijo.
 
 1135
 01:47:00,666 --> 01:47:02,668
-Y yo a ti, papá.
+Y yo a ti, papÃ¡.
 
 1136
 01:47:22,479 --> 01:47:24,106
@@ -4894,17 +4894,17 @@ Es suicidio.
 
 1138
 01:47:30,195 --> 01:47:33,573
-Soy más viejo
-de lo que llegó a ser mi padre.
+Soy mÃ¡s viejo
+de lo que llegÃ³ a ser mi padre.
 
 1139
 01:47:35,575 --> 01:47:38,495
-Quizá sea lo único importante
+QuizÃ¡ sea lo Ãºnico importante
 que haga en mi vida.
 
 1140
 01:47:39,246 --> 01:47:43,125
-¿Veinte años enfrentando delincuentes
+Â¿Veinte aÃ±os enfrentando delincuentes
 no significan nada?
 
 1141
@@ -4926,20 +4926,20 @@ Es mi legado.
 
 1145
 01:47:57,514 --> 01:47:59,516
-Mi padre me contó aquí mismo...
+Mi padre me contÃ³ aquÃ­ mismo...
 
 1146
 01:47:59,683 --> 01:48:01,435
-...cuál es la base
+...cuÃ¡l es la base
 de la fortuna de los Wayne.
 
 1147
 01:48:01,601 --> 01:48:05,230
-Ferrocarriles, inmuebles y petróleo.
+Ferrocarriles, inmuebles y petrÃ³leo.
 
 1148
 01:48:05,397 --> 01:48:08,900
-La primera generación comerciaba
+La primera generaciÃ³n comerciaba
 con los franceses.
 
 1149
@@ -4952,20 +4952,20 @@ Eran cazadores.
 
 1151
 01:48:32,674 --> 01:48:35,427
-Así se derrumba la casa de Wayne.
+AsÃ­ se derrumba la casa de Wayne.
 
 1152
 01:48:36,470 --> 01:48:40,015
-<i>Necesitamos más pruebas,
+<i>Necesitamos mÃ¡s pruebas,
 pero la pregunta sigue siendo...</i>
 
 1153
 01:48:40,182 --> 01:48:41,308
-<i>...dónde está.</i>
+<i>...dÃ³nde estÃ¡.</i>
 
 1154
 01:48:42,100 --> 01:48:44,269
-<i>Si Superman no está implicado...</i>
+<i>Si Superman no estÃ¡ implicado...</i>
 
 1155
 01:48:44,436 --> 01:48:45,729
@@ -4973,17 +4973,17 @@ pero la pregunta sigue siendo...</i>
 
 1156
 01:48:45,937 --> 01:48:49,524
-<i>...¿por qué desapareció
-desde el día de la tragedia?</i>
+<i>...Â¿por quÃ© desapareciÃ³
+desde el dÃ­a de la tragedia?</i>
 
 1157
 01:48:49,691 --> 01:48:51,193
-<i>No puedes señalarlo con el dedo y--</i>
+<i>No puedes seÃ±alarlo con el dedo y--</i>
 
 1158
 01:48:51,359 --> 01:48:53,528
-<i>No señalo nada, Warren.
-Mira. Diez dedos, ¿ves?</i>
+<i>No seÃ±alo nada, Warren.
+Mira. Diez dedos, Â¿ves?</i>
 
 1159
 01:48:53,695 --> 01:48:55,530
@@ -4991,7 +4991,7 @@ Mira. Diez dedos, ¿ves?</i>
 
 1160
 01:50:24,119 --> 01:50:25,829
-Llegó la noche.
+LlegÃ³ la noche.
 
 1161
 01:50:56,568 --> 01:50:57,777
@@ -4999,11 +4999,11 @@ Disculpe.
 
 1162
 01:50:59,821 --> 01:51:00,989
-¿No lo conozco--
+Â¿No lo conozco--
 
 1163
 01:52:04,177 --> 01:52:07,931
-Sencillamente Lo por las mañanas.
+Sencillamente Lo por las maÃ±anas.
 Lola con pantalones.
 
 1164
@@ -5017,7 +5017,7 @@ Venga a ver el paisaje.
 1166
 01:52:16,940 --> 01:52:21,277
 El secreto de la altura
-es el material de construcción.
+es el material de construcciÃ³n.
 
 1167
 01:52:21,444 --> 01:52:25,240
@@ -5026,12 +5026,12 @@ que oscilan con el viento.
 
 1168
 01:52:29,619 --> 01:52:32,706
-¿Sabe algo sobre los metales
+Â¿Sabe algo sobre los metales
 de LexCorp Srta. Lane?
 
 1169
 01:52:32,872 --> 01:52:35,083
-Demostré lo que hizo.
+DemostrÃ© lo que hizo.
 
 1170
 01:52:35,250 --> 01:52:36,751
@@ -5039,7 +5039,7 @@ Vaya, es agresiva.
 
 1171
 01:52:36,918 --> 01:52:39,254
-Por desgracia, eso volará.
+Por desgracia, eso volarÃ¡.
 
 1172
 01:52:39,421 --> 01:52:40,922
@@ -5047,16 +5047,16 @@ Como arena en el desierto.
 
 1173
 01:52:41,089 --> 01:52:42,757
-Está psicótico.
+EstÃ¡ psicÃ³tico.
 
 1174
 01:52:42,924 --> 01:52:46,428
-Una palabra de 4 sílabas que usan, si no
-entienden algo, las mentes pequeñas.
+Una palabra de 4 sÃ­labas que usan, si no
+entienden algo, las mentes pequeÃ±as.
 
 1175
 01:52:47,095 --> 01:52:48,930
-Siguiente categoría: círculos.
+Siguiente categorÃ­a: cÃ­rculos.
 
 1176
 01:52:49,431 --> 01:52:54,394
@@ -5065,7 +5065,7 @@ en busca de Superman.
 
 1177
 01:52:54,561 --> 01:52:56,187
-Categoría incorrecta. No, triángulos.
+CategorÃ­a incorrecta. No, triÃ¡ngulos.
 
 1178
 01:52:56,354 --> 01:52:57,772
@@ -5073,16 +5073,16 @@ Desigualdad triangular de Euclides.
 
 1179
 01:52:57,939 --> 01:53:01,776
-La distancia más corta entre dos puntos
+La distancia mÃ¡s corta entre dos puntos
 es el camino recto.
 
 1180
 01:53:01,943 --> 01:53:04,738
-Y el camino más recto a Superman...
+Y el camino mÃ¡s recto a Superman...
 
 1181
 01:53:04,904 --> 01:53:06,573
-...es uno pequeño...
+...es uno pequeÃ±o...
 
 1182
 01:53:07,407 --> 01:53:08,742
@@ -5098,7 +5098,7 @@ Volviste.
 
 1185
 01:53:54,245 --> 01:53:56,498
-¡Vaya, tenemos problemas!
+Â¡Vaya, tenemos problemas!
 
 1186
 01:54:00,668 --> 01:54:03,254
@@ -5110,15 +5110,15 @@ De la virtud absoluta.
 
 1188
 01:54:05,423 --> 01:54:07,592
-No te haré daño, te llevaré a prisión.
+No te harÃ© daÃ±o, te llevarÃ© a prisiÃ³n.
 
 1189
 01:54:07,801 --> 01:54:09,719
-Es más de lo que mereces.
+Es mÃ¡s de lo que mereces.
 
 1190
 01:54:09,886 --> 01:54:11,846
-De que estés por encima de todo.
+De que estÃ©s por encima de todo.
 
 1191
 01:54:12,013 --> 01:54:13,181
@@ -5130,7 +5130,7 @@ Porque Dios es eso.
 
 1193
 01:54:16,267 --> 01:54:20,355
-Horus. Apolo. Jehová. Kal-El.
+Horus. Apolo. JehovÃ¡. Kal-El.
 
 1194
 01:54:21,564 --> 01:54:24,692
@@ -5148,17 +5148,17 @@ Dios toma partido.
 
 1197
 01:54:33,701 --> 01:54:35,537
-Ningún hombre del cielo intervino
-en mi niñez...
+NingÃºn hombre del cielo intervino
+en mi niÃ±ez...
 
 1198
 01:54:35,703 --> 01:54:37,914
-...para salvarme del puño
-y las atrocidades de papá.
+...para salvarme del puÃ±o
+y las atrocidades de papÃ¡.
 
 1199
 01:54:38,790 --> 01:54:40,625
-Entendí...
+EntendÃ­...
 
 1200
 01:54:40,875 --> 01:54:44,087
@@ -5172,7 +5172,7 @@ no puede ser todopoderoso.
 
 1202
 01:54:49,592 --> 01:54:51,511
-Y tampoco tú lo puedes ser.
+Y tampoco tÃº lo puedes ser.
 
 1203
 01:54:51,886 --> 01:54:54,389
@@ -5188,11 +5188,11 @@ La sangre en tus manos.
 
 1206
 01:55:00,145 --> 01:55:01,813
-¿Qué has hecho?
+Â¿QuÃ© has hecho?
 
 1207
 01:55:01,980 --> 01:55:03,731
-Y esta noche, la verán.
+Y esta noche, la verÃ¡n.
 
 1208
 01:55:03,898 --> 01:55:06,985
@@ -5200,30 +5200,30 @@ Porque tienes una cita, amigo.
 
 1209
 01:55:07,735 --> 01:55:09,404
-Al otro lado de la bahía.
+Al otro lado de la bahÃ­a.
 
 1210
 01:55:09,571 --> 01:55:11,781
-Su odio ya maduró.
-Lleva dos años creciendo.
+Su odio ya madurÃ³.
+Lleva dos aÃ±os creciendo.
 
 1211
 01:55:11,948 --> 01:55:13,700
 Pero no hizo falta
-mucha presión para lograrlo.
+mucha presiÃ³n para lograrlo.
 
 1212
 01:55:13,867 --> 01:55:15,577
-Pequeñas notas rojas, la explosión.
+PequeÃ±as notas rojas, la explosiÃ³n.
 
 1213
 01:55:15,743 --> 01:55:17,078
-"¡Deja que su gente muera!"
+"Â¡Deja que su gente muera!"
 
 1214
 01:55:18,121 --> 01:55:24,043
-Ahora volarás hacia él.
-Y pelearán.
+Ahora volarÃ¡s hacia Ã©l.
+Y pelearÃ¡n.
 
 1215
 01:55:24,210 --> 01:55:25,378
@@ -5231,12 +5231,12 @@ A muerte.
 
 1216
 01:55:26,629 --> 01:55:29,549
-Negro contra azul. ¡Noche de pelea!
+Negro contra azul. Â¡Noche de pelea!
 
 1217
 01:55:30,508 --> 01:55:33,386
 El combate entre gladiadores
-más grande de la historia.
+mÃ¡s grande de la historia.
 
 1218
 01:55:33,553 --> 01:55:35,263
@@ -5244,29 +5244,29 @@ Dios contra el hombre.
 
 1219
 01:55:36,055 --> 01:55:37,974
-El día contra la noche.
+El dÃ­a contra la noche.
 
 1220
 01:55:38,766 --> 01:55:42,145
-El hijo de Kryptón
-contra el Murciélago de Gótica.
+El hijo de KryptÃ³n
+contra el MurciÃ©lago de GÃ³tica.
 
 1221
 01:55:42,312 --> 01:55:44,397
-¿Crees que lo haría por ti?
+Â¿Crees que lo harÃ­a por ti?
 
 1222
 01:55:44,606 --> 01:55:45,648
-Sí.
+SÃ­.
 
 1223
 01:55:45,815 --> 01:55:48,484
-Lucharás a brazo partido
+LucharÃ¡s a brazo partido
 por una dama muy importante en tu vida.
 
 1224
 01:55:49,027 --> 01:55:51,446
-Ella ya está en tierra y a salvo. Y ¿tú?
+Ella ya estÃ¡ en tierra y a salvo. Y Â¿tÃº?
 
 1225
 01:55:51,613 --> 01:55:54,365
@@ -5278,7 +5278,7 @@ No.
 
 1227
 01:55:55,742 --> 01:55:59,037
-Para los niños,
+Para los niÃ±os,
 la dama importante es su madre.
 
 1228
@@ -5292,7 +5292,7 @@ seguro es una bruja.
 
 1230
 01:56:13,468 --> 01:56:15,970
-¿Cuál es el castigo para las brujas?
+Â¿CuÃ¡l es el castigo para las brujas?
 
 1231
 01:56:16,304 --> 01:56:18,473
@@ -5304,11 +5304,11 @@ BRUJA
 
 1233
 01:56:29,192 --> 01:56:30,276
-¿Dónde está?
+Â¿DÃ³nde estÃ¡?
 
 1234
 01:56:30,443 --> 01:56:32,028
-¡No lo sé! ¡No quise que me dijeran!
+Â¡No lo sÃ©! Â¡No quise que me dijeran!
 
 1235
 01:56:32,195 --> 01:56:34,530
@@ -5316,11 +5316,11 @@ Si me matas, Martha muere.
 
 1236
 01:56:34,697 --> 01:56:36,366
-Si te vas volando, Martha también muere.
+Si te vas volando, Martha tambiÃ©n muere.
 
 1237
 01:56:36,532 --> 01:56:39,244
-Pero si matas al Murciélago...
+Pero si matas al MurciÃ©lago...
 
 1238
 01:56:39,410 --> 01:56:41,037
@@ -5336,7 +5336,7 @@ Y ahora Dios se somete a mi voluntad.
 
 1241
 01:57:02,058 --> 01:57:04,018
-Las cámaras te esperan en tu nave.
+Las cÃ¡maras te esperan en tu nave.
 
 1242
 01:57:04,227 --> 01:57:06,354
@@ -5345,7 +5345,7 @@ los defectos del dios.
 
 1243
 01:57:06,521 --> 01:57:09,190
-Sí, el todopoderoso muestra
+SÃ­, el todopoderoso muestra
 su verdadera esencia.
 
 1244
@@ -5354,7 +5354,7 @@ Para salvar a Martha...
 
 1245
 01:57:11,067 --> 01:57:12,986
-...tráeme la cabeza del Murciélago.
+...trÃ¡eme la cabeza del MurciÃ©lago.
 
 1246
 01:57:17,448 --> 01:57:20,243
@@ -5362,7 +5362,7 @@ Madre de Dios, se hizo tarde.
 
 1247
 01:57:20,410 --> 01:57:22,704
-Cuando llegaste, tenías una hora.
+Cuando llegaste, tenÃ­as una hora.
 
 1248
 01:57:24,038 --> 01:57:25,873
@@ -5370,13 +5370,13 @@ Ahora te queda menos.
 
 1249
 01:58:27,101 --> 01:58:28,102
-ÚLTIMO MOMENTO - ACTIVIDAD ATÍPICA
+ÃšLTIMO MOMENTO - ACTIVIDAD ATÃPICA
 EN SITIO DE ACCIDENTE
 
 1250
 01:58:28,269 --> 01:58:30,772
-<i>Brooke Baldwin está en el lugar.
-Brooke, estás en vivo. ¿Qué ves?</i>
+<i>Brooke Baldwin estÃ¡ en el lugar.
+Brooke, estÃ¡s en vivo. Â¿QuÃ© ves?</i>
 
 1251
 01:58:31,564 --> 01:58:33,107
@@ -5388,17 +5388,17 @@ Emite tremendas descargas.
 
 1253
 01:58:37,612 --> 01:58:38,696
-<i>Helicópteros rodean el área.</i>
+<i>HelicÃ³pteros rodean el Ã¡rea.</i>
 
 1254
 01:58:38,863 --> 01:58:41,741
 <i>Pusieron una barricada
-alrededor del área restringida.</i>
+alrededor del Ã¡rea restringida.</i>
 
 1255
 01:58:41,908 --> 01:58:44,744
-<i>Intentamos acercarnos más
-para ver qué pasa.</i>
+<i>Intentamos acercarnos mÃ¡s
+para ver quÃ© pasa.</i>
 
 1256
 01:58:44,911 --> 01:58:46,120
@@ -5410,7 +5410,7 @@ para ver qué pasa.</i>
 
 1258
 01:58:49,082 --> 01:58:51,793
-<i>Cada vez son más potentes.</i>
+<i>Cada vez son mÃ¡s potentes.</i>
 
 1259
 01:58:51,959 --> 01:58:53,252
@@ -5422,16 +5422,16 @@ Lois.
 
 1261
 01:58:57,340 --> 01:58:59,300
-Tengo que ir a Gótica
+Tengo que ir a GÃ³tica
 para convencerlo de que me ayude.
 
 1262
 01:58:59,467 --> 01:59:00,468
-¿A quién?
+Â¿A quiÃ©n?
 
 1263
 01:59:02,637 --> 01:59:04,847
-O morirá.
+O morirÃ¡.
 
 1264
 01:59:05,014 --> 01:59:06,015
@@ -5449,31 +5449,31 @@ permanece a oscuras.</i>
 
 1267
 01:59:24,450 --> 01:59:28,621
-<i>Hay mucho caos y confusión
-en las calles de Metrópolis.</i>
+<i>Hay mucho caos y confusiÃ³n
+en las calles de MetrÃ³polis.</i>
 
 1268
 01:59:28,788 --> 01:59:30,456
-<i>Los helicópteros aún rodean el área.</i>
+<i>Los helicÃ³pteros aÃºn rodean el Ã¡rea.</i>
 
 1269
 01:59:30,623 --> 01:59:33,418
-<i>No sé si todavía ven los destellos...</i>
+<i>No sÃ© si todavÃ­a ven los destellos...</i>
 
 1270
 01:59:44,679 --> 01:59:46,389
 1 MENSAJE NUEVO - DE: WAYNE, BRUCE
-LOS CHICOS TAMBIÉN COMPARTEN
+LOS CHICOS TAMBIÃ‰N COMPARTEN
 
 1271
 01:59:46,556 --> 01:59:47,682
-METRÓPOLIS A OSCURAS /
+METRÃ“POLIS A OSCURAS /
 DESCARGAS DE NAVE
 
 1272
 01:59:47,849 --> 01:59:50,017
-DESCIFRÉ LOS DATOS DE LUTHOR,
-HALLÉ TU FOTO.
+DESCIFRÃ‰ LOS DATOS DE LUTHOR,
+HALLÃ‰ TU FOTO.
 
 1273
 01:59:50,268 --> 01:59:53,229
@@ -5481,36 +5481,36 @@ PERO NO ES QUE SEA TUYA.
 
 1274
 02:00:00,236 --> 02:00:03,030
-ERES TÚ
+ERES TÃš
 
 1275
 02:00:13,875 --> 02:00:15,751
-¿QUIÉN ERES?
+Â¿QUIÃ‰N ERES?
 
 1276
 02:00:16,002 --> 02:00:18,129
-¿DÓNDE HAS ESTADO?
+Â¿DÃ“NDE HAS ESTADO?
 
 1277
 02:00:18,296 --> 02:00:20,089
-LEXCORP - INVESTIGACIÓN DE METAHUMANOS
+LEXCORP - INVESTIGACIÃ“N DE METAHUMANOS
 ABRIR ADJUNTOS
 
 1278
 02:00:33,311 --> 02:00:34,312
-_FL_CÁMARA_DE_VIGILANCIA_01
+_FL_CÃMARA_DE_VIGILANCIA_01
 
 1279
 02:00:39,775 --> 02:00:42,278
-CÁMARA 01
+CÃMARA 01
 
 1280
 02:00:42,445 --> 02:00:44,906
-CÁMARA 04
+CÃMARA 04
 
 1281
 02:01:01,506 --> 02:01:03,424
-CÁMARA SUBMARINA / CONFIDENCIAL
+CÃMARA SUBMARINA / CONFIDENCIAL
 FOSA DE TONGA (6.578 METROS)
 
 1282
@@ -5521,7 +5521,7 @@ PROPIEDAD DE LABORATORIOS S.T.A.R.
 1283
 02:01:35,289 --> 02:01:40,503
 <i>00:02.
-El sujeto se deteriora rápidamente.</i>
+El sujeto se deteriora rÃ¡pidamente.</i>
 
 1284
 02:01:40,670 --> 02:01:42,588
@@ -5530,21 +5530,21 @@ de rutina fallaron.</i>
 
 1285
 02:01:47,510 --> 02:01:49,178
-<i>El resultado será la muerte.</i>
+<i>El resultado serÃ¡ la muerte.</i>
 
 1286
 02:01:57,436 --> 02:02:00,356
 <i>Soy el Dr. Silas Stone
-y suspendo el protocolo clínico.</i>
+y suspendo el protocolo clÃ­nico.</i>
 
 1287
 02:02:00,523 --> 02:02:06,523
 <i>El objeto gubernamental
-del 19-6-82 fue activado con éxito.</i>
+del 19-6-82 fue activado con Ã©xito.</i>
 
 1288
 02:02:28,426 --> 02:02:30,011
-<i>Un helicóptero para ir a Gótica.</i>
+<i>Un helicÃ³ptero para ir a GÃ³tica.</i>
 
 1289
 02:02:30,177 --> 02:02:31,178
@@ -5552,16 +5552,16 @@ Llama al helipuerto.
 
 1290
 02:02:31,345 --> 02:02:33,139
-¿Helicóptero? Apenas podemos
+Â¿HelicÃ³ptero? Apenas podemos
 pagar una bicicleta.
 
 1291
 02:02:33,306 --> 02:02:35,182
-¿Quieres una nota? Ve a la nave.
+Â¿Quieres una nota? Ve a la nave.
 
 1292
 02:02:35,349 --> 02:02:36,684
-Es probable que Superman ya esté allí.
+Es probable que Superman ya estÃ© allÃ­.
 
 1293
 02:02:36,851 --> 02:02:39,812
@@ -5569,7 +5569,7 @@ Perry, no es para una nota.
 
 1294
 02:02:44,525 --> 02:02:46,027
-Jenny, un helicóptero para ir a Gótica.
+Jenny, un helicÃ³ptero para ir a GÃ³tica.
 
 1295
 02:02:46,193 --> 02:02:48,904
@@ -5578,19 +5578,19 @@ Que baje en el techo.
 
 1296
 02:02:49,071 --> 02:02:50,364
-¡Al techo, Lois!
+Â¡Al techo, Lois!
 
 1297
 02:02:52,950 --> 02:02:54,410
-¿Adónde vamos?
+Â¿AdÃ³nde vamos?
 
 1298
 02:02:54,577 --> 02:02:55,703
-¡Allí!
+Â¡AllÃ­!
 
 1299
 02:03:11,761 --> 02:03:14,722
-Aquí estoy.
+AquÃ­ estoy.
 
 1300
 02:03:16,182 --> 02:03:17,683
@@ -5598,7 +5598,7 @@ Bruce. Por favor.
 
 1301
 02:03:19,310 --> 02:03:22,313
-Estaba equivocado. Escúchame.
+Estaba equivocado. EscÃºchame.
 
 1302
 02:03:22,480 --> 02:03:23,773
@@ -5610,7 +5610,7 @@ No entiendes.
 
 1304
 02:03:41,499 --> 02:03:43,000
-¡No tenemos tiempo!
+Â¡No tenemos tiempo!
 
 1305
 02:03:44,043 --> 02:03:45,419
@@ -5618,15 +5618,15 @@ Entiendo muy bien.
 
 1306
 02:05:01,829 --> 02:05:03,539
-¡Quédate ahí!
+Â¡QuÃ©date ahÃ­!
 
 1307
 02:05:03,706 --> 02:05:06,000
-Si yo quisiera, ya estarías muerto.
+Si yo quisiera, ya estarÃ­as muerto.
 
 1308
 02:05:43,537 --> 02:05:45,331
-Inhálalo.
+InhÃ¡lalo.
 
 1309
 02:05:48,292 --> 02:05:50,211
@@ -5642,16 +5642,16 @@ Los hombres lo son.
 
 1312
 02:09:49,783 --> 02:09:53,620
-Tus padres seguro te enseñaron
+Tus padres seguro te enseÃ±aron
 que eres especial.
 
 1313
 02:09:54,455 --> 02:09:56,290
-Que estás aquí por un motivo.
+Que estÃ¡s aquÃ­ por un motivo.
 
 1314
 02:09:57,624 --> 02:10:00,669
-Mis padres me enseñaron
+Mis padres me enseÃ±aron
 algo diferente...
 
 1315
@@ -5664,7 +5664,7 @@ algo diferente...
 
 1317
 02:10:22,524 --> 02:10:25,027
-Me enseñaron que el mundo
+Me enseÃ±aron que el mundo
 solo tiene sentido...
 
 1318
@@ -5681,19 +5681,19 @@ Ni siquiera fuiste un hombre.
 
 1321
 02:11:19,373 --> 02:11:22,876
-Harás que mate a Martha.
+HarÃ¡s que mate a Martha.
 
 1322
 02:11:28,215 --> 02:11:30,175
-¿Eso qué significa?
+Â¿Eso quÃ© significa?
 
 1323
 02:11:31,385 --> 02:11:33,095
-¿Por qué dijiste ese nombre?
+Â¿Por quÃ© dijiste ese nombre?
 
 1324
 02:11:34,221 --> 02:11:36,723
-Búscalo.
+BÃºscalo.
 
 1325
 02:11:38,058 --> 02:11:39,393
@@ -5713,21 +5713,21 @@ Martha.
 
 1329
 02:12:22,728 --> 02:12:24,021
-¿Por qué dijiste ese nombre?
+Â¿Por quÃ© dijiste ese nombre?
 
 1330
 02:12:25,772 --> 02:12:27,441
-¿Por qué dijiste Martha?
+Â¿Por quÃ© dijiste Martha?
 
 1331
 02:12:27,608 --> 02:12:30,444
-¡Clark! ¡Basta!
-¡Por favor! ¡Basta!
+Â¡Clark! Â¡Basta!
+Â¡Por favor! Â¡Basta!
 
 1332
 02:12:30,611 --> 02:12:33,864
-- ¿Por qué dijiste ese nombre?
-- ¡Es el nombre de su madre!
+- Â¿Por quÃ© dijiste ese nombre?
+- Â¡Es el nombre de su madre!
 
 1333
 02:12:34,448 --> 02:12:36,617
@@ -5735,20 +5735,20 @@ Es el nombre de su madre.
 
 1334
 02:13:07,856 --> 02:13:09,274
-No recibimos información.
+No recibimos informaciÃ³n.
 
 1335
 02:13:09,441 --> 02:13:11,193
-Aún estamos fuera del área restringida.
+AÃºn estamos fuera del Ã¡rea restringida.
 
 1336
 02:13:11,360 --> 02:13:12,444
-Es una situación peligrosa.
+Es una situaciÃ³n peligrosa.
 
 1337
 02:13:12,611 --> 02:13:15,864
 Hay militares
-y policías rodeando el área.
+y policÃ­as rodeando el Ã¡rea.
 
 1338
 02:13:31,129 --> 02:13:32,506
@@ -5774,7 +5774,7 @@ Tiene que ser obra de Lex.
 1343
 02:13:42,349 --> 02:13:45,185
 Te necesitan en esa nave.
-Yo la encontraré.
+Yo la encontrarÃ©.
 
 1344
 02:13:45,352 --> 02:13:47,688
@@ -5787,11 +5787,11 @@ Te prometo...
 
 1346
 02:13:50,691 --> 02:13:52,901
-...que Martha no morirá esta noche.
+...que Martha no morirÃ¡ esta noche.
 
 1347
 02:14:19,720 --> 02:14:20,887
-<i>Señorito Wayne.</i>
+<i>SeÃ±orito Wayne.</i>
 
 1348
 02:14:21,054 --> 02:14:22,431
@@ -5799,16 +5799,16 @@ Alfred.
 
 1349
 02:14:22,597 --> 02:14:25,434
-Perdón por escuchar,
-pero rastreé el teléfono del ruso...
+PerdÃ³n por escuchar,
+pero rastreÃ© el telÃ©fono del ruso...
 
 1350
 02:14:25,600 --> 02:14:27,102
-...está cerca del puerto.
+...estÃ¡ cerca del puerto.
 
 1351
 02:14:27,269 --> 02:14:28,687
-<i>Ya tiene la ubicación cargada.</i>
+<i>Ya tiene la ubicaciÃ³n cargada.</i>
 
 1352
 02:14:28,854 --> 02:14:30,564
@@ -5816,7 +5816,7 @@ No te merezco, Alfred.
 
 1353
 02:14:30,731 --> 02:14:33,191
-No, señor. No me merece.
+No, seÃ±or. No me merece.
 
 1354
 02:14:53,003 --> 02:14:55,297
@@ -5829,8 +5829,8 @@ mueres un poco.
 
 1356
 02:15:15,025 --> 02:15:16,651
-- Derríbalo.
-- ¡Deprisa!
+- DerrÃ­balo.
+- Â¡Deprisa!
 
 1357
 02:15:40,300 --> 02:15:41,468
@@ -5846,28 +5846,28 @@ Paso al modo dron.
 
 1360
 02:15:49,226 --> 02:15:53,480
-Según la lectura térmica, hay dos
+SegÃºn la lectura tÃ©rmica, hay dos
 docenas de enemigos en el tercer piso.
 
 1361
 02:15:53,647 --> 02:15:55,857
-Lo dejaré en el segundo.
+Lo dejarÃ© en el segundo.
 
 1362
 02:19:01,751 --> 02:19:03,169
-Arrójala.
+ArrÃ³jala.
 
 1363
 02:19:04,212 --> 02:19:06,047
-¡Dije que la arrojaras!
+Â¡Dije que la arrojaras!
 
 1364
 02:19:07,132 --> 02:19:08,550
-La mataré.
+La matarÃ©.
 
 1365
 02:19:10,343 --> 02:19:12,679
-Créeme que lo haré.
+CrÃ©eme que lo harÃ©.
 
 1366
 02:19:15,515 --> 02:19:16,683
@@ -5875,11 +5875,11 @@ Te creo.
 
 1367
 02:19:29,195 --> 02:19:31,448
-Ya pasó. Soy amigo de su hijo.
+Ya pasÃ³. Soy amigo de su hijo.
 
 1368
 02:19:31,906 --> 02:19:33,491
-Eso pensé.
+Eso pensÃ©.
 
 1369
 02:19:33,658 --> 02:19:35,035
@@ -5891,24 +5891,24 @@ Por la capa.
 
 1371
 02:20:04,731 --> 02:20:06,066
-<i>Cuarenta segundos para animación.</i>
+<i>Cuarenta segundos para animaciÃ³n.</i>
 
 1372
 02:20:06,232 --> 02:20:07,734
-¿Verdad, conejo?
+Â¿Verdad, conejo?
 
 1373
 02:20:08,652 --> 02:20:11,738
 Se te acabaron las trampas,
-se te acabó el tiempo.
+se te acabÃ³ el tiempo.
 
 1374
 02:20:12,739 --> 02:20:15,367
-Y te falta una cabeza de Murciélago.
+Y te falta una cabeza de MurciÃ©lago.
 
 1375
 02:20:15,533 --> 02:20:17,786
-<i>Treinta segundos para animación.</i>
+<i>Treinta segundos para animaciÃ³n.</i>
 
 1376
 02:20:17,952 --> 02:20:19,996
@@ -5916,7 +5916,7 @@ Debe ser el cocinero. Disculpa.
 
 1377
 02:20:20,163 --> 02:20:22,332
-Asado de Gótica. Bien cocinado.
+Asado de GÃ³tica. Bien cocinado.
 
 1378
 02:20:22,916 --> 02:20:24,918
@@ -5924,11 +5924,11 @@ Hola. Dame la mala noticia.
 
 1379
 02:20:25,085 --> 02:20:27,879
-<i>Prefiero dártela personalmente.</i>
+<i>Prefiero dÃ¡rtela personalmente.</i>
 
 1380
 02:20:28,046 --> 02:20:29,589
-<i>Veinte segundos para animación.</i>
+<i>Veinte segundos para animaciÃ³n.</i>
 
 1381
 02:20:29,756 --> 02:20:31,466
@@ -5936,15 +5936,15 @@ Perdiste.
 
 1382
 02:20:31,633 --> 02:20:33,176
-Yo no sé perder.
+Yo no sÃ© perder.
 
 1383
 02:20:33,343 --> 02:20:34,761
-Aprenderás.
+AprenderÃ¡s.
 
 1384
 02:20:34,928 --> 02:20:36,054
-Aprenderé.
+AprenderÃ©.
 
 1385
 02:20:36,221 --> 02:20:37,806
@@ -5953,7 +5953,7 @@ No odio al pecador.
 1386
 02:20:38,348 --> 02:20:40,266
 - Odio el pecado.
-<i>- Diez segundos para animación.</i>
+<i>- Diez segundos para animaciÃ³n.</i>
 
 1387
 02:20:40,433 --> 02:20:43,061
@@ -5965,8 +5965,8 @@ No puedo dejarte ganar.
 
 1389
 02:20:45,438 --> 02:20:47,941
-El Murciélago pudo matarte,
-pero le faltó fortaleza.
+El MurciÃ©lago pudo matarte,
+pero le faltÃ³ fortaleza.
 
 1390
 02:20:48,108 --> 02:20:50,026
@@ -5978,19 +5978,19 @@ Si el hombre no mata a Dios...
 
 1392
 02:20:53,738 --> 02:20:54,948
-...lo hará el demonio.
+...lo harÃ¡ el demonio.
 
 1393
 02:21:11,297 --> 02:21:12,340
-¡Perry!
+Â¡Perry!
 
 1394
 02:21:12,632 --> 02:21:14,342
-¡En calma, todo el mundo!
+Â¡En calma, todo el mundo!
 
 1395
 02:21:15,218 --> 02:21:20,014
-<i>Nos informan sobre un apagón total
+<i>Nos informan sobre un apagÃ³n total
 en el norte y noroeste de la ciudad.</i>
 
 1396
@@ -6012,12 +6012,12 @@ Nacida para destruirte.
 
 1400
 02:21:46,499 --> 02:21:47,667
-Con Doomsday, te llegó la hora.
+Con Doomsday, te llegÃ³ la hora.
 
 1401
 02:22:11,357 --> 02:22:16,738
-Ahora sí que Dios es bueno,
-está prácticamente muerto.
+Ahora sÃ­ que Dios es bueno,
+estÃ¡ prÃ¡cticamente muerto.
 
 1402
 02:23:39,779 --> 02:23:41,030
@@ -6029,20 +6029,20 @@ Sr. Presidente.
 
 1404
 02:23:42,365 --> 02:23:43,449
-<i>¿Qué rayos es eso, Calvin?</i>
+<i>Â¿QuÃ© rayos es eso, Calvin?</i>
 
 1405
 02:23:43,616 --> 02:23:45,285
-<i>Estas son imágenes en vivo...</i>
+<i>Estas son imÃ¡genes en vivo...</i>
 
 1406
 02:23:45,451 --> 02:23:47,287
 <i>...desde de la torre LexCorp
-en el centro de Metrópolis.</i>
+en el centro de MetrÃ³polis.</i>
 
 1407
 02:23:47,453 --> 02:23:48,496
-ÚLTIMO MOMENTO
+ÃšLTIMO MOMENTO
 ATAQUE DE CRIATURA NO IDENTIFICADA
 
 1408
@@ -6051,16 +6051,16 @@ ATAQUE DE CRIATURA NO IDENTIFICADA
 
 1409
 02:24:01,885 --> 02:24:03,636
-- ¿Está herida, señora?
+- Â¿EstÃ¡ herida, seÃ±ora?
 - Estoy bien.
 
 1410
 02:24:03,803 --> 02:24:05,471
-Estará bien.
+EstarÃ¡ bien.
 
 1411
 02:24:15,356 --> 02:24:18,651
-<i>Salió esta cosa
+<i>SaliÃ³ esta cosa
 del sitio del accidente kryptoniano...</i>
 
 1412
@@ -6069,47 +6069,47 @@ del sitio del accidente kryptoniano...</i>
 
 1413
 02:24:20,028 --> 02:24:23,031
-<i>Por suerte, ya finalizó la jornada
+<i>Por suerte, ya finalizÃ³ la jornada
 laboral en el centro de la ciudad.</i>
 
 1414
 02:24:23,239 --> 02:24:24,324
-<i>Está casi vacío.</i>
+<i>EstÃ¡ casi vacÃ­o.</i>
 
 1415
 02:24:24,574 --> 02:24:25,909
-EL EJÉRCITO ENFRENTA A LA CRIATURA
+EL EJÃ‰RCITO ENFRENTA A LA CRIATURA
 
 1416
 02:24:26,075 --> 02:24:28,119
-<i>Los helicópteros Apache del ejército...</i>
+<i>Los helicÃ³pteros Apache del ejÃ©rcito...</i>
 
 1417
 02:24:28,328 --> 02:24:30,788
 <i>...acaban de llegar.
-Las imágenes que...</i>
+Las imÃ¡genes que...</i>
 
 1418
 02:25:07,033 --> 02:25:10,078
-<i>Acabamos de perder la conexión
-con Noticias Metrópolis 8.</i>
+<i>Acabamos de perder la conexiÃ³n
+con Noticias MetrÃ³polis 8.</i>
 
 1419
 02:25:10,244 --> 02:25:12,705
-<i>No sabemos qué pasó.</i>
+<i>No sabemos quÃ© pasÃ³.</i>
 
 1420
 02:25:16,209 --> 02:25:17,919
-¿Qué pasa ahí, Alfred?
+Â¿QuÃ© pasa ahÃ­, Alfred?
 
 1421
 02:25:19,629 --> 02:25:21,714
-¿Cómo podría describirlo?
+Â¿CÃ³mo podrÃ­a describirlo?
 
 1422
 02:25:21,881 --> 02:25:24,300
-<i>- El espacio aéreo está cerrado.</i>
-- ¿Disculpe?
+<i>- El espacio aÃ©reo estÃ¡ cerrado.</i>
+- Â¿Disculpe?
 
 1423
 02:25:24,467 --> 02:25:26,928
@@ -6122,7 +6122,7 @@ Srta. Prince.
 
 1425
 02:25:43,277 --> 02:25:45,113
-Señor. Mire, evacuaron la ciudad.
+SeÃ±or. Mire, evacuaron la ciudad.
 
 1426
 02:25:45,279 --> 02:25:46,406
@@ -6131,20 +6131,20 @@ Parece que lo lleva al espacio.
 1427
 02:25:46,572 --> 02:25:48,116
 Podemos pasar
-al Código Rojo, Sr. Presidente.
+al CÃ³digo Rojo, Sr. Presidente.
 
 1428
 02:25:48,282 --> 02:25:50,243
-Todavía no. ¿Está loco?
+TodavÃ­a no. Â¿EstÃ¡ loco?
 
 1429
 02:25:50,410 --> 02:25:52,578
 A esa altura,
-las armas nucleares no causarán bajas.
+las armas nucleares no causarÃ¡n bajas.
 
 1430
 02:25:52,745 --> 02:25:56,124
-Habrá una baja, Sr. Presidente.
+HabrÃ¡ una baja, Sr. Presidente.
 Superman.
 
 1431
@@ -6154,7 +6154,7 @@ Superman.
 1432
 02:26:05,549 --> 02:26:06,550
 INTRODUZCA DESPACIO
-CÓDIGO UTILIZADO
+CÃ“DIGO UTILIZADO
 
 1433
 02:26:06,676 --> 02:26:07,852
@@ -6163,11 +6163,11 @@ CÓDIGO UTILIZADO
 
 1434
 02:26:08,019 --> 02:26:10,513
-Los aves rojas están preparadas, señor.
+Los aves rojas estÃ¡n preparadas, seÃ±or.
 
 1435
 02:26:11,305 --> 02:26:12,432
-<i>Fuego a discreción.</i>
+<i>Fuego a discreciÃ³n.</i>
 
 1436
 02:26:12,598 --> 02:26:14,767
@@ -6175,7 +6175,7 @@ Tres, dos, uno.
 
 1437
 02:27:03,649 --> 02:27:05,151
-Dios mío.
+Dios mÃ­o.
 
 1438
 02:27:26,881 --> 02:27:28,674
@@ -6183,11 +6183,11 @@ Primer proyectil. Impacto.
 
 1439
 02:27:28,841 --> 02:27:30,760
-Isla de Stryker, al este de Metrópolis.
+Isla de Stryker, al este de MetrÃ³polis.
 
 1440
 02:27:30,927 --> 02:27:32,095
-Está deshabitada.
+EstÃ¡ deshabitada.
 
 1441
 02:27:32,261 --> 02:27:33,596
@@ -6199,7 +6199,7 @@ Sin reingreso aparente.
 
 1443
 02:27:41,270 --> 02:27:43,189
-<i>¿Segundo proyectil?</i>
+<i>Â¿Segundo proyectil?</i>
 
 1444
 02:27:43,356 --> 02:27:48,778
@@ -6208,27 +6208,27 @@ Ese proyectil era Superman.
 
 1445
 02:27:49,362 --> 02:27:51,030
-Señor.
+SeÃ±or.
 
 1446
 02:27:51,197 --> 02:27:52,365
-Está moviéndose.
+EstÃ¡ moviÃ©ndose.
 
 1447
 02:28:33,656 --> 02:28:35,491
-<i>Las ondas expansivas son más fuertes.</i>
+<i>Las ondas expansivas son mÃ¡s fuertes.</i>
 
 1448
 02:28:35,658 --> 02:28:38,744
-Cada impacto lo vuelve más poderoso.
+Cada impacto lo vuelve mÃ¡s poderoso.
 
 1449
 02:28:38,911 --> 02:28:40,037
-No podemos atacarlo más.
+No podemos atacarlo mÃ¡s.
 
 1450
 02:28:41,164 --> 02:28:43,249
-<i>¿Qué quiere decir, Calvin?</i>
+<i>Â¿QuÃ© quiere decir, Calvin?</i>
 
 1451
 02:28:43,416 --> 02:28:45,668
@@ -6236,7 +6236,7 @@ Que es indestructible.
 
 1452
 02:29:13,654 --> 02:29:15,865
-Señorito Wayne, ¿me escucha?
+SeÃ±orito Wayne, Â¿me escucha?
 
 1453
 02:29:15,990 --> 02:29:16,990
@@ -6252,11 +6252,11 @@ Solo pueden matarlo armas de kryptonita.
 
 1456
 02:29:21,245 --> 02:29:24,665
-Podrían hacerlo. Si le quedara alguna.
+PodrÃ­an hacerlo. Si le quedara alguna.
 
 1457
 02:29:24,832 --> 02:29:26,792
-<i>Me queda una última bala.</i>
+<i>Me queda una Ãºltima bala.</i>
 
 1458
 02:29:28,044 --> 02:29:32,215
@@ -6265,16 +6265,16 @@ Es de kryptonita pura.
 
 1459
 02:29:32,381 --> 02:29:33,633
-Está en Gótica.
+EstÃ¡ en GÃ³tica.
 
 1460
 02:29:33,799 --> 02:29:36,969
 <i>Si logro perforar su piel,
-la lanza lo matará.</i>
+la lanza lo matarÃ¡.</i>
 
 1461
 02:29:37,136 --> 02:29:38,350
-En teoría.
+En teorÃ­a.
 
 1462
 02:29:38,470 --> 02:29:41,140
@@ -6291,19 +6291,19 @@ Mierda.
 
 1465
 02:31:34,545 --> 02:31:36,339
-¿Por qué lo trajiste a la ciudad?
+Â¿Por quÃ© lo trajiste a la ciudad?
 
 1466
 02:31:36,505 --> 02:31:38,007
-El puerto está abandonado.
+El puerto estÃ¡ abandonado.
 
 1467
 02:31:38,174 --> 02:31:39,967
-Aquí hay un arma que puede matarlo.
+AquÃ­ hay un arma que puede matarlo.
 
 1468
 02:31:52,688 --> 02:31:53,898
-¿Encontraste la lanza?
+Â¿Encontraste la lanza?
 
 1469
 02:31:54,690 --> 02:31:56,567
@@ -6312,7 +6312,7 @@ Estuve un poco ocupado.
 1470
 02:31:56,734 --> 02:31:59,945
 Esta cosa, esta criatura,
-parece alimentarse de energía.
+parece alimentarse de energÃ­a.
 
 1471
 02:32:01,697 --> 02:32:04,950
@@ -6320,39 +6320,39 @@ Esta cosa es de otro mundo.
 
 1472
 02:32:05,743 --> 02:32:06,744
-Del mío.
+Del mÃ­o.
 
 1473
 02:32:06,911 --> 02:32:10,081
-Ya maté cosas de otros mundos antes.
+Ya matÃ© cosas de otros mundos antes.
 
 1474
 02:32:11,207 --> 02:32:12,375
-¿Vino contigo?
+Â¿Vino contigo?
 
 1475
 02:32:13,209 --> 02:32:15,795
-Creí que estaba contigo.
+CreÃ­ que estaba contigo.
 
 1476
 02:35:53,596 --> 02:35:54,763
-¡Clark!
+Â¡Clark!
 
 1477
 02:35:55,431 --> 02:35:56,765
-¡Clark!
+Â¡Clark!
 
 1478
 02:36:04,106 --> 02:36:05,441
-¡Clark!
+Â¡Clark!
 
 1479
 02:36:15,451 --> 02:36:16,785
-¡Clark!
+Â¡Clark!
 
 1480
 02:36:17,661 --> 02:36:19,663
-¿Estás bien?
+Â¿EstÃ¡s bien?
 
 1481
 02:36:56,909 --> 02:36:58,994
@@ -6372,7 +6372,7 @@ No, Clark, no lo hagas.
 
 1485
 02:37:14,593 --> 02:37:16,679
-Tú eres mi mundo.
+TÃº eres mi mundo.
 
 1486
 02:37:16,845 --> 02:37:18,013
@@ -6380,15 +6380,15 @@ No.
 
 1487
 02:37:21,350 --> 02:37:23,769
-Por favor. ¡Clark!
+Por favor. Â¡Clark!
 
 1488
 02:42:38,083 --> 02:42:39,334
-SUPERMAN ESTÁ MUERTO
+SUPERMAN ESTÃ MUERTO
 
 1489
 02:42:39,501 --> 02:42:41,670
-NOCHE DE HORROR, MAÑANA DE PÉRDIDA
+NOCHE DE HORROR, MAÃ‘ANA DE PÃ‰RDIDA
 
 1490
 02:42:43,108 --> 02:42:44,109
@@ -6397,8 +6397,8 @@ PERIODISTA DEL DAILY PLANET...
 
 1491
 02:42:44,214 --> 02:42:45,215
-...ASESINADO CUANDO CUBRÍA
-BATALLA DE GÓTICA
+...ASESINADO CUANDO CUBRÃA
+BATALLA DE GÃ“TICA
 
 1492
 02:42:45,382 --> 02:42:47,050
@@ -6413,7 +6413,7 @@ BAR
 1494
 02:43:11,283 --> 02:43:13,035
 DAILY PLANET
-MURIÓ KENNEDY
+MURIÃ“ KENNEDY
 
 1495
 02:44:28,860 --> 02:44:29,861
@@ -6421,34 +6421,34 @@ Hola.
 
 1496
 02:44:37,035 --> 02:44:40,288
-Clark hizo enviar esto aquí
+Clark hizo enviar esto aquÃ­
 para sorprenderte.
 
 1497
 02:46:07,459 --> 02:46:09,628
-EJÉRCITO DE LOS ESTADOS UNIDOS
+EJÃ‰RCITO DE LOS ESTADOS UNIDOS
 
 1498
 02:47:06,768 --> 02:47:08,353
-"Los muertos vivirán.
+"Los muertos vivirÃ¡n.
 
 1499
 02:47:09,854 --> 02:47:13,191
-Sus cadáveres se levantarán.
+Sus cadÃ¡veres se levantarÃ¡n.
 
 1500
 02:47:15,860 --> 02:47:18,947
 Moradores del polvo,
-despierten y den gritos de júbilo.
+despierten y den gritos de jÃºbilo.
 
 1501
 02:47:20,115 --> 02:47:23,618
-Porque tu rocío es
-como el rocío del alba.
+Porque tu rocÃ­o es
+como el rocÃ­o del alba.
 
 1502
 02:47:25,453 --> 02:47:30,458
-Y la Tierra dará a luz a los espíritus".
+Y la Tierra darÃ¡ a luz a los espÃ­ritus".
 
 1503
 02:47:38,300 --> 02:47:40,135
@@ -6456,7 +6456,7 @@ Tengo que volver a casa.
 
 1504
 02:47:40,302 --> 02:47:42,971
-Olvidé la chequera
+OlvidÃ© la chequera
 para pagar la funeraria.
 
 1505
@@ -6465,20 +6465,20 @@ Dijeron que ya estaba pago.
 
 1506
 02:47:45,307 --> 02:47:47,142
-¿Quién pagó?
+Â¿QuiÃ©n pagÃ³?
 
 1507
 02:47:47,309 --> 02:47:48,893
-Un donante anónimo.
+Un donante anÃ³nimo.
 
 1508
 02:48:32,687 --> 02:48:36,775
-Tanta alharaca por toda la región
-para enterrar un cajón vacío.
+Tanta alharaca por toda la regiÃ³n
+para enterrar un cajÃ³n vacÃ­o.
 
 1509
 02:48:36,941 --> 02:48:38,860
-No saben cómo honrarlo...
+No saben cÃ³mo honrarlo...
 
 1510
 02:48:39,944 --> 02:48:41,863
@@ -6486,23 +6486,23 @@ No saben cómo honrarlo...
 
 1511
 02:48:43,531 --> 02:48:47,035
-Le fallé en vida.
+Le fallÃ© en vida.
 
 1512
 02:48:48,370 --> 02:48:50,413
-No le fallaré ahora que está muerto.
+No le fallarÃ© ahora que estÃ¡ muerto.
 
 1513
 02:48:52,123 --> 02:48:53,708
-Ayúdame a hallar a otros como tú.
+AyÃºdame a hallar a otros como tÃº.
 
 1514
 02:48:54,793 --> 02:48:56,878
-Quizá no quieran ser hallados.
+QuizÃ¡ no quieran ser hallados.
 
 1515
 02:48:57,712 --> 02:49:00,882
-Querrán. Y lucharán.
+QuerrÃ¡n. Y lucharÃ¡n.
 
 1516
 02:49:01,633 --> 02:49:04,135
@@ -6510,8 +6510,8 @@ Tenemos que estar unidos.
 
 1517
 02:49:11,393 --> 02:49:15,063
-Hace 100 años,
-me aparté de la humanidad.
+Hace 100 aÃ±os,
+me apartÃ© de la humanidad.
 
 1518
 02:49:16,731 --> 02:49:19,567
@@ -6524,7 +6524,7 @@ en el que es imposible estar unidos.
 
 1520
 02:49:29,244 --> 02:49:31,413
-Los hombres todavía son buenos.
+Los hombres todavÃ­a son buenos.
 
 1521
 02:49:33,581 --> 02:49:36,418
@@ -6552,7 +6552,7 @@ Los hombres todavía son buenos.
 
 1527
 02:50:08,450 --> 02:50:10,952
-SI QUIERES INSPIRARTE EN ÉL...
+SI QUIERES INSPIRARTE EN Ã‰L...
 
 1528
 02:50:11,119 --> 02:50:13,621
@@ -6560,12 +6560,12 @@ SI QUIERES INSPIRARTE EN ÉL...
 
 1529
 02:50:14,539 --> 02:50:16,124
-¿Por qué dijiste...
+Â¿Por quÃ© dijiste...
 
 1530
 02:50:16,291 --> 02:50:18,293
 ...que quienes son como yo
-tendrán que luchar?
+tendrÃ¡n que luchar?
 
 1531
 02:50:23,798 --> 02:50:25,925
@@ -6582,7 +6582,7 @@ ponte de pie.
 
 1534
 02:50:44,194 --> 02:50:46,070
-Lo repetiré solo una vez.
+Lo repetirÃ© solo una vez.
 
 1535
 02:50:46,237 --> 02:50:49,657
@@ -6599,34 +6599,34 @@ Apoya la frente en la pared.
 
 1538
 02:51:03,171 --> 02:51:07,425
-Pon las manos atrás
+Pon las manos atrÃ¡s
 para que pueda entrar y sujetarte.
 
 1539
 02:51:35,453 --> 02:51:38,206
 No importa lo que hagas
-ni adónde vayas...
+ni adÃ³nde vayas...
 
 1540
 02:51:38,373 --> 02:51:40,542
-...te estaré vigilando.
+...te estarÃ© vigilando.
 
 1541
 02:51:43,878 --> 02:51:45,672
-Míranos.
+MÃ­ranos.
 
 1542
 02:51:46,506 --> 02:51:48,424
-Así se derrumba todo.
+AsÃ­ se derrumba todo.
 
 1543
 02:51:48,591 --> 02:51:53,846
-La civilización en la Mansión Wayne
+La civilizaciÃ³n en la MansiÃ³n Wayne
 se va al diablo.
 
 1544
 02:51:58,309 --> 02:52:00,520
-Pero ¿quién me creerá?
+Pero Â¿quiÃ©n me creerÃ¡?
 
 1545
 02:52:01,229 --> 02:52:03,606
@@ -6638,25 +6638,25 @@ Ni siquiera pueden juzgarme.
 
 1547
 02:52:07,026 --> 02:52:08,903
-Así es.
+AsÃ­ es.
 
 1548
 02:52:09,070 --> 02:52:12,991
-Hay hospitales que tratan con compasión
+Hay hospitales que tratan con compasiÃ³n
 a los enfermos mentales.
 
 1549
 02:52:13,992 --> 02:52:16,160
-Pero tú no irás a uno de ellos.
+Pero tÃº no irÃ¡s a uno de ellos.
 
 1550
 02:52:16,327 --> 02:52:19,831
-Pedí que te transfieran
-al Manicomio Arkham de Gótica.
+PedÃ­ que te transfieran
+al Manicomio Arkham de GÃ³tica.
 
 1551
 02:52:21,040 --> 02:52:23,543
-Todavía tengo algunos amigos ahí.
+TodavÃ­a tengo algunos amigos ahÃ­.
 
 1552
 02:52:23,710 --> 02:52:25,503
@@ -6664,7 +6664,7 @@ Te esperan.
 
 1553
 02:52:29,716 --> 02:52:33,928
-Pero ya sonó la campana.
+Pero ya sonÃ³ la campana.
 
 1554
 02:52:36,472 --> 02:52:38,016
@@ -6680,19 +6680,19 @@ Entre las estrellas.
 
 1557
 02:52:47,275 --> 02:52:51,029
-Talán, talán, el dios murió.
+TalÃ¡n, talÃ¡n, el dios muriÃ³.
 
 1558
 02:53:00,371 --> 02:53:03,207
-¡Ya sonó, no hay vuelta atrás!
+Â¡Ya sonÃ³, no hay vuelta atrÃ¡s!
 
 1559
 02:53:04,292 --> 02:53:08,046
-Él tiene hambre. Nos encontró.
+Ã‰l tiene hambre. Nos encontrÃ³.
 
 1560
 02:53:09,047 --> 02:53:11,049
-Y ¡viene!
+Y Â¡viene!
 
 1562
 03:02:08,169 --> 03:02:12,631
