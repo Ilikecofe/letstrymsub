@@ -1,0 +1,37 @@
+msubtitles:
+  - source: https://raw.githubusercontent.com/Ilikecofe/letstrymsub/main/ani/snk/
+    subtitles:
+      - season: 4
+        items:
+          - path: 0401/S04E01_spa.srt
+            episode: 1
+          - path: 0401/S04E02_spa.srt
+            episode: 2
+          - path: 0401/S04E03_spa.srt
+            episode: 3
+          - path: 0401/S04E04_spa.srt
+            episode: 4
+          - path: 0401/S04E05_spa.srt
+            episode: 5
+          - path: 0401/S04E06_spa.srt
+            episode: 6
+          - path: 0401/S04E07_spa.srt
+            episode: 7
+          - path: 0401/S04E08_spa.srt
+            episode: 8
+          - path: 0401/S04E09_spa.srt
+            episode: 9
+          - path: 0401/S04E10_spa.srt
+            episode: 10
+          - path: 0401/S04E11_spa.srt
+            episode: 11
+          - path: 0401/S04E12_spa.srt
+            episode: 12
+          - path: 0401/S04E13_spa.srt
+            episode: 13
+          - path: 0401/S04E14_spa.srt
+            episode: 14
+          - path: 0401/S04E15_spa.srt
+            episode: 15
+          - path: 0401/S04E16_spa.srt
+            episode: 16
