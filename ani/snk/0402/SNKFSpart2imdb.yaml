@@ -1,7 +1,7 @@
 msubtitles:
   - source: https://raw.githubusercontent.com/Ilikecofe/letstrymsub/main/ani/snk/
     subtitles:
-      - season: 44240
+      - season: 4
         items:
           - path: 0402/S0402E01.srt
             episode: 1
