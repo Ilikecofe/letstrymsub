@@ -1,0 +1,29 @@
+msubtitles:
+  - source: https://raw.githubusercontent.com/Ilikecofe/letstrymsub/main/ani/snk/
+    subtitles:
+      - season: 44240
+        items:
+          - path: 0402/S0402E01.srt
+            episode: 1
+          - path: 0402/S0402E02.srt
+            episode: 2
+          - path: 0402/S0402E03.srt
+            episode: 3
+          - path: 0402/S0402E04.srt
+            episode: 4
+          - path: 0402/S0402E05.srt
+            episode: 5
+          - path: 0402/S0402E06.srt
+            episode: 6
+          - path: 0402/S0402E07.srt
+            episode: 7
+          - path: 0402/S0402E08.srt
+            episode: 8
+          - path: 0402/S0402E09.srt
+            episode: 9
+          - path: 0402/S0402E10.srt
+            episode: 10
+          - path: 0402/S0402E11.srt
+            episode: 11
+          - path: 0402/S0402E12.srt
+            episode: 12
