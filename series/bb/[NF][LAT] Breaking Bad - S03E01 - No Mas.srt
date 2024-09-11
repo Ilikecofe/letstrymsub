@@ -1,0 +1,1854 @@
+1
+00:04:03,367 --> 00:04:05,453
+BREAKING BAD:
+LA TERCERA TEMPORADA
+
+2
+00:04:05,619 --> 00:04:07,705
+No Más
+
+3
+00:04:14,503 --> 00:04:17,882
+<i>Interrumpimos la programación</i>
+<i>para darles la siguiente noticia.</i>
+
+4
+00:04:18,048 --> 00:04:20,217
+<i>Buenas tardes.</i>
+<i>En estos últimos minutos...</i>
+
+5
+00:04:20,384 --> 00:04:22,470
+<i>...KOB recibió docenas</i>
+<i>de informes...</i>
+
+6
+00:04:22,636 --> 00:04:26,140
+<i>...sobre lo que parece ser el choque</i>
+<i>de posiblemente dos aviones...</i>
+
+7
+00:04:26,307 --> 00:04:28,142
+<i>...en el lado este de Albuquerque.</i>
+
+8
+00:04:28,309 --> 00:04:29,935
+<i>Aún hay pocos detalles...</i>
+
+9
+00:04:30,102 --> 00:04:33,147
+<i>...pero los testigos describen</i>
+<i>una explosión en el aire...</i>
+
+10
+00:04:33,314 --> 00:04:35,399
+<i>...seguida de caída de restos.</i>
+
+11
+00:04:35,566 --> 00:04:38,944
+<i>Investigadores del Comité Nacional</i>
+<i>de Seguridad de Transporte...</i>
+
+12
+00:04:39,111 --> 00:04:41,947
+<i>...llegarán al lugar esta noche.</i>
+
+13
+00:04:42,114 --> 00:04:43,115
+<i>Pero advierten...</i>
+
+14
+00:04:43,282 --> 00:04:46,160
+<i>...que con semejante área</i>
+<i>cubierta de restos, la...</i>
+
+15
+00:04:46,327 --> 00:04:48,954
+<i>Los funcionarios dicen</i>
+<i>que el Boeing 737...</i>
+
+16
+00:04:49,121 --> 00:04:52,458
+<i>...estaba siendo redirigido</i>
+<i>o vectorizado...</i>
+
+17
+00:04:52,625 --> 00:04:55,920
+<i>...lo cual es procedimiento</i>
+<i>estándar, según un vocero.</i>
+
+18
+00:04:56,086 --> 00:04:59,423
+{\an8}<i>El King Air 350 de ocho plazas</i>
+<i>era un vuelo charter...</i>
+
+19
+00:04:59,590 --> 00:05:03,844
+{\an8}<i>...que despegó de St. George, Utah,</i>
+<i>con rumbo a Amarillo, Texas.</i>
+
+20
+00:05:04,011 --> 00:05:07,097
+<i>Sonó a granizo,</i>
+<i>como granizo pesado.</i>
+
+21
+00:05:07,264 --> 00:05:12,186
+<i>Se sintió pum, pum, pum,</i>
+<i>por todo el barrio.</i>
+
+22
+00:05:12,353 --> 00:05:17,066
+<i>...indican que la cifra de muertos</i>
+<i>es ahora de 167.</i>
+
+23
+00:05:19,568 --> 00:05:21,028
+<i>...ciento sesenta y siete.</i>
+
+24
+00:05:21,195 --> 00:05:23,531
+<i>Esta colisión en vuelo</i>
+<i>dejó interrogantes...</i>
+
+25
+00:05:23,697 --> 00:05:25,658
+<i>...sobre cómo pudo producirse...</i>
+
+26
+00:05:25,825 --> 00:05:27,493
+<i>...en un sistema tan seguro.</i>
+
+27
+00:05:27,660 --> 00:05:30,162
+<i>...que la colisión</i>
+<i>que derribó al vuelo 515...</i>
+
+28
+00:05:30,329 --> 00:05:33,791
+<i>...fue causada por fallas</i>
+<i>de control del tráfico aéreo.</i>
+
+29
+00:05:33,958 --> 00:05:36,836
+<i>Tenemos la confirmación</i>
+<i>de Oklahoma...</i>
+
+30
+00:05:37,002 --> 00:05:38,212
+<i>...mientras la FAA...</i>
+
+31
+00:05:38,379 --> 00:05:42,340
+<i>...asegura que fue un error de un</i>
+<i>solo controlador de tráfico aéreo...</i>
+
+32
+00:05:42,508 --> 00:05:44,134
+<i>...lo que produjo el accidente.</i>
+
+33
+00:05:44,969 --> 00:05:48,013
+<i>...Donald Margolis, veterano</i>
+<i>con 19 años de experiencia...</i>
+
+34
+00:05:48,180 --> 00:05:52,309
+<i>...del Centro de Control de Tráfico</i>
+<i>Aéreo de Albuquerque...</i>
+
+35
+00:05:52,476 --> 00:05:56,188
+<i>...Margolis recientemente volvió</i>
+<i>al trabajo, luego de cinco semanas...</i>
+
+36
+00:05:56,354 --> 00:05:58,649
+<i>...de licencia por</i>
+<i>"una pérdida personal".</i>
+
+37
+00:05:58,816 --> 00:06:02,736
+<i>Ahora se sabe que Margolis perdió</i>
+<i>una hija recientemente...</i>
+
+38
+00:06:02,903 --> 00:06:04,405
+<i>...por sobredosis de droga.</i>
+
+39
+00:06:04,572 --> 00:06:07,408
+<i>Su hija con problemas,</i>
+<i>Jane Margolis, de 26 años...</i>
+
+40
+00:06:07,575 --> 00:06:10,578
+<i>...tenía una larga historia</i>
+<i>de abuso de sustancias.</i>
+
+41
+00:06:10,744 --> 00:06:12,079
+<i>Amigos de la familia...</i>
+
+42
+00:06:12,246 --> 00:06:15,249
+<i>...dicen que la muerte de</i>
+<i>su única hija lo afectó mucho.</i>
+
+43
+00:06:15,416 --> 00:06:16,584
+NÚMERO DE MUERTOS: 167
+
+44
+00:06:16,750 --> 00:06:19,253
+<i>El deceso de hace</i>
+<i>poco más de un mes...</i>
+
+45
+00:06:19,420 --> 00:06:22,256
+<i>...hace cuestionar la fecha</i>
+<i>de regreso al trabajo...</i>
+
+46
+00:06:22,423 --> 00:06:24,758
+<i>...y cuánta culpa tienen en verdad...</i>
+
+47
+00:06:24,925 --> 00:06:27,219
+<i>...los que dejaron</i>
+<i>a este padre afligido...</i>
+
+48
+00:08:20,040 --> 00:08:22,876
+{\an8}Suelo empezar con
+"lamento tanto que estés aquí".
+
+49
+00:08:23,043 --> 00:08:25,170
+{\an8}¿Por dónde quieres empezar?
+
+50
+00:08:25,337 --> 00:08:28,382
+{\an8}En realidad necesito que sea
+rápido y fácil, ¿sabe?
+
+51
+00:08:28,549 --> 00:08:33,387
+{\an8}Tan rápido como algo como esto
+puede ser. Así que...
+
+52
+00:08:33,554 --> 00:08:39,059
+{\an8}De acuerdo. ¿Eso es mutuo?
+¿Su esposo está de acuerdo?
+
+53
+00:08:40,269 --> 00:08:41,478
+{\an8}¿Él sabe?
+
+54
+00:08:41,645 --> 00:08:45,399
+{\an8}Quiero decir, él sabe que
+estamos separados, así que...
+
+55
+00:08:45,566 --> 00:08:47,067
+{\an8}¿Él se mudó de la casa?
+
+56
+00:08:47,234 --> 00:08:49,361
+{\an8}Estamos en el proceso
+de su mudanza.
+
+57
+00:08:49,528 --> 00:08:50,738
+{\an8}Sí. Hoy.
+
+58
+00:08:50,904 --> 00:08:54,908
+{\an8}Y mientras tanto,
+mi hijo y mi hija...
+
+59
+00:08:55,075 --> 00:08:56,827
+...y yo vivimos con mi hermana.
+
+60
+00:08:56,994 --> 00:09:00,706
+{\an8}-¿Entonces, se fue usted?
+-Provisoriamente.
+
+61
+00:09:00,873 --> 00:09:03,167
+{\an8}Solo para que él
+saque sus cosas y...
+
+62
+00:09:03,333 --> 00:09:07,254
+{\an8}Eso debía pasar la semana pasada,
+pero luego fue el accidente...
+
+63
+00:09:07,421 --> 00:09:09,339
+{\an8}Dios, ¿fue de las que estaban...?
+
+64
+00:09:09,506 --> 00:09:12,426
+{\an8}Sí. Justo debajo
+de la ruta de vuelo.
+
+65
+00:09:12,593 --> 00:09:18,932
+Tenemos el jardín lleno de restos,
+y todo el barrio...
+
+66
+00:09:19,099 --> 00:09:21,935
+-Terrible.
+-Al parecer, hasta...
+
+67
+00:09:22,102 --> 00:09:25,105
+...ya sabe, partes de cuerpos.
+
+68
+00:09:25,272 --> 00:09:29,943
+Por eso, no pude
+reunir el coraje...
+
+69
+00:09:30,110 --> 00:09:32,112
+-Qué horrible.
+-Lo sé.
+
+70
+00:09:32,279 --> 00:09:35,616
+No estaba preparada
+para volver a casa. Pero es hora.
+
+71
+00:09:35,783 --> 00:09:40,704
+Estamos incomodando
+a mi hermana y su esposo.
+
+72
+00:09:40,871 --> 00:09:44,458
+{\an8}Le conviene mantener
+residencia en su verdadero hogar.
+
+73
+00:09:44,625 --> 00:09:48,378
+{\an8}La coloca en mejor posición
+en cuanto a la custodia.
+
+74
+00:09:48,545 --> 00:09:49,797
+{\an8}¿Dos hijos, dijo?
+
+75
+00:09:49,963 --> 00:09:56,762
+{\an8}Sí. Esta es Holly, y tengo un hijo
+en secundaria, Walter Jr.
+
+76
+00:09:58,555 --> 00:10:02,101
+{\an8}-Necesitan quedarse conmigo.
+-De acuerdo.
+
+77
+00:10:02,267 --> 00:10:05,312
+{\an8}-¿Cuánto estuvieron casados?
+-Dieciséis años.
+
+78
+00:10:05,479 --> 00:10:08,232
+{\an8}¿Y no viven en departamento,
+sino en una casa?
+
+79
+00:10:09,149 --> 00:10:11,652
+¿Es propietaria, tiene hipoteca...?
+
+80
+00:10:11,819 --> 00:10:16,782
+Sí, hay una hipoteca.
+Faltan como 15 años.
+
+81
+00:10:16,949 --> 00:10:19,827
+¿Otras deudas, o activos?
+
+82
+00:10:19,993 --> 00:10:22,079
+¿Cree que entiende bien...
+
+83
+00:10:22,246 --> 00:10:24,581
+...la situación financiera
+de su esposo?
+
+84
+00:10:28,502 --> 00:10:30,921
+-¿Su esposo tiene empleo?
+-El asunto es así.
+
+85
+00:10:31,088 --> 00:10:35,342
+No busco ninguna clase
+de fisura legal...
+
+86
+00:10:35,509 --> 00:10:39,847
+-...ni, no sé, solamente...
+-Nada de fisuras legales.
+
+87
+00:10:40,013 --> 00:10:44,351
+Solo quiero que mis clientes tengan
+completa y sincera contabilidad...
+
+88
+00:10:44,518 --> 00:10:48,689
+...de lo que deben
+y de lo que poseen.
+
+89
+00:10:48,856 --> 00:10:52,860
+Digamos que no dejamos
+piedra sin mover.
+
+90
+00:10:55,154 --> 00:10:59,116
+Se sorprenderá de lo que he visto
+a una pareja esconderse uno de otro.
+
+91
+00:11:29,730 --> 00:11:31,356
+¿Walt?
+
+92
+00:11:32,232 --> 00:11:33,483
+Hola, amigo.
+
+93
+00:11:45,746 --> 00:11:47,164
+Hola, Walt.
+
+94
+00:11:48,373 --> 00:11:49,541
+-Hola.
+-Aquí estás.
+
+95
+00:11:49,707 --> 00:11:52,586
+Escucha, yo... Ya sabes, bueno...
+
+96
+00:11:53,253 --> 00:11:55,088
+Es...
+
+97
+00:11:55,547 --> 00:11:57,090
+Es hora.
+
+98
+00:12:02,846 --> 00:12:05,515
+Es la peor semana desde el 9-11.
+Sin excepción.
+
+99
+00:12:05,682 --> 00:12:07,601
+Es así.
+Lo estamos viviendo.
+
+100
+00:12:07,768 --> 00:12:09,019
+Sé de qué hablo...
+
+101
+00:12:09,186 --> 00:12:11,897
+...porque tuvimos semanas
+de porquería estos meses.
+
+102
+00:12:12,064 --> 00:12:13,315
+¿Pero esto?
+
+103
+00:12:13,482 --> 00:12:16,610
+Llámala maldito Libro Guinness
+de Récords Mundiales. O...
+
+104
+00:12:16,777 --> 00:12:19,112
+¿Estoy hablando demasiado?
+Sí, ¿no? Lo sé.
+
+105
+00:12:19,279 --> 00:12:23,283
+Pero esta situación entre tú y...
+No lo sé.
+
+106
+00:12:23,492 --> 00:12:25,953
+No te preguntaré.
+No es asunto mío.
+
+107
+00:12:26,119 --> 00:12:28,247
+No quiero estar en medio
+de ustedes dos.
+
+108
+00:12:28,413 --> 00:12:30,249
+Solo digo, escucha, ¿de acuerdo?
+
+109
+00:12:30,415 --> 00:12:32,793
+Te bates en retirada táctica...
+
+110
+00:12:32,960 --> 00:12:36,380
+...te reagrupas, y luego...
+
+111
+00:12:36,546 --> 00:12:41,759
+Ya sabes, la ausencia hace...
+
+112
+00:12:45,973 --> 00:12:48,976
+Te apoyo, viejo.
+Te apoyo.
+
+113
+00:12:55,274 --> 00:12:57,609
+-No levantes peso. Lo tengo.
+-No, descuida.
+
+114
+00:12:57,775 --> 00:12:59,653
+Lo tengo.
+
+115
+00:12:59,820 --> 00:13:03,740
+Dios. ¿Qué tienes aquí, ladrillos?
+
+116
+00:13:06,994 --> 00:13:09,413
+Medio millón en efectivo.
+
+117
+00:13:14,918 --> 00:13:16,962
+Ese es el espíritu.
+
+118
+00:13:20,340 --> 00:13:22,467
+Lo tengo, lo tengo.
+
+119
+00:13:43,821 --> 00:13:45,906
+<i>¿Quién está aquí para mejorar?</i>
+
+120
+00:13:47,616 --> 00:13:50,326
+Vamos, levanten la mano.
+
+121
+00:13:50,953 --> 00:13:57,501
+¿Quiénes de ustedes están aquí
+con esperanza de mejorar lo que son?
+
+122
+00:14:01,797 --> 00:14:06,510
+Está bien.
+Ése es su primer error.
+
+123
+00:14:06,677 --> 00:14:10,180
+Deberían estar aquí,
+para aprender a aceptarse.
+
+124
+00:14:15,519 --> 00:14:16,687
+{\an8}LÍMITE POLICIAL
+NO CRUCE
+
+125
+00:14:16,854 --> 00:14:20,023
+Hola, cariño,
+¿quieres otro waffle?
+
+126
+00:14:20,816 --> 00:14:25,988
+Todavía tengo el molde en el fuego.
+Podría cortar unas bananas.
+
+127
+00:14:27,364 --> 00:14:32,244
+<i>Hola, se comunicó con Walt, Skyler,</i>
+<i>Flynn y Holly. Deje su mensaje.</i>
+
+128
+00:14:33,287 --> 00:14:35,664
+<i>Hola. Hola a todos.</i>
+<i>Buenos días.</i>
+
+129
+00:14:35,831 --> 00:14:37,207
+<i>Llamaba para reportarme...</i>
+
+130
+00:14:37,374 --> 00:14:41,003
+<i>...y se me ocurrió pasarles</i>
+<i>mi información de contacto.</i>
+
+131
+00:14:41,169 --> 00:14:43,463
+<i>Siempre pueden encontrarme</i>
+<i>en mi celular...</i>
+
+132
+00:14:43,630 --> 00:14:47,801
+<i>...siempre lo tengo conmigo, pero</i>
+<i>sobre la dirección de email...</i>
+
+133
+00:14:47,968 --> 00:14:50,053
+<i>...estoy aquí en el Beachcomber...</i>
+
+134
+00:14:50,220 --> 00:14:53,724
+<i>...y, saben qué, realmente</i>
+<i>es muy lindo, muy placentero.</i>
+
+135
+00:14:53,891 --> 00:14:56,476
+<i>No tan como el Oakwood,</i>
+<i>pero no tan lujoso.</i>
+
+136
+00:14:56,643 --> 00:15:01,148
+-Oye, ¿podrías, por favor...?
+-Hola, papá, soy yo.
+
+137
+00:15:02,357 --> 00:15:03,483
+No, no estoy bien.
+
+138
+00:15:03,650 --> 00:15:05,319
+No sé qué está pasando.
+
+139
+00:15:05,485 --> 00:15:07,404
+Nadie me dice una mierda.
+
+140
+00:15:07,571 --> 00:15:09,698
+-Flynn.
+-Lo que sea.
+
+141
+00:15:09,865 --> 00:15:11,658
+Ya ni siquiera me importa.
+
+142
+00:15:11,825 --> 00:15:14,244
+¿Puedes llevarme a la escuela?
+
+143
+00:15:14,411 --> 00:15:19,666
+-Yo te llevaré.
+-Sí. No, estoy listo ahora.
+
+144
+00:15:19,833 --> 00:15:23,003
+Flynn, yo te llevaré a la escuela.
+
+145
+00:15:23,921 --> 00:15:28,342
+Está bien, aquí estoy.
+Hasta pronto.
+
+146
+00:16:38,662 --> 00:16:40,372
+De acuerdo.
+
+147
+00:16:49,172 --> 00:16:51,258
+<i>Su atención, por favor.</i>
+
+148
+00:16:51,425 --> 00:16:55,178
+<i>Como saben, la semana pasada</i>
+<i>la ciudad sufrió una tragedia.</i>
+
+149
+00:16:55,387 --> 00:16:57,180
+<i>Que ninguno</i>
+<i>de nosotros olvidará.</i>
+
+150
+00:16:57,347 --> 00:17:01,018
+<i>Por eso hoy, cederemos un breve</i>
+<i>tiempo de nuestras tareas...</i>
+
+151
+00:17:01,184 --> 00:17:03,854
+<i>...para reunirnos en el gimnasio</i>
+<i>y hablar.</i>
+
+152
+00:17:04,688 --> 00:17:11,528
+Me resulta, ya saben, muy,
+muy difícil concentrarme.
+
+153
+00:17:12,362 --> 00:17:17,367
+Por todos los horrores
+que percibimos.
+
+154
+00:17:18,160 --> 00:17:21,413
+Es que realmente te afecta y...
+
+155
+00:17:22,039 --> 00:17:26,668
+En la universidad, tienen eso de que
+si tu compañero de cuarto se suicida...
+
+156
+00:17:26,835 --> 00:17:30,547
+...si vas a tu casa y lo encuentras
+colgado en el armario...
+
+157
+00:17:30,714 --> 00:17:34,676
+...básicamente tendrás
+una A automáticamente.
+
+158
+00:17:34,843 --> 00:17:38,388
+Y para mí, esa clase
+de compasión es...
+
+159
+00:17:38,555 --> 00:17:41,224
+-Es algo que...
+-Bueno. Gracias, Barry.
+
+160
+00:17:41,391 --> 00:17:43,018
+¿Quién sigue?
+
+161
+00:17:46,063 --> 00:17:48,648
+Sin críticas, chicos.
+Sentimientos solamente.
+
+162
+00:17:49,066 --> 00:17:54,446
+Pueden decir lo que sea
+y todo lo que estén pensando.
+
+163
+00:17:58,241 --> 00:17:59,493
+Aquí tienes, cariño.
+
+164
+00:18:01,536 --> 00:18:03,830
+No dejo de preguntarme...
+
+165
+00:18:03,997 --> 00:18:07,084
+Cariño, ¿podrías pararte, por favor?
+
+166
+00:18:08,752 --> 00:18:09,878
+Gracias.
+
+167
+00:18:10,045 --> 00:18:13,548
+No dejo de preguntarme:
+"¿Por qué tenía que suceder esto?
+
+168
+00:18:15,217 --> 00:18:17,052
+Digo, si Dios existe
+y todo eso...
+
+169
+00:18:17,219 --> 00:18:20,764
+...¿por qué deja que muera
+gente inocente...
+
+170
+00:18:20,972 --> 00:18:24,267
+Bien. Dejemos lo religioso.
+Mantengámoslo secular, cariño.
+
+171
+00:18:24,434 --> 00:18:28,063
+En fin, no estuve durmiendo bien.
+
+172
+00:18:28,522 --> 00:18:30,524
+¿A alguien más le pasa eso?
+
+173
+00:18:33,026 --> 00:18:36,571
+No dejo de oír ese sonido.
+
+174
+00:18:37,614 --> 00:18:40,617
+Esa explosión.
+
+175
+00:18:41,451 --> 00:18:45,872
+No dejo de oírlo como
+si nunca fuese a parar.
+
+176
+00:18:49,918 --> 00:18:52,129
+Gracias, cariño.
+
+177
+00:18:52,295 --> 00:18:56,258
+-¿Hay alguien más?
+-Aquí.
+
+178
+00:19:00,804 --> 00:19:05,058
+Me vecino oyó el choque...
+
+179
+00:19:05,267 --> 00:19:09,312
+...y corrió afuera,
+y encontró un asiento...
+
+180
+00:19:09,813 --> 00:19:11,606
+Como un asiento de avión.
+
+181
+00:19:11,773 --> 00:19:13,483
+Como los que hay en un avión.
+
+182
+00:19:13,650 --> 00:19:18,321
+Bueno, el asiento estaba
+perfectamente parado en su jardín...
+
+183
+00:19:18,530 --> 00:19:23,160
+...justo junto a sus motos de agua,
+porque tiene motos de agua.
+
+184
+00:19:23,326 --> 00:19:27,789
+Pero aún había un par de piernas
+abrochadas con el cinturón.
+
+185
+00:19:28,498 --> 00:19:30,250
+Piernas humanas.
+
+186
+00:19:32,085 --> 00:19:33,920
+Jesucristo Santo.
+
+187
+00:19:37,299 --> 00:19:39,968
+-¿Está bien?
+-Sí, perdón. Yo...
+
+188
+00:19:41,011 --> 00:19:43,305
+Solamente me conmoví.
+
+189
+00:19:44,347 --> 00:19:46,433
+Quizá debamos oír a la facultad.
+
+190
+00:19:46,600 --> 00:19:51,813
+Sin duda, esta tragedia no solo
+afectó a nuestros estudiantes.
+
+191
+00:19:52,272 --> 00:19:54,941
+Señor White, ¿quiere decir algo?
+
+192
+00:19:55,984 --> 00:19:59,112
+Y dicho sea de paso:
+"Bienvenido de vuelta"
+
+193
+00:20:09,206 --> 00:20:10,957
+Es un placer tenerlo de vuelta.
+
+194
+00:20:27,224 --> 00:20:31,645
+Creo que lo que yo...
+
+195
+00:20:34,522 --> 00:20:38,026
+Lo que querría contar es...
+
+196
+00:20:39,152 --> 00:20:43,031
+...que miremos el lado bueno.
+
+197
+00:20:45,742 --> 00:20:48,912
+En primer lugar,
+nadie en tierra salió lastimado.
+
+198
+00:20:49,079 --> 00:20:50,538
+Y eso...
+
+199
+00:20:50,705 --> 00:20:55,210
+...digo, ¿un incidente como éste,
+en un centro urbano poblado?
+
+200
+00:20:55,377 --> 00:21:01,174
+Eso, justo ahí. Eso tiene
+que ser un milagro menor.
+
+201
+00:21:01,341 --> 00:21:04,594
+Además, ningún avión estaba lleno.
+
+202
+00:21:04,761 --> 00:21:11,268
+El 737 tenía tal vez dos tercios
+de los pasajeros, creo. ¿Sí?
+
+203
+00:21:11,434 --> 00:21:13,853
+¿O tal vez hasta tres cuartos?
+
+204
+00:21:14,020 --> 00:21:18,566
+De cualquier modo, según
+la cantidad de víctimas, tenemos...
+
+205
+00:21:18,733 --> 00:21:22,779
+..un desastre aéreo que ocupa
+el número 50.
+
+206
+00:21:22,946 --> 00:21:25,949
+En realidad, empató en el 50.
+
+207
+00:21:26,116 --> 00:21:28,952
+En realidad, hay...
+
+208
+00:21:29,577 --> 00:21:34,457
+...53 accidentes en la historia...
+
+209
+00:21:34,624 --> 00:21:38,920
+...tan malos o peores. Tenerife.
+
+210
+00:21:39,087 --> 00:21:43,091
+¿Alguien...?
+¿Nadie oyó hablar de Tenerife?
+
+211
+00:21:43,758 --> 00:21:48,430
+En 1977, dos aviones 747
+totalmente cargados...
+
+212
+00:21:48,596 --> 00:21:51,141
+...chocaron uno con otro
+en Tenerife.
+
+213
+00:21:52,100 --> 00:21:55,312
+¿Alguien sabe qué tan grande
+es un 747?
+
+214
+00:21:55,478 --> 00:21:59,733
+Es mucho más grande que un 737,
+y hablamos de dos.
+
+215
+00:21:59,899 --> 00:22:04,237
+Casi 600 personas
+murieron en Tenerife.
+
+216
+00:22:04,404 --> 00:22:09,993
+Pero, ¿alguno de Uds.
+recuerda, siquiera? Lo dudo.
+
+217
+00:22:10,201 --> 00:22:16,333
+¿Saben por qué?
+Porque las personas siguen adelante.
+
+218
+00:22:17,334 --> 00:22:18,668
+Siguen adelante.
+
+219
+00:22:18,835 --> 00:22:22,422
+Y nosotros también lo haremos.
+Seguiremos y superaremos esto.
+
+220
+00:22:22,589 --> 00:22:29,346
+Porque eso es lo que los seres
+humanos hacen, sobrevivimos y...
+
+221
+00:22:30,221 --> 00:22:35,101
+Sobrevivimos y lo superamos. Sí.
+
+222
+00:22:35,810 --> 00:22:39,481
+Sobrevivimos. Sobrevivimos y...
+
+223
+00:22:39,647 --> 00:22:43,109
+-¿De acuerdo?
+-Gracias.
+
+224
+00:22:44,027 --> 00:22:45,528
+Bien.
+
+225
+00:25:24,602 --> 00:25:27,022
+¿Cómo está tu tía Marie?
+
+226
+00:25:28,690 --> 00:25:31,359
+Bien. Creo.
+
+227
+00:25:32,569 --> 00:25:35,113
+Salúdala de mi parte, ¿sí?
+
+228
+00:25:35,280 --> 00:25:39,284
+¿Por qué no entras?
+Es tu casa.
+
+229
+00:25:40,285 --> 00:25:42,245
+No, yo...
+
+230
+00:26:17,447 --> 00:26:18,823
+Se fue.
+
+231
+00:26:22,744 --> 00:26:24,954
+Hola, Flynn. ¿Qué onda?
+
+232
+00:26:25,121 --> 00:26:28,166
+-¿Qué?
+-Onda. Es una expresión.
+
+233
+00:26:28,333 --> 00:26:30,085
+¿Cómo estás?
+
+234
+00:26:30,251 --> 00:26:33,463
+¿Por qué tienes que tratarle así?
+
+235
+00:26:33,630 --> 00:26:35,131
+¿Por qué tienes
+que ser así?
+
+236
+00:26:35,298 --> 00:26:39,844
+-¿Por qué no hablas con sinceridad?
+-Oye, oye. Cálmate, ¿sí?
+
+237
+00:26:52,023 --> 00:26:54,567
+De la boca de los niños, ¿eh?
+
+238
+00:26:59,280 --> 00:27:01,491
+Trata de no tomarlo
+contra él.
+
+239
+00:27:01,658 --> 00:27:07,330
+El pobre chico debe estar
+muriendo de curiosidad.
+
+240
+00:27:07,497 --> 00:27:12,836
+Creo que sería natural
+que se pregunte.
+
+241
+00:27:13,002 --> 00:27:16,630
+Debe preguntarse:
+"¿Qué podría estar tan mal...
+
+242
+00:27:16,798 --> 00:27:19,509
+-Marie. Marie.
+-...para que mi madre se vaya?"
+
+243
+00:27:19,676 --> 00:27:21,469
+No puedo ayudarte en esto...
+
+244
+00:27:21,635 --> 00:27:24,722
+...si no me dices qué hizo Walt.
+
+245
+00:27:24,889 --> 00:27:28,393
+Sabes, no recuerdo
+habértelo pedido, ¿sí?
+
+246
+00:27:28,601 --> 00:27:32,063
+Si quieres darme apoyo,
+lo harás si no te entrometes.
+
+247
+00:27:32,230 --> 00:27:34,190
+-Eso sería genial...
+-"Entrometas".
+
+248
+00:27:34,357 --> 00:27:38,403
+-...y tan útil.
+-"Entrometas" es una palabra fuerte.
+
+249
+00:27:44,993 --> 00:27:49,164
+Es esa voz dentro de tu mente.
+
+250
+00:27:50,915 --> 00:27:55,211
+Esa voz tramposa, mal nacida
+que nunca descansa.
+
+251
+00:27:56,421 --> 00:27:57,922
+Saben de lo que hablo.
+
+252
+00:27:58,131 --> 00:28:00,925
+La voz que te dice
+que no eres lo bastante bueno.
+
+253
+00:28:01,217 --> 00:28:05,096
+¿No eres bueno para qué?
+¿Para ser presidente...
+
+254
+00:28:05,263 --> 00:28:07,515
+...de los Estados Unidos, o qué?
+
+255
+00:28:08,850 --> 00:28:11,019
+Bueno, tal vez no eres tan bueno.
+
+256
+00:28:11,853 --> 00:28:12,896
+Pero ahora...
+
+257
+00:28:13,062 --> 00:28:17,901
+...¿eres bastante bueno para merecer
+tu ración de felicidad humana?
+
+258
+00:28:18,692 --> 00:28:23,072
+¿Lo bastante bueno para estar bien
+con quién y qué eres?
+
+259
+00:28:23,239 --> 00:28:25,450
+Yo digo que sí.
+
+260
+00:28:29,662 --> 00:28:31,789
+Pero no importa qué diga yo.
+
+261
+00:28:32,290 --> 00:28:35,126
+Es tu voz, o sea que eres
+el único que la oye.
+
+262
+00:28:35,293 --> 00:28:39,297
+Y el único que puede
+luchar contra ella, ¿no?
+
+263
+00:28:39,464 --> 00:28:43,301
+Jesse, nunca oímos
+nada de ti.
+
+264
+00:28:44,427 --> 00:28:49,307
+¿Qué pasa? Puedes decirme
+que esto es una porquería.
+
+265
+00:28:49,474 --> 00:28:52,977
+Vamos. Cuéntanos.
+
+266
+00:28:59,817 --> 00:29:04,113
+¿Y qué te convierte en experto?
+
+267
+00:29:05,156 --> 00:29:06,991
+No creo haber dicho que lo soy.
+
+268
+00:29:07,158 --> 00:29:09,827
+Sí, pero eres el que está
+aquí sentado, ¿no?
+
+269
+00:29:09,994 --> 00:29:16,834
+Diciéndonos "esto" y "aquello",
+"sé feliz", "perdónate", y bla, bla.
+
+270
+00:29:17,794 --> 00:29:20,421
+¿Alguna vez lastimaste
+a alguien en serio?
+
+271
+00:29:21,297 --> 00:29:25,802
+No me refiero a desilusionar
+a tu madre o eso...
+
+272
+00:29:25,969 --> 00:29:31,849
+...sino, ¿lastimaste a alguien
+alguna vez?
+
+273
+00:29:34,686 --> 00:29:37,355
+Maté a mi hija.
+
+274
+00:29:42,360 --> 00:29:47,824
+Fue el 18 de julio,
+mi cumpleaños.
+
+275
+00:29:47,991 --> 00:29:52,370
+18 de julio de 1992.
+
+276
+00:29:52,537 --> 00:29:56,207
+Yo estaba drogado con cocaína
+y borracho.
+
+277
+00:29:56,374 --> 00:30:00,670
+La cocaína no era problema. Me había
+comprado dos gramos como regalo.
+
+278
+00:30:00,837 --> 00:30:02,338
+Me quedaba mucha.
+
+279
+00:30:02,505 --> 00:30:05,133
+Pero se me había acabado el vodka.
+
+280
+00:30:05,300 --> 00:30:07,218
+Y esto fue
+en Portsmouth, Virginia...
+
+281
+00:30:07,385 --> 00:30:10,680
+...donde en vez de vender alcohol
+en supermercados...
+
+282
+00:30:10,847 --> 00:30:12,640
+...tienen esas tiendas ABC...
+
+283
+00:30:12,807 --> 00:30:18,771
+...que cierran a las cinco
+de la tarde y eran como las 4:42.
+
+284
+00:30:19,397 --> 00:30:22,859
+Así que discutí con mi esposa.
+
+285
+00:30:23,026 --> 00:30:26,863
+"Vamos. Ve al ABC por mí,
+es mi cumpleaños.
+
+286
+00:30:27,030 --> 00:30:31,576
+Vamos. A mí no me lo van a vender".
+
+287
+00:30:32,368 --> 00:30:34,996
+Y ella decía que no, no.
+
+288
+00:30:36,080 --> 00:30:41,044
+Así que me enfadé. Y corría la hora,
+por eso me subí a mi camioneta.
+
+289
+00:30:42,003 --> 00:30:45,715
+Ella era mi hija de seis años.
+
+290
+00:30:46,924 --> 00:30:50,053
+Estaba jugando
+al final de la entrada de autos.
+
+291
+00:30:51,387 --> 00:30:53,765
+Así que...
+
+292
+00:30:59,854 --> 00:31:02,523
+¿Cómo no te odias a ti mismo?
+
+293
+00:31:03,358 --> 00:31:06,778
+Me odié a mí mismo
+por mucho tiempo.
+
+294
+00:31:07,862 --> 00:31:11,908
+Pero eso no evitó que me
+siguiera embriagando y drogando.
+
+295
+00:31:12,075 --> 00:31:14,786
+Solamente lo empeoró mucho más.
+
+296
+00:31:16,871 --> 00:31:21,459
+Odio contra uno mismo, culpa,
+no llevan a nada.
+
+297
+00:31:21,626 --> 00:31:24,295
+Solo se interponen en el camino.
+
+298
+00:31:25,296 --> 00:31:27,590
+¿En el camino de qué?
+
+299
+00:31:28,341 --> 00:31:30,134
+Del verdadero cambio.
+
+300
+00:32:00,623 --> 00:32:02,375
+Skyler.
+
+301
+00:32:02,875 --> 00:32:04,752
+¿Es buen momento
+para hablar?
+
+302
+00:32:05,920 --> 00:32:08,506
+Sí. Pasa. Por favor.
+
+303
+00:32:14,262 --> 00:32:16,139
+Skyler.
+
+304
+00:32:36,325 --> 00:32:38,619
+¿Quieres empezar?
+
+305
+00:32:48,212 --> 00:32:49,881
+Está bien.
+
+306
+00:33:09,984 --> 00:33:14,155
+¿Por qué haces esto?
+¿Por qué piensas esto siquiera?
+
+307
+00:33:14,322 --> 00:33:18,409
+-¿Para castigarme?
+-No te estoy castigando, Walt.
+
+308
+00:33:18,576 --> 00:33:23,873
+Esto es punitivo, es eso.
+Estamos felizmente casados.
+
+309
+00:33:24,582 --> 00:33:30,046
+Yo estoy felizmente casado.
+Soy feliz. Solamente estamos...
+
+310
+00:33:36,010 --> 00:33:42,099
+Te amo, Skyler.
+Y haría cualquier cosa por ti.
+
+311
+00:33:44,101 --> 00:33:49,607
+¿Siquiera considerarías...!
+Digo, ¡Dios!
+
+312
+00:33:49,774 --> 00:33:53,277
+Vienes y me lanzas
+estos papeles en la cara...
+
+313
+00:33:53,444 --> 00:33:58,449
+...mientras hay toda otra versión
+en este asunto.
+
+314
+00:33:58,616 --> 00:34:02,620
+Están tu versión y mi versión,
+y todavía no oíste mi versión.
+
+315
+00:34:02,787 --> 00:34:04,580
+No oíste nada en absoluto.
+
+316
+00:34:04,747 --> 00:34:06,916
+Eres un narcotraficante.
+
+317
+00:34:10,878 --> 00:34:15,132
+No. ¿Qué...? ¿Cómo...? ¿Qué?
+
+318
+00:34:24,600 --> 00:34:26,435
+Sí.
+
+319
+00:34:28,145 --> 00:34:31,816
+¿De qué otro modo podrías
+ganar tanto dinero?
+
+320
+00:34:35,611 --> 00:34:40,783
+Marihuana.
+El chico Pinkman.
+
+321
+00:34:48,499 --> 00:34:50,001
+¿No?
+
+322
+00:34:52,503 --> 00:34:55,172
+Dios mío, Walt.
+
+323
+00:34:57,508 --> 00:34:59,093
+¿Cocaína?
+
+324
+00:35:03,097 --> 00:35:04,932
+Es metanfetamina.
+
+325
+00:35:07,685 --> 00:35:12,273
+Pero soy fabricante,
+no traficante...
+
+326
+00:35:14,358 --> 00:35:16,694
+...per se.
+
+327
+00:35:16,861 --> 00:35:20,489
+No significa que... ¡No, Skyler!
+
+328
+00:35:21,157 --> 00:35:23,200
+-Escúchame, Skyler, escucha.
+-¡No, no!
+
+329
+00:35:23,367 --> 00:35:26,829
+Esto tiene muchos aspectos.
+Es complicado, ¿de acuerdo?
+
+330
+00:35:26,996 --> 00:35:32,001
+Por favor... Por favor,
+sentémonos a hablar de esto.
+
+331
+00:35:32,543 --> 00:35:34,962
+Haré un trato contigo, Walt.
+
+332
+00:35:35,129 --> 00:35:39,884
+No le diré a Hank,
+ni a tus hijos, ni a nadie.
+
+333
+00:35:40,092 --> 00:35:41,969
+Nadie se enterará por mí.
+
+334
+00:35:42,136 --> 00:35:45,890
+Pero solo si me concedes el divorcio
+y no te metes en nuestras vidas.
+
+335
+00:35:46,098 --> 00:35:48,643
+-No, Skyler.
+-Lo digo en serio.
+
+336
+00:35:49,226 --> 00:35:52,355
+Ahora, déjame salir
+antes de que vomite.
+
+337
+00:36:10,037 --> 00:36:11,372
+Adiós, Jesse.
+
+338
+00:36:28,764 --> 00:36:31,225
+Tu parabrisas está roto.
+
+339
+00:36:33,853 --> 00:36:35,396
+Sí.
+
+340
+00:36:41,611 --> 00:36:45,114
+Hay un poco de fricción
+en el matrimonio.
+
+341
+00:36:45,281 --> 00:36:48,284
+Es temporal, nada más. Estamos...
+
+342
+00:36:48,451 --> 00:36:50,703
+Nos estamos tomando un tiempo.
+
+343
+00:36:52,872 --> 00:36:55,458
+Te quedarás allí.
+
+344
+00:36:57,293 --> 00:37:00,296
+Escucha, el dinero.
+
+345
+00:37:00,755 --> 00:37:03,925
+Saul te lo guarda,
+en cuanto te sientas mejor...
+
+346
+00:37:04,091 --> 00:37:05,968
+Estoy mejor.
+
+347
+00:37:06,761 --> 00:37:10,306
+¿Estás mejor? ¿En serio?
+
+348
+00:37:10,681 --> 00:37:16,812
+-¿La rehabilitación? ¿Ayudó?
+-Sí. Ya no consumo.
+
+349
+00:37:18,898 --> 00:37:21,108
+Excelente. Es...
+
+350
+00:37:22,318 --> 00:37:27,114
+Eso es muy bueno, Jesse.
+Muchacho, muy bien.
+
+351
+00:37:28,282 --> 00:37:34,080
+A pesar de lo mal
+que se pusieron las cosas...
+
+352
+00:37:34,247 --> 00:37:38,834
+...podría considerarse un llamado
+de atención para ambos.
+
+353
+00:37:39,001 --> 00:37:44,006
+Ya sabes, para retomar
+nuestras vidas...
+
+354
+00:37:44,173 --> 00:37:48,344
+...por el buen camino.
+
+355
+00:37:51,514 --> 00:37:54,100
+¿Estuviste siguiendo
+el accidente de los aviones?
+
+356
+00:37:55,851 --> 00:37:57,353
+Sí.
+
+357
+00:37:58,145 --> 00:38:02,316
+¿Sabes que fue el papá de Jane
+quien los hizo chocar por accidente?
+
+358
+00:38:02,858 --> 00:38:04,527
+¿Por estar tan destrozado?
+
+359
+00:38:04,735 --> 00:38:07,947
+De acuerdo, déjame detenerte
+allí, ¿de acuerdo?
+
+360
+00:38:08,531 --> 00:38:10,658
+No eres responsable de esto.
+
+361
+00:38:10,825 --> 00:38:13,995
+De ninguna manera posible.
+
+362
+00:38:14,161 --> 00:38:18,541
+Estoy muy al tanto de esto,
+quizá más que tú...
+
+363
+00:38:18,749 --> 00:38:22,670
+...y hay muchos factores en juego.
+
+364
+00:38:22,837 --> 00:38:24,297
+¿Sí?
+
+365
+00:38:24,463 --> 00:38:29,677
+Por ejemplo, hay un radar
+de colisión en el jet...
+
+366
+00:38:29,844 --> 00:38:31,554
+...que pudo no haber funcionado.
+
+367
+00:38:31,762 --> 00:38:33,889
+Está en registro público.
+Puedes verlo.
+
+368
+00:38:34,056 --> 00:38:37,727
+Y todo el sistema tiene
+tecnología de los años 60.
+
+369
+00:38:37,893 --> 00:38:39,186
+No.
+
+370
+00:38:39,979 --> 00:38:44,400
+No, en serio.
+Yo culpo al gobierno.
+
+371
+00:38:46,152 --> 00:38:51,073
+Uno huye de las cosas,
+o las enfrenta, señor White.
+
+372
+00:38:51,240 --> 00:38:55,161
+-¿Qué significa eso exactamente?
+-Lo aprendí en rehabilitación.
+
+373
+00:38:56,787 --> 00:38:59,915
+Se trata de aceptarse
+como uno es realmente.
+
+374
+00:39:01,083 --> 00:39:03,044
+Acepto quién soy.
+
+375
+00:39:03,210 --> 00:39:04,503
+¿Y quién eres?
+
+376
+00:39:06,297 --> 00:39:08,341
+Soy el tipo malo.
+
+377
+00:39:26,317 --> 00:39:28,319
+Aquí tienen unas servilletas.
+
+378
+00:39:29,028 --> 00:39:30,446
+Que disfruten.
+
+379
+00:39:34,325 --> 00:39:37,870
+-¿La comida está a su gusto?
+-Mucho.
+
+380
+00:39:38,412 --> 00:39:40,581
+Es bueno volver a verlo.
+
+381
+00:39:43,918 --> 00:39:45,836
+-¿Puedo?
+-Por favor.
+
+382
+00:39:51,550 --> 00:39:54,970
+Tengo una oferta
+que creo le interesará.
+
+383
+00:39:57,139 --> 00:40:01,852
+En realidad no vine a...
+
+384
+00:40:04,271 --> 00:40:10,152
+Vine porque le debo
+la cortesía y el respeto...
+
+385
+00:40:10,361 --> 00:40:12,905
+...para decirle esto personalmente.
+
+386
+00:40:15,282 --> 00:40:16,784
+He terminado.
+
+387
+00:40:18,661 --> 00:40:21,872
+No tiene nada que ver
+con usted personalmente.
+
+388
+00:40:22,873 --> 00:40:25,167
+Lo considero un
+profesional extraordinario.
+
+389
+00:40:25,334 --> 00:40:27,670
+Y aprecio su manera
+de hacer negocios.
+
+390
+00:40:28,170 --> 00:40:33,342
+Simplemente estoy haciendo
+un cambio en mi vida.
+
+391
+00:40:33,509 --> 00:40:39,140
+Y estoy...
+Estoy en una encrucijada...
+
+392
+00:40:40,141 --> 00:40:45,020
+...que me llevó
+a una toma de conciencia.
+
+393
+00:40:47,356 --> 00:40:49,900
+No soy un delincuente.
+
+394
+00:40:52,278 --> 00:40:54,822
+Sin ánimo de ofender
+a la gente que lo es.
+
+395
+00:40:59,618 --> 00:41:01,704
+Pero yo no soy así.
+
+396
+00:41:04,165 --> 00:41:07,001
+No obstante eso, quisiera
+que escuchara mi oferta.
+
+397
+00:41:08,836 --> 00:41:11,213
+No cambiaré de idea, lo siento.
+
+398
+00:41:11,422 --> 00:41:15,676
+Tres millones de dólares,
+por tres meses de su tiempo.
+
+399
+00:41:18,512 --> 00:41:21,807
+Tres meses, luego terminará.
+
+400
+00:41:27,521 --> 00:41:29,690
+¿Tres millones?
+
+401
+00:41:31,734 --> 00:41:35,070
+¿Puedo tomarlo como un "sí"?
+
+402
+00:41:43,662 --> 00:41:48,501
+Tengo dinero. Tengo más dinero
+del que sé cómo gastar.
+
+403
+00:41:49,502 --> 00:41:53,255
+Lo que no tengo es mi familia.
+
+404
+00:41:54,757 --> 00:41:57,551
+La respuesta sigue siendo no.
+
+405
+00:42:03,516 --> 00:42:05,601
+Disfrute su comida.
+
+406
+00:42:11,607 --> 00:42:13,192
+Gracias.
+
+407
+00:44:17,900 --> 00:44:20,486
+¿Qué diablos pasa ahí adentro?
+
